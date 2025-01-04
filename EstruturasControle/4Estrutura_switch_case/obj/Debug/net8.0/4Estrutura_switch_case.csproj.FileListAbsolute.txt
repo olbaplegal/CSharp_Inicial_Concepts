@@ -1,0 +1,14 @@
+C:\dev\EstruturasControle\4Estrutura_switch_case\bin\Debug\net8.0\4Estrutura_switch_case.exe
+C:\dev\EstruturasControle\4Estrutura_switch_case\bin\Debug\net8.0\4Estrutura_switch_case.deps.json
+C:\dev\EstruturasControle\4Estrutura_switch_case\bin\Debug\net8.0\4Estrutura_switch_case.runtimeconfig.json
+C:\dev\EstruturasControle\4Estrutura_switch_case\bin\Debug\net8.0\4Estrutura_switch_case.dll
+C:\dev\EstruturasControle\4Estrutura_switch_case\bin\Debug\net8.0\4Estrutura_switch_case.pdb
+C:\dev\EstruturasControle\4Estrutura_switch_case\obj\Debug\net8.0\4Estrutura_switch_case.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\EstruturasControle\4Estrutura_switch_case\obj\Debug\net8.0\4Estrutura_switch_case.AssemblyInfoInputs.cache
+C:\dev\EstruturasControle\4Estrutura_switch_case\obj\Debug\net8.0\4Estrutura_switch_case.AssemblyInfo.cs
+C:\dev\EstruturasControle\4Estrutura_switch_case\obj\Debug\net8.0\4Estrutura_switch_case.csproj.CoreCompileInputs.cache
+C:\dev\EstruturasControle\4Estrutura_switch_case\obj\Debug\net8.0\4Estrutura_switch_case.dll
+C:\dev\EstruturasControle\4Estrutura_switch_case\obj\Debug\net8.0\refint\4Estrutura_switch_case.dll
+C:\dev\EstruturasControle\4Estrutura_switch_case\obj\Debug\net8.0\4Estrutura_switch_case.pdb
+C:\dev\EstruturasControle\4Estrutura_switch_case\obj\Debug\net8.0\4Estrutura_switch_case.genruntimeconfig.cache
+C:\dev\EstruturasControle\4Estrutura_switch_case\obj\Debug\net8.0\ref\4Estrutura_switch_case.dll

@@ -1,0 +1,15 @@
+C:\dev\CSFundamentos1\InferenciaTipos1\bin\Debug\net8.0\InferenciaTipos1.exe
+C:\dev\CSFundamentos1\InferenciaTipos1\bin\Debug\net8.0\InferenciaTipos1.deps.json
+C:\dev\CSFundamentos1\InferenciaTipos1\bin\Debug\net8.0\InferenciaTipos1.runtimeconfig.json
+C:\dev\CSFundamentos1\InferenciaTipos1\bin\Debug\net8.0\InferenciaTipos1.dll
+C:\dev\CSFundamentos1\InferenciaTipos1\bin\Debug\net8.0\InferenciaTipos1.pdb
+C:\dev\CSFundamentos1\InferenciaTipos1\obj\Debug\net8.0\InferenciaTipos1.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\CSFundamentos1\InferenciaTipos1\obj\Debug\net8.0\InferenciaTipos1.AssemblyInfoInputs.cache
+C:\dev\CSFundamentos1\InferenciaTipos1\obj\Debug\net8.0\InferenciaTipos1.AssemblyInfo.cs
+C:\dev\CSFundamentos1\InferenciaTipos1\obj\Debug\net8.0\InferenciaTipos1.csproj.CoreCompileInputs.cache
+C:\dev\CSFundamentos1\InferenciaTipos1\obj\Debug\net8.0\InferenciaTipos1.sourcelink.json
+C:\dev\CSFundamentos1\InferenciaTipos1\obj\Debug\net8.0\InferenciaTipos1.dll
+C:\dev\CSFundamentos1\InferenciaTipos1\obj\Debug\net8.0\refint\InferenciaTipos1.dll
+C:\dev\CSFundamentos1\InferenciaTipos1\obj\Debug\net8.0\InferenciaTipos1.pdb
+C:\dev\CSFundamentos1\InferenciaTipos1\obj\Debug\net8.0\InferenciaTipos1.genruntimeconfig.cache
+C:\dev\CSFundamentos1\InferenciaTipos1\obj\Debug\net8.0\ref\InferenciaTipos1.dll

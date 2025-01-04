@@ -1,0 +1,14 @@
+C:\dev\EstruturasControle\Repeticao_goto\bin\Debug\net8.0\Repeticao_goto.exe
+C:\dev\EstruturasControle\Repeticao_goto\bin\Debug\net8.0\Repeticao_goto.deps.json
+C:\dev\EstruturasControle\Repeticao_goto\bin\Debug\net8.0\Repeticao_goto.runtimeconfig.json
+C:\dev\EstruturasControle\Repeticao_goto\bin\Debug\net8.0\Repeticao_goto.dll
+C:\dev\EstruturasControle\Repeticao_goto\bin\Debug\net8.0\Repeticao_goto.pdb
+C:\dev\EstruturasControle\Repeticao_goto\obj\Debug\net8.0\Repeticao_goto.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\EstruturasControle\Repeticao_goto\obj\Debug\net8.0\Repeticao_goto.AssemblyInfoInputs.cache
+C:\dev\EstruturasControle\Repeticao_goto\obj\Debug\net8.0\Repeticao_goto.AssemblyInfo.cs
+C:\dev\EstruturasControle\Repeticao_goto\obj\Debug\net8.0\Repeticao_goto.csproj.CoreCompileInputs.cache
+C:\dev\EstruturasControle\Repeticao_goto\obj\Debug\net8.0\Repeticao_goto.dll
+C:\dev\EstruturasControle\Repeticao_goto\obj\Debug\net8.0\refint\Repeticao_goto.dll
+C:\dev\EstruturasControle\Repeticao_goto\obj\Debug\net8.0\Repeticao_goto.pdb
+C:\dev\EstruturasControle\Repeticao_goto\obj\Debug\net8.0\Repeticao_goto.genruntimeconfig.cache
+C:\dev\EstruturasControle\Repeticao_goto\obj\Debug\net8.0\ref\Repeticao_goto.dll

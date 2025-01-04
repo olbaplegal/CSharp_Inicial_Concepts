@@ -1,0 +1,15 @@
+C:\dev\CSFundamentos1\OperadorUniarioTernario1\bin\Debug\net8.0\OperadorUniarioTernario1.exe
+C:\dev\CSFundamentos1\OperadorUniarioTernario1\bin\Debug\net8.0\OperadorUniarioTernario1.deps.json
+C:\dev\CSFundamentos1\OperadorUniarioTernario1\bin\Debug\net8.0\OperadorUniarioTernario1.runtimeconfig.json
+C:\dev\CSFundamentos1\OperadorUniarioTernario1\bin\Debug\net8.0\OperadorUniarioTernario1.dll
+C:\dev\CSFundamentos1\OperadorUniarioTernario1\bin\Debug\net8.0\OperadorUniarioTernario1.pdb
+C:\dev\CSFundamentos1\OperadorUniarioTernario1\obj\Debug\net8.0\OperadorUniarioTernario1.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\CSFundamentos1\OperadorUniarioTernario1\obj\Debug\net8.0\OperadorUniarioTernario1.AssemblyInfoInputs.cache
+C:\dev\CSFundamentos1\OperadorUniarioTernario1\obj\Debug\net8.0\OperadorUniarioTernario1.AssemblyInfo.cs
+C:\dev\CSFundamentos1\OperadorUniarioTernario1\obj\Debug\net8.0\OperadorUniarioTernario1.csproj.CoreCompileInputs.cache
+C:\dev\CSFundamentos1\OperadorUniarioTernario1\obj\Debug\net8.0\OperadorUniarioTernario1.sourcelink.json
+C:\dev\CSFundamentos1\OperadorUniarioTernario1\obj\Debug\net8.0\OperadorUniarioTernario1.dll
+C:\dev\CSFundamentos1\OperadorUniarioTernario1\obj\Debug\net8.0\refint\OperadorUniarioTernario1.dll
+C:\dev\CSFundamentos1\OperadorUniarioTernario1\obj\Debug\net8.0\OperadorUniarioTernario1.pdb
+C:\dev\CSFundamentos1\OperadorUniarioTernario1\obj\Debug\net8.0\OperadorUniarioTernario1.genruntimeconfig.cache
+C:\dev\CSFundamentos1\OperadorUniarioTernario1\obj\Debug\net8.0\ref\OperadorUniarioTernario1.dll

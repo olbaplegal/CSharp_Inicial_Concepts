@@ -1,0 +1,14 @@
+C:\dev\EstruturasControle\Estrutura_if1\bin\Debug\net8.0\Estrutura_if1.exe
+C:\dev\EstruturasControle\Estrutura_if1\bin\Debug\net8.0\Estrutura_if1.deps.json
+C:\dev\EstruturasControle\Estrutura_if1\bin\Debug\net8.0\Estrutura_if1.runtimeconfig.json
+C:\dev\EstruturasControle\Estrutura_if1\bin\Debug\net8.0\Estrutura_if1.dll
+C:\dev\EstruturasControle\Estrutura_if1\bin\Debug\net8.0\Estrutura_if1.pdb
+C:\dev\EstruturasControle\Estrutura_if1\obj\Debug\net8.0\Estrutura_if1.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\EstruturasControle\Estrutura_if1\obj\Debug\net8.0\Estrutura_if1.AssemblyInfoInputs.cache
+C:\dev\EstruturasControle\Estrutura_if1\obj\Debug\net8.0\Estrutura_if1.AssemblyInfo.cs
+C:\dev\EstruturasControle\Estrutura_if1\obj\Debug\net8.0\Estrutura_if1.csproj.CoreCompileInputs.cache
+C:\dev\EstruturasControle\Estrutura_if1\obj\Debug\net8.0\Estrutura_if1.dll
+C:\dev\EstruturasControle\Estrutura_if1\obj\Debug\net8.0\refint\Estrutura_if1.dll
+C:\dev\EstruturasControle\Estrutura_if1\obj\Debug\net8.0\Estrutura_if1.pdb
+C:\dev\EstruturasControle\Estrutura_if1\obj\Debug\net8.0\Estrutura_if1.genruntimeconfig.cache
+C:\dev\EstruturasControle\Estrutura_if1\obj\Debug\net8.0\ref\Estrutura_if1.dll

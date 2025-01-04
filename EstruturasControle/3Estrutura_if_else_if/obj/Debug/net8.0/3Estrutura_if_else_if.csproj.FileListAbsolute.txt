@@ -1,0 +1,14 @@
+C:\dev\EstruturasControle\3Estrutura_if_else_if\bin\Debug\net8.0\3Estrutura_if_else_if.exe
+C:\dev\EstruturasControle\3Estrutura_if_else_if\bin\Debug\net8.0\3Estrutura_if_else_if.deps.json
+C:\dev\EstruturasControle\3Estrutura_if_else_if\bin\Debug\net8.0\3Estrutura_if_else_if.runtimeconfig.json
+C:\dev\EstruturasControle\3Estrutura_if_else_if\bin\Debug\net8.0\3Estrutura_if_else_if.dll
+C:\dev\EstruturasControle\3Estrutura_if_else_if\bin\Debug\net8.0\3Estrutura_if_else_if.pdb
+C:\dev\EstruturasControle\3Estrutura_if_else_if\obj\Debug\net8.0\3Estrutura_if_else_if.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\EstruturasControle\3Estrutura_if_else_if\obj\Debug\net8.0\3Estrutura_if_else_if.AssemblyInfoInputs.cache
+C:\dev\EstruturasControle\3Estrutura_if_else_if\obj\Debug\net8.0\3Estrutura_if_else_if.AssemblyInfo.cs
+C:\dev\EstruturasControle\3Estrutura_if_else_if\obj\Debug\net8.0\3Estrutura_if_else_if.csproj.CoreCompileInputs.cache
+C:\dev\EstruturasControle\3Estrutura_if_else_if\obj\Debug\net8.0\3Estrutura_if_else_if.dll
+C:\dev\EstruturasControle\3Estrutura_if_else_if\obj\Debug\net8.0\refint\3Estrutura_if_else_if.dll
+C:\dev\EstruturasControle\3Estrutura_if_else_if\obj\Debug\net8.0\3Estrutura_if_else_if.pdb
+C:\dev\EstruturasControle\3Estrutura_if_else_if\obj\Debug\net8.0\3Estrutura_if_else_if.genruntimeconfig.cache
+C:\dev\EstruturasControle\3Estrutura_if_else_if\obj\Debug\net8.0\ref\3Estrutura_if_else_if.dll

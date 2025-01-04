@@ -1,0 +1,14 @@
+C:\dev\EstruturasControle\2Estrutura_if_else\bin\Debug\net8.0\2Estrutura_if_else.exe
+C:\dev\EstruturasControle\2Estrutura_if_else\bin\Debug\net8.0\2Estrutura_if_else.deps.json
+C:\dev\EstruturasControle\2Estrutura_if_else\bin\Debug\net8.0\2Estrutura_if_else.runtimeconfig.json
+C:\dev\EstruturasControle\2Estrutura_if_else\bin\Debug\net8.0\2Estrutura_if_else.dll
+C:\dev\EstruturasControle\2Estrutura_if_else\bin\Debug\net8.0\2Estrutura_if_else.pdb
+C:\dev\EstruturasControle\2Estrutura_if_else\obj\Debug\net8.0\2Estrutura_if_else.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\EstruturasControle\2Estrutura_if_else\obj\Debug\net8.0\2Estrutura_if_else.AssemblyInfoInputs.cache
+C:\dev\EstruturasControle\2Estrutura_if_else\obj\Debug\net8.0\2Estrutura_if_else.AssemblyInfo.cs
+C:\dev\EstruturasControle\2Estrutura_if_else\obj\Debug\net8.0\2Estrutura_if_else.csproj.CoreCompileInputs.cache
+C:\dev\EstruturasControle\2Estrutura_if_else\obj\Debug\net8.0\2Estrutura_if_else.dll
+C:\dev\EstruturasControle\2Estrutura_if_else\obj\Debug\net8.0\refint\2Estrutura_if_else.dll
+C:\dev\EstruturasControle\2Estrutura_if_else\obj\Debug\net8.0\2Estrutura_if_else.pdb
+C:\dev\EstruturasControle\2Estrutura_if_else\obj\Debug\net8.0\2Estrutura_if_else.genruntimeconfig.cache
+C:\dev\EstruturasControle\2Estrutura_if_else\obj\Debug\net8.0\ref\2Estrutura_if_else.dll

@@ -1,0 +1,15 @@
+C:\dev\CSFundamentos1\ExercícioFase1\bin\Debug\net8.0\ExercícioFase1.exe
+C:\dev\CSFundamentos1\ExercícioFase1\bin\Debug\net8.0\ExercícioFase1.deps.json
+C:\dev\CSFundamentos1\ExercícioFase1\bin\Debug\net8.0\ExercícioFase1.runtimeconfig.json
+C:\dev\CSFundamentos1\ExercícioFase1\bin\Debug\net8.0\ExercícioFase1.dll
+C:\dev\CSFundamentos1\ExercícioFase1\bin\Debug\net8.0\ExercícioFase1.pdb
+C:\dev\CSFundamentos1\ExercícioFase1\obj\Debug\net8.0\ExercícioFase1.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\CSFundamentos1\ExercícioFase1\obj\Debug\net8.0\ExercícioFase1.AssemblyInfoInputs.cache
+C:\dev\CSFundamentos1\ExercícioFase1\obj\Debug\net8.0\ExercícioFase1.AssemblyInfo.cs
+C:\dev\CSFundamentos1\ExercícioFase1\obj\Debug\net8.0\ExercícioFase1.csproj.CoreCompileInputs.cache
+C:\dev\CSFundamentos1\ExercícioFase1\obj\Debug\net8.0\ExercícioFase1.sourcelink.json
+C:\dev\CSFundamentos1\ExercícioFase1\obj\Debug\net8.0\ExercícioFase1.dll
+C:\dev\CSFundamentos1\ExercícioFase1\obj\Debug\net8.0\refint\ExercícioFase1.dll
+C:\dev\CSFundamentos1\ExercícioFase1\obj\Debug\net8.0\ExercícioFase1.pdb
+C:\dev\CSFundamentos1\ExercícioFase1\obj\Debug\net8.0\ExercícioFase1.genruntimeconfig.cache
+C:\dev\CSFundamentos1\ExercícioFase1\obj\Debug\net8.0\ref\ExercícioFase1.dll

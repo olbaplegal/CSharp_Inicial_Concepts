@@ -1,0 +1,15 @@
+C:\dev\CSFundamentos1\OperadoresRelacionais1\bin\Debug\net8.0\OperadoresRelacionais1.exe
+C:\dev\CSFundamentos1\OperadoresRelacionais1\bin\Debug\net8.0\OperadoresRelacionais1.deps.json
+C:\dev\CSFundamentos1\OperadoresRelacionais1\bin\Debug\net8.0\OperadoresRelacionais1.runtimeconfig.json
+C:\dev\CSFundamentos1\OperadoresRelacionais1\bin\Debug\net8.0\OperadoresRelacionais1.dll
+C:\dev\CSFundamentos1\OperadoresRelacionais1\bin\Debug\net8.0\OperadoresRelacionais1.pdb
+C:\dev\CSFundamentos1\OperadoresRelacionais1\obj\Debug\net8.0\OperadoresRelacionais1.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\CSFundamentos1\OperadoresRelacionais1\obj\Debug\net8.0\OperadoresRelacionais1.AssemblyInfoInputs.cache
+C:\dev\CSFundamentos1\OperadoresRelacionais1\obj\Debug\net8.0\OperadoresRelacionais1.AssemblyInfo.cs
+C:\dev\CSFundamentos1\OperadoresRelacionais1\obj\Debug\net8.0\OperadoresRelacionais1.csproj.CoreCompileInputs.cache
+C:\dev\CSFundamentos1\OperadoresRelacionais1\obj\Debug\net8.0\OperadoresRelacionais1.sourcelink.json
+C:\dev\CSFundamentos1\OperadoresRelacionais1\obj\Debug\net8.0\OperadoresRelacionais1.dll
+C:\dev\CSFundamentos1\OperadoresRelacionais1\obj\Debug\net8.0\refint\OperadoresRelacionais1.dll
+C:\dev\CSFundamentos1\OperadoresRelacionais1\obj\Debug\net8.0\OperadoresRelacionais1.pdb
+C:\dev\CSFundamentos1\OperadoresRelacionais1\obj\Debug\net8.0\OperadoresRelacionais1.genruntimeconfig.cache
+C:\dev\CSFundamentos1\OperadoresRelacionais1\obj\Debug\net8.0\ref\OperadoresRelacionais1.dll

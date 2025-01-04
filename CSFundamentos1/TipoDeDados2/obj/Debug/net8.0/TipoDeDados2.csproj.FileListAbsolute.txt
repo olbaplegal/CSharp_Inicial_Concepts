@@ -1,0 +1,14 @@
+C:\dev\CSFundamentos1\TipoDeDados2\bin\Debug\net8.0\TipoDeDados2.exe
+C:\dev\CSFundamentos1\TipoDeDados2\bin\Debug\net8.0\TipoDeDados2.deps.json
+C:\dev\CSFundamentos1\TipoDeDados2\bin\Debug\net8.0\TipoDeDados2.runtimeconfig.json
+C:\dev\CSFundamentos1\TipoDeDados2\bin\Debug\net8.0\TipoDeDados2.dll
+C:\dev\CSFundamentos1\TipoDeDados2\bin\Debug\net8.0\TipoDeDados2.pdb
+C:\dev\CSFundamentos1\TipoDeDados2\obj\Debug\net8.0\TipoDeDados2.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\CSFundamentos1\TipoDeDados2\obj\Debug\net8.0\TipoDeDados2.AssemblyInfoInputs.cache
+C:\dev\CSFundamentos1\TipoDeDados2\obj\Debug\net8.0\TipoDeDados2.AssemblyInfo.cs
+C:\dev\CSFundamentos1\TipoDeDados2\obj\Debug\net8.0\TipoDeDados2.csproj.CoreCompileInputs.cache
+C:\dev\CSFundamentos1\TipoDeDados2\obj\Debug\net8.0\TipoDeDados2.dll
+C:\dev\CSFundamentos1\TipoDeDados2\obj\Debug\net8.0\refint\TipoDeDados2.dll
+C:\dev\CSFundamentos1\TipoDeDados2\obj\Debug\net8.0\TipoDeDados2.pdb
+C:\dev\CSFundamentos1\TipoDeDados2\obj\Debug\net8.0\TipoDeDados2.genruntimeconfig.cache
+C:\dev\CSFundamentos1\TipoDeDados2\obj\Debug\net8.0\ref\TipoDeDados2.dll

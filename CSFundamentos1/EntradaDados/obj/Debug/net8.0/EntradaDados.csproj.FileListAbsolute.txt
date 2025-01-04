@@ -1,0 +1,15 @@
+C:\dev\CSFundamentos1\EntradaDados\bin\Debug\net8.0\EntradaDados.exe
+C:\dev\CSFundamentos1\EntradaDados\bin\Debug\net8.0\EntradaDados.deps.json
+C:\dev\CSFundamentos1\EntradaDados\bin\Debug\net8.0\EntradaDados.runtimeconfig.json
+C:\dev\CSFundamentos1\EntradaDados\bin\Debug\net8.0\EntradaDados.dll
+C:\dev\CSFundamentos1\EntradaDados\bin\Debug\net8.0\EntradaDados.pdb
+C:\dev\CSFundamentos1\EntradaDados\obj\Debug\net8.0\EntradaDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\CSFundamentos1\EntradaDados\obj\Debug\net8.0\EntradaDados.AssemblyInfoInputs.cache
+C:\dev\CSFundamentos1\EntradaDados\obj\Debug\net8.0\EntradaDados.AssemblyInfo.cs
+C:\dev\CSFundamentos1\EntradaDados\obj\Debug\net8.0\EntradaDados.csproj.CoreCompileInputs.cache
+C:\dev\CSFundamentos1\EntradaDados\obj\Debug\net8.0\EntradaDados.sourcelink.json
+C:\dev\CSFundamentos1\EntradaDados\obj\Debug\net8.0\EntradaDados.dll
+C:\dev\CSFundamentos1\EntradaDados\obj\Debug\net8.0\refint\EntradaDados.dll
+C:\dev\CSFundamentos1\EntradaDados\obj\Debug\net8.0\EntradaDados.pdb
+C:\dev\CSFundamentos1\EntradaDados\obj\Debug\net8.0\EntradaDados.genruntimeconfig.cache
+C:\dev\CSFundamentos1\EntradaDados\obj\Debug\net8.0\ref\EntradaDados.dll

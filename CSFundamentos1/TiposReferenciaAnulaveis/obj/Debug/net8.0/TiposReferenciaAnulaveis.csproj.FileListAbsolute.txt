@@ -1,0 +1,15 @@
+C:\dev\CSFundamentos1\TiposReferenciaAnulaveis\bin\Debug\net8.0\TiposReferenciaAnulaveis.exe
+C:\dev\CSFundamentos1\TiposReferenciaAnulaveis\bin\Debug\net8.0\TiposReferenciaAnulaveis.deps.json
+C:\dev\CSFundamentos1\TiposReferenciaAnulaveis\bin\Debug\net8.0\TiposReferenciaAnulaveis.runtimeconfig.json
+C:\dev\CSFundamentos1\TiposReferenciaAnulaveis\bin\Debug\net8.0\TiposReferenciaAnulaveis.dll
+C:\dev\CSFundamentos1\TiposReferenciaAnulaveis\bin\Debug\net8.0\TiposReferenciaAnulaveis.pdb
+C:\dev\CSFundamentos1\TiposReferenciaAnulaveis\obj\Debug\net8.0\TiposReferenciaAnulaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\CSFundamentos1\TiposReferenciaAnulaveis\obj\Debug\net8.0\TiposReferenciaAnulaveis.AssemblyInfoInputs.cache
+C:\dev\CSFundamentos1\TiposReferenciaAnulaveis\obj\Debug\net8.0\TiposReferenciaAnulaveis.AssemblyInfo.cs
+C:\dev\CSFundamentos1\TiposReferenciaAnulaveis\obj\Debug\net8.0\TiposReferenciaAnulaveis.csproj.CoreCompileInputs.cache
+C:\dev\CSFundamentos1\TiposReferenciaAnulaveis\obj\Debug\net8.0\TiposReferenciaAnulaveis.sourcelink.json
+C:\dev\CSFundamentos1\TiposReferenciaAnulaveis\obj\Debug\net8.0\TiposReferenciaAnulaveis.dll
+C:\dev\CSFundamentos1\TiposReferenciaAnulaveis\obj\Debug\net8.0\refint\TiposReferenciaAnulaveis.dll
+C:\dev\CSFundamentos1\TiposReferenciaAnulaveis\obj\Debug\net8.0\TiposReferenciaAnulaveis.pdb
+C:\dev\CSFundamentos1\TiposReferenciaAnulaveis\obj\Debug\net8.0\TiposReferenciaAnulaveis.genruntimeconfig.cache
+C:\dev\CSFundamentos1\TiposReferenciaAnulaveis\obj\Debug\net8.0\ref\TiposReferenciaAnulaveis.dll

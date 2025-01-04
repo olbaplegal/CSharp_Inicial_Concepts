@@ -1,0 +1,15 @@
+C:\dev\CSFundamentos1\Identificadores\bin\Debug\net8.0\Identificadores.exe
+C:\dev\CSFundamentos1\Identificadores\bin\Debug\net8.0\Identificadores.deps.json
+C:\dev\CSFundamentos1\Identificadores\bin\Debug\net8.0\Identificadores.runtimeconfig.json
+C:\dev\CSFundamentos1\Identificadores\bin\Debug\net8.0\Identificadores.dll
+C:\dev\CSFundamentos1\Identificadores\bin\Debug\net8.0\Identificadores.pdb
+C:\dev\CSFundamentos1\Identificadores\obj\Debug\net8.0\Identificadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\CSFundamentos1\Identificadores\obj\Debug\net8.0\Identificadores.AssemblyInfoInputs.cache
+C:\dev\CSFundamentos1\Identificadores\obj\Debug\net8.0\Identificadores.AssemblyInfo.cs
+C:\dev\CSFundamentos1\Identificadores\obj\Debug\net8.0\Identificadores.csproj.CoreCompileInputs.cache
+C:\dev\CSFundamentos1\Identificadores\obj\Debug\net8.0\Identificadores.sourcelink.json
+C:\dev\CSFundamentos1\Identificadores\obj\Debug\net8.0\Identificadores.dll
+C:\dev\CSFundamentos1\Identificadores\obj\Debug\net8.0\refint\Identificadores.dll
+C:\dev\CSFundamentos1\Identificadores\obj\Debug\net8.0\Identificadores.pdb
+C:\dev\CSFundamentos1\Identificadores\obj\Debug\net8.0\Identificadores.genruntimeconfig.cache
+C:\dev\CSFundamentos1\Identificadores\obj\Debug\net8.0\ref\Identificadores.dll

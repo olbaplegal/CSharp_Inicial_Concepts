@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\dev\\EstruturasControle\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1B71C4D-663F-4EB4-AB00-9D57900D9805}|Repeticao_goto\\Repeticao_goto.csproj|c:\\dev\\estruturascontrole\\repeticao_goto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1B71C4D-663F-4EB4-AB00-9D57900D9805}|Repeticao_goto\\Repeticao_goto.csproj|solutionrelative:repeticao_goto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{278B890B-9098-460D-96C3-3182A1D20F03}|4Estrutura_switch_case\\4Estrutura_switch_case.csproj|c:\\dev\\estruturascontrole\\4estrutura_switch_case\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{278B890B-9098-460D-96C3-3182A1D20F03}|4Estrutura_switch_case\\4Estrutura_switch_case.csproj|solutionrelative:4estrutura_switch_case\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ADF4706-C69F-46D0-B5C5-0592D6B938DC}|3Estrutura_if_else_if\\3Estrutura_if_else_if.csproj|c:\\dev\\estruturascontrole\\3estrutura_if_else_if\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ADF4706-C69F-46D0-B5C5-0592D6B938DC}|3Estrutura_if_else_if\\3Estrutura_if_else_if.csproj|solutionrelative:3estrutura_if_else_if\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\dev\\EstruturasControle\\Repeticao_goto\\Program.cs",
+              "RelativeDocumentMoniker": "Repeticao_goto\\Program.cs",
+              "ToolTip": "C:\\dev\\EstruturasControle\\Repeticao_goto\\Program.cs",
+              "RelativeToolTip": "Repeticao_goto\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T00:00:32.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\dev\\EstruturasControle\\4Estrutura_switch_case\\Program.cs",
+              "RelativeDocumentMoniker": "4Estrutura_switch_case\\Program.cs",
+              "ToolTip": "C:\\dev\\EstruturasControle\\4Estrutura_switch_case\\Program.cs",
+              "RelativeToolTip": "4Estrutura_switch_case\\Program.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAADwvy4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T23:27:53.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\dev\\EstruturasControle\\3Estrutura_if_else_if\\Program.cs",
+              "RelativeDocumentMoniker": "3Estrutura_if_else_if\\Program.cs",
+              "ToolTip": "C:\\dev\\EstruturasControle\\3Estrutura_if_else_if\\Program.cs",
+              "RelativeToolTip": "3Estrutura_if_else_if\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T23:15:01.949Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
