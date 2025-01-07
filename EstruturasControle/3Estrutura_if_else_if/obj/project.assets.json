@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\dev\\EstruturasControle\\3Estrutura_if_else_if\\3Estrutura_if_else_if.csproj",
+      "projectUniqueName": "C:\\dev\\CSharpEssencial\\EstruturasControle\\3Estrutura_if_else_if\\3Estrutura_if_else_if.csproj",
       "projectName": "3Estrutura_if_else_if",
-      "projectPath": "C:\\dev\\EstruturasControle\\3Estrutura_if_else_if\\3Estrutura_if_else_if.csproj",
+      "projectPath": "C:\\dev\\CSharpEssencial\\EstruturasControle\\3Estrutura_if_else_if\\3Estrutura_if_else_if.csproj",
       "packagesPath": "C:\\Users\\Aria\\.nuget\\packages\\",
-      "outputPath": "C:\\dev\\EstruturasControle\\3Estrutura_if_else_if\\obj\\",
+      "outputPath": "C:\\dev\\CSharpEssencial\\EstruturasControle\\3Estrutura_if_else_if\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

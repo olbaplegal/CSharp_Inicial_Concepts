@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dev\\EstruturasControle\\4Estrutura_switch_case\\4Estrutura_switch_case.csproj": {}
+    "C:\\dev\\CSharpEssencial\\EstruturasControle\\4Estrutura_switch_case\\4Estrutura_switch_case.csproj": {}
   },
   "projects": {
-    "C:\\dev\\EstruturasControle\\4Estrutura_switch_case\\4Estrutura_switch_case.csproj": {
+    "C:\\dev\\CSharpEssencial\\EstruturasControle\\4Estrutura_switch_case\\4Estrutura_switch_case.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\EstruturasControle\\4Estrutura_switch_case\\4Estrutura_switch_case.csproj",
+        "projectUniqueName": "C:\\dev\\CSharpEssencial\\EstruturasControle\\4Estrutura_switch_case\\4Estrutura_switch_case.csproj",
         "projectName": "4Estrutura_switch_case",
-        "projectPath": "C:\\dev\\EstruturasControle\\4Estrutura_switch_case\\4Estrutura_switch_case.csproj",
+        "projectPath": "C:\\dev\\CSharpEssencial\\EstruturasControle\\4Estrutura_switch_case\\4Estrutura_switch_case.csproj",
         "packagesPath": "C:\\Users\\Aria\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\EstruturasControle\\4Estrutura_switch_case\\obj\\",
+        "outputPath": "C:\\dev\\CSharpEssencial\\EstruturasControle\\4Estrutura_switch_case\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

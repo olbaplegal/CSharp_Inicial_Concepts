@@ -1,0 +1,14 @@
+C:\dev\CSharpEssencial\EstruturasControle\10Break_Continue\bin\Debug\net8.0\10Break_Continue.exe
+C:\dev\CSharpEssencial\EstruturasControle\10Break_Continue\bin\Debug\net8.0\10Break_Continue.deps.json
+C:\dev\CSharpEssencial\EstruturasControle\10Break_Continue\bin\Debug\net8.0\10Break_Continue.runtimeconfig.json
+C:\dev\CSharpEssencial\EstruturasControle\10Break_Continue\bin\Debug\net8.0\10Break_Continue.dll
+C:\dev\CSharpEssencial\EstruturasControle\10Break_Continue\bin\Debug\net8.0\10Break_Continue.pdb
+C:\dev\CSharpEssencial\EstruturasControle\10Break_Continue\obj\Debug\net8.0\10Break_Continue.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\CSharpEssencial\EstruturasControle\10Break_Continue\obj\Debug\net8.0\10Break_Continue.AssemblyInfoInputs.cache
+C:\dev\CSharpEssencial\EstruturasControle\10Break_Continue\obj\Debug\net8.0\10Break_Continue.AssemblyInfo.cs
+C:\dev\CSharpEssencial\EstruturasControle\10Break_Continue\obj\Debug\net8.0\10Break_Continue.csproj.CoreCompileInputs.cache
+C:\dev\CSharpEssencial\EstruturasControle\10Break_Continue\obj\Debug\net8.0\10Break_Continue.dll
+C:\dev\CSharpEssencial\EstruturasControle\10Break_Continue\obj\Debug\net8.0\refint\10Break_Continue.dll
+C:\dev\CSharpEssencial\EstruturasControle\10Break_Continue\obj\Debug\net8.0\10Break_Continue.pdb
+C:\dev\CSharpEssencial\EstruturasControle\10Break_Continue\obj\Debug\net8.0\10Break_Continue.genruntimeconfig.cache
+C:\dev\CSharpEssencial\EstruturasControle\10Break_Continue\obj\Debug\net8.0\ref\10Break_Continue.dll

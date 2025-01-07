@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\dev\\EstruturasControle\\Repeticao_goto\\Repeticao_goto.csproj",
+      "projectUniqueName": "C:\\dev\\CSharpEssencial\\EstruturasControle\\Repeticao_goto\\Repeticao_goto.csproj",
       "projectName": "Repeticao_goto",
-      "projectPath": "C:\\dev\\EstruturasControle\\Repeticao_goto\\Repeticao_goto.csproj",
+      "projectPath": "C:\\dev\\CSharpEssencial\\EstruturasControle\\Repeticao_goto\\Repeticao_goto.csproj",
       "packagesPath": "C:\\Users\\Aria\\.nuget\\packages\\",
-      "outputPath": "C:\\dev\\EstruturasControle\\Repeticao_goto\\obj\\",
+      "outputPath": "C:\\dev\\CSharpEssencial\\EstruturasControle\\Repeticao_goto\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

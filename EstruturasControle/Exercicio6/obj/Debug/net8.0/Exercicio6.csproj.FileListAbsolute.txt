@@ -1,0 +1,14 @@
+C:\dev\CSharpEssencial\EstruturasControle\Exercicio6\bin\Debug\net8.0\Exercicio6.exe
+C:\dev\CSharpEssencial\EstruturasControle\Exercicio6\bin\Debug\net8.0\Exercicio6.deps.json
+C:\dev\CSharpEssencial\EstruturasControle\Exercicio6\bin\Debug\net8.0\Exercicio6.runtimeconfig.json
+C:\dev\CSharpEssencial\EstruturasControle\Exercicio6\bin\Debug\net8.0\Exercicio6.dll
+C:\dev\CSharpEssencial\EstruturasControle\Exercicio6\bin\Debug\net8.0\Exercicio6.pdb
+C:\dev\CSharpEssencial\EstruturasControle\Exercicio6\obj\Debug\net8.0\Exercicio6.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\CSharpEssencial\EstruturasControle\Exercicio6\obj\Debug\net8.0\Exercicio6.AssemblyInfoInputs.cache
+C:\dev\CSharpEssencial\EstruturasControle\Exercicio6\obj\Debug\net8.0\Exercicio6.AssemblyInfo.cs
+C:\dev\CSharpEssencial\EstruturasControle\Exercicio6\obj\Debug\net8.0\Exercicio6.csproj.CoreCompileInputs.cache
+C:\dev\CSharpEssencial\EstruturasControle\Exercicio6\obj\Debug\net8.0\Exercicio6.dll
+C:\dev\CSharpEssencial\EstruturasControle\Exercicio6\obj\Debug\net8.0\refint\Exercicio6.dll
+C:\dev\CSharpEssencial\EstruturasControle\Exercicio6\obj\Debug\net8.0\Exercicio6.pdb
+C:\dev\CSharpEssencial\EstruturasControle\Exercicio6\obj\Debug\net8.0\Exercicio6.genruntimeconfig.cache
+C:\dev\CSharpEssencial\EstruturasControle\Exercicio6\obj\Debug\net8.0\ref\Exercicio6.dll

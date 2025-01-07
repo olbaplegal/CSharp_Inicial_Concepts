@@ -1,0 +1,14 @@
+C:\dev\CSharpEssencial\EstruturasControle\Exercicio2\bin\Debug\net8.0\Exercicio2.exe
+C:\dev\CSharpEssencial\EstruturasControle\Exercicio2\bin\Debug\net8.0\Exercicio2.deps.json
+C:\dev\CSharpEssencial\EstruturasControle\Exercicio2\bin\Debug\net8.0\Exercicio2.runtimeconfig.json
+C:\dev\CSharpEssencial\EstruturasControle\Exercicio2\bin\Debug\net8.0\Exercicio2.dll
+C:\dev\CSharpEssencial\EstruturasControle\Exercicio2\bin\Debug\net8.0\Exercicio2.pdb
+C:\dev\CSharpEssencial\EstruturasControle\Exercicio2\obj\Debug\net8.0\Exercicio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\CSharpEssencial\EstruturasControle\Exercicio2\obj\Debug\net8.0\Exercicio2.AssemblyInfoInputs.cache
+C:\dev\CSharpEssencial\EstruturasControle\Exercicio2\obj\Debug\net8.0\Exercicio2.AssemblyInfo.cs
+C:\dev\CSharpEssencial\EstruturasControle\Exercicio2\obj\Debug\net8.0\Exercicio2.csproj.CoreCompileInputs.cache
+C:\dev\CSharpEssencial\EstruturasControle\Exercicio2\obj\Debug\net8.0\Exercicio2.dll
+C:\dev\CSharpEssencial\EstruturasControle\Exercicio2\obj\Debug\net8.0\refint\Exercicio2.dll
+C:\dev\CSharpEssencial\EstruturasControle\Exercicio2\obj\Debug\net8.0\Exercicio2.pdb
+C:\dev\CSharpEssencial\EstruturasControle\Exercicio2\obj\Debug\net8.0\Exercicio2.genruntimeconfig.cache
+C:\dev\CSharpEssencial\EstruturasControle\Exercicio2\obj\Debug\net8.0\ref\Exercicio2.dll

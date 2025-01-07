@@ -1,0 +1,14 @@
+C:\dev\CSharpEssencial\EstruturasControle\6Repeticao_while\bin\Debug\net8.0\6Repeticao_while.exe
+C:\dev\CSharpEssencial\EstruturasControle\6Repeticao_while\bin\Debug\net8.0\6Repeticao_while.deps.json
+C:\dev\CSharpEssencial\EstruturasControle\6Repeticao_while\bin\Debug\net8.0\6Repeticao_while.runtimeconfig.json
+C:\dev\CSharpEssencial\EstruturasControle\6Repeticao_while\bin\Debug\net8.0\6Repeticao_while.dll
+C:\dev\CSharpEssencial\EstruturasControle\6Repeticao_while\bin\Debug\net8.0\6Repeticao_while.pdb
+C:\dev\CSharpEssencial\EstruturasControle\6Repeticao_while\obj\Debug\net8.0\6Repeticao_while.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\CSharpEssencial\EstruturasControle\6Repeticao_while\obj\Debug\net8.0\6Repeticao_while.AssemblyInfoInputs.cache
+C:\dev\CSharpEssencial\EstruturasControle\6Repeticao_while\obj\Debug\net8.0\6Repeticao_while.AssemblyInfo.cs
+C:\dev\CSharpEssencial\EstruturasControle\6Repeticao_while\obj\Debug\net8.0\6Repeticao_while.csproj.CoreCompileInputs.cache
+C:\dev\CSharpEssencial\EstruturasControle\6Repeticao_while\obj\Debug\net8.0\6Repeticao_while.dll
+C:\dev\CSharpEssencial\EstruturasControle\6Repeticao_while\obj\Debug\net8.0\refint\6Repeticao_while.dll
+C:\dev\CSharpEssencial\EstruturasControle\6Repeticao_while\obj\Debug\net8.0\6Repeticao_while.pdb
+C:\dev\CSharpEssencial\EstruturasControle\6Repeticao_while\obj\Debug\net8.0\6Repeticao_while.genruntimeconfig.cache
+C:\dev\CSharpEssencial\EstruturasControle\6Repeticao_while\obj\Debug\net8.0\ref\6Repeticao_while.dll

@@ -1,0 +1,14 @@
+C:\dev\CSharpEssencial\EstruturasControle\8Repeticao_for\bin\Debug\net8.0\8Repeticao_for.exe
+C:\dev\CSharpEssencial\EstruturasControle\8Repeticao_for\bin\Debug\net8.0\8Repeticao_for.deps.json
+C:\dev\CSharpEssencial\EstruturasControle\8Repeticao_for\bin\Debug\net8.0\8Repeticao_for.runtimeconfig.json
+C:\dev\CSharpEssencial\EstruturasControle\8Repeticao_for\bin\Debug\net8.0\8Repeticao_for.dll
+C:\dev\CSharpEssencial\EstruturasControle\8Repeticao_for\bin\Debug\net8.0\8Repeticao_for.pdb
+C:\dev\CSharpEssencial\EstruturasControle\8Repeticao_for\obj\Debug\net8.0\8Repeticao_for.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\CSharpEssencial\EstruturasControle\8Repeticao_for\obj\Debug\net8.0\8Repeticao_for.AssemblyInfoInputs.cache
+C:\dev\CSharpEssencial\EstruturasControle\8Repeticao_for\obj\Debug\net8.0\8Repeticao_for.AssemblyInfo.cs
+C:\dev\CSharpEssencial\EstruturasControle\8Repeticao_for\obj\Debug\net8.0\8Repeticao_for.csproj.CoreCompileInputs.cache
+C:\dev\CSharpEssencial\EstruturasControle\8Repeticao_for\obj\Debug\net8.0\8Repeticao_for.dll
+C:\dev\CSharpEssencial\EstruturasControle\8Repeticao_for\obj\Debug\net8.0\refint\8Repeticao_for.dll
+C:\dev\CSharpEssencial\EstruturasControle\8Repeticao_for\obj\Debug\net8.0\8Repeticao_for.pdb
+C:\dev\CSharpEssencial\EstruturasControle\8Repeticao_for\obj\Debug\net8.0\8Repeticao_for.genruntimeconfig.cache
+C:\dev\CSharpEssencial\EstruturasControle\8Repeticao_for\obj\Debug\net8.0\ref\8Repeticao_for.dll

@@ -1,0 +1,14 @@
+C:\dev\CSharpEssencial\EstruturasControle\Exercicio8\bin\Debug\net8.0\Exercicio8.exe
+C:\dev\CSharpEssencial\EstruturasControle\Exercicio8\bin\Debug\net8.0\Exercicio8.deps.json
+C:\dev\CSharpEssencial\EstruturasControle\Exercicio8\bin\Debug\net8.0\Exercicio8.runtimeconfig.json
+C:\dev\CSharpEssencial\EstruturasControle\Exercicio8\bin\Debug\net8.0\Exercicio8.dll
+C:\dev\CSharpEssencial\EstruturasControle\Exercicio8\bin\Debug\net8.0\Exercicio8.pdb
+C:\dev\CSharpEssencial\EstruturasControle\Exercicio8\obj\Debug\net8.0\Exercicio8.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\CSharpEssencial\EstruturasControle\Exercicio8\obj\Debug\net8.0\Exercicio8.AssemblyInfoInputs.cache
+C:\dev\CSharpEssencial\EstruturasControle\Exercicio8\obj\Debug\net8.0\Exercicio8.AssemblyInfo.cs
+C:\dev\CSharpEssencial\EstruturasControle\Exercicio8\obj\Debug\net8.0\Exercicio8.csproj.CoreCompileInputs.cache
+C:\dev\CSharpEssencial\EstruturasControle\Exercicio8\obj\Debug\net8.0\Exercicio8.dll
+C:\dev\CSharpEssencial\EstruturasControle\Exercicio8\obj\Debug\net8.0\refint\Exercicio8.dll
+C:\dev\CSharpEssencial\EstruturasControle\Exercicio8\obj\Debug\net8.0\Exercicio8.pdb
+C:\dev\CSharpEssencial\EstruturasControle\Exercicio8\obj\Debug\net8.0\Exercicio8.genruntimeconfig.cache
+C:\dev\CSharpEssencial\EstruturasControle\Exercicio8\obj\Debug\net8.0\ref\Exercicio8.dll
