@@ -1,0 +1,14 @@
+C:\dev\CSharpEssencial\ClasseMetodos\ClassesMétodosExercicioPratico\bin\Debug\net8.0\ClassesMétodosExercicioPratico.exe
+C:\dev\CSharpEssencial\ClasseMetodos\ClassesMétodosExercicioPratico\bin\Debug\net8.0\ClassesMétodosExercicioPratico.deps.json
+C:\dev\CSharpEssencial\ClasseMetodos\ClassesMétodosExercicioPratico\bin\Debug\net8.0\ClassesMétodosExercicioPratico.runtimeconfig.json
+C:\dev\CSharpEssencial\ClasseMetodos\ClassesMétodosExercicioPratico\bin\Debug\net8.0\ClassesMétodosExercicioPratico.dll
+C:\dev\CSharpEssencial\ClasseMetodos\ClassesMétodosExercicioPratico\bin\Debug\net8.0\ClassesMétodosExercicioPratico.pdb
+C:\dev\CSharpEssencial\ClasseMetodos\ClassesMétodosExercicioPratico\obj\Debug\net8.0\ClassesMétodosExercicioPratico.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\CSharpEssencial\ClasseMetodos\ClassesMétodosExercicioPratico\obj\Debug\net8.0\ClassesMétodosExercicioPratico.AssemblyInfoInputs.cache
+C:\dev\CSharpEssencial\ClasseMetodos\ClassesMétodosExercicioPratico\obj\Debug\net8.0\ClassesMétodosExercicioPratico.AssemblyInfo.cs
+C:\dev\CSharpEssencial\ClasseMetodos\ClassesMétodosExercicioPratico\obj\Debug\net8.0\ClassesMétodosExercicioPratico.csproj.CoreCompileInputs.cache
+C:\dev\CSharpEssencial\ClasseMetodos\ClassesMétodosExercicioPratico\obj\Debug\net8.0\ClassesMétodosExercicioPratico.dll
+C:\dev\CSharpEssencial\ClasseMetodos\ClassesMétodosExercicioPratico\obj\Debug\net8.0\refint\ClassesMétodosExercicioPratico.dll
+C:\dev\CSharpEssencial\ClasseMetodos\ClassesMétodosExercicioPratico\obj\Debug\net8.0\ClassesMétodosExercicioPratico.pdb
+C:\dev\CSharpEssencial\ClasseMetodos\ClassesMétodosExercicioPratico\obj\Debug\net8.0\ClassesMétodosExercicioPratico.genruntimeconfig.cache
+C:\dev\CSharpEssencial\ClasseMetodos\ClassesMétodosExercicioPratico\obj\Debug\net8.0\ref\ClassesMétodosExercicioPratico.dll

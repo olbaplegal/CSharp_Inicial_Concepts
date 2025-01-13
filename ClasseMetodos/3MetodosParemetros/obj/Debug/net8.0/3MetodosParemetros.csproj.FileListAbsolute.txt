@@ -1,0 +1,14 @@
+C:\dev\CSharpEssencial\ClasseMetodos\3MetodosParemetros\bin\Debug\net8.0\3MetodosParemetros.exe
+C:\dev\CSharpEssencial\ClasseMetodos\3MetodosParemetros\bin\Debug\net8.0\3MetodosParemetros.deps.json
+C:\dev\CSharpEssencial\ClasseMetodos\3MetodosParemetros\bin\Debug\net8.0\3MetodosParemetros.runtimeconfig.json
+C:\dev\CSharpEssencial\ClasseMetodos\3MetodosParemetros\bin\Debug\net8.0\3MetodosParemetros.dll
+C:\dev\CSharpEssencial\ClasseMetodos\3MetodosParemetros\bin\Debug\net8.0\3MetodosParemetros.pdb
+C:\dev\CSharpEssencial\ClasseMetodos\3MetodosParemetros\obj\Debug\net8.0\3MetodosParemetros.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\CSharpEssencial\ClasseMetodos\3MetodosParemetros\obj\Debug\net8.0\3MetodosParemetros.AssemblyInfoInputs.cache
+C:\dev\CSharpEssencial\ClasseMetodos\3MetodosParemetros\obj\Debug\net8.0\3MetodosParemetros.AssemblyInfo.cs
+C:\dev\CSharpEssencial\ClasseMetodos\3MetodosParemetros\obj\Debug\net8.0\3MetodosParemetros.csproj.CoreCompileInputs.cache
+C:\dev\CSharpEssencial\ClasseMetodos\3MetodosParemetros\obj\Debug\net8.0\3MetodosParemetros.dll
+C:\dev\CSharpEssencial\ClasseMetodos\3MetodosParemetros\obj\Debug\net8.0\refint\3MetodosParemetros.dll
+C:\dev\CSharpEssencial\ClasseMetodos\3MetodosParemetros\obj\Debug\net8.0\3MetodosParemetros.pdb
+C:\dev\CSharpEssencial\ClasseMetodos\3MetodosParemetros\obj\Debug\net8.0\3MetodosParemetros.genruntimeconfig.cache
+C:\dev\CSharpEssencial\ClasseMetodos\3MetodosParemetros\obj\Debug\net8.0\ref\3MetodosParemetros.dll

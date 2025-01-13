@@ -1,0 +1,14 @@
+C:\dev\CSharpEssencial\ClasseMetodos\ClasseMetodos\bin\Debug\net8.0\ClasseMetodos.exe
+C:\dev\CSharpEssencial\ClasseMetodos\ClasseMetodos\bin\Debug\net8.0\ClasseMetodos.deps.json
+C:\dev\CSharpEssencial\ClasseMetodos\ClasseMetodos\bin\Debug\net8.0\ClasseMetodos.runtimeconfig.json
+C:\dev\CSharpEssencial\ClasseMetodos\ClasseMetodos\bin\Debug\net8.0\ClasseMetodos.dll
+C:\dev\CSharpEssencial\ClasseMetodos\ClasseMetodos\bin\Debug\net8.0\ClasseMetodos.pdb
+C:\dev\CSharpEssencial\ClasseMetodos\ClasseMetodos\obj\Debug\net8.0\ClasseMetodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\CSharpEssencial\ClasseMetodos\ClasseMetodos\obj\Debug\net8.0\ClasseMetodos.AssemblyInfoInputs.cache
+C:\dev\CSharpEssencial\ClasseMetodos\ClasseMetodos\obj\Debug\net8.0\ClasseMetodos.AssemblyInfo.cs
+C:\dev\CSharpEssencial\ClasseMetodos\ClasseMetodos\obj\Debug\net8.0\ClasseMetodos.csproj.CoreCompileInputs.cache
+C:\dev\CSharpEssencial\ClasseMetodos\ClasseMetodos\obj\Debug\net8.0\ClasseMetodos.dll
+C:\dev\CSharpEssencial\ClasseMetodos\ClasseMetodos\obj\Debug\net8.0\refint\ClasseMetodos.dll
+C:\dev\CSharpEssencial\ClasseMetodos\ClasseMetodos\obj\Debug\net8.0\ClasseMetodos.pdb
+C:\dev\CSharpEssencial\ClasseMetodos\ClasseMetodos\obj\Debug\net8.0\ClasseMetodos.genruntimeconfig.cache
+C:\dev\CSharpEssencial\ClasseMetodos\ClasseMetodos\obj\Debug\net8.0\ref\ClasseMetodos.dll

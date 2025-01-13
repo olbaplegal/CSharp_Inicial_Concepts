@@ -1,0 +1,14 @@
+C:\dev\CSharpEssencial\ClasseMetodos\06this\bin\Debug\net8.0\06this.exe
+C:\dev\CSharpEssencial\ClasseMetodos\06this\bin\Debug\net8.0\06this.deps.json
+C:\dev\CSharpEssencial\ClasseMetodos\06this\bin\Debug\net8.0\06this.runtimeconfig.json
+C:\dev\CSharpEssencial\ClasseMetodos\06this\bin\Debug\net8.0\06this.dll
+C:\dev\CSharpEssencial\ClasseMetodos\06this\bin\Debug\net8.0\06this.pdb
+C:\dev\CSharpEssencial\ClasseMetodos\06this\obj\Debug\net8.0\06this.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\CSharpEssencial\ClasseMetodos\06this\obj\Debug\net8.0\06this.AssemblyInfoInputs.cache
+C:\dev\CSharpEssencial\ClasseMetodos\06this\obj\Debug\net8.0\06this.AssemblyInfo.cs
+C:\dev\CSharpEssencial\ClasseMetodos\06this\obj\Debug\net8.0\06this.csproj.CoreCompileInputs.cache
+C:\dev\CSharpEssencial\ClasseMetodos\06this\obj\Debug\net8.0\06this.dll
+C:\dev\CSharpEssencial\ClasseMetodos\06this\obj\Debug\net8.0\refint\06this.dll
+C:\dev\CSharpEssencial\ClasseMetodos\06this\obj\Debug\net8.0\06this.pdb
+C:\dev\CSharpEssencial\ClasseMetodos\06this\obj\Debug\net8.0\06this.genruntimeconfig.cache
+C:\dev\CSharpEssencial\ClasseMetodos\06this\obj\Debug\net8.0\ref\06this.dll

@@ -1,0 +1,14 @@
+C:\dev\CSharpEssencial\ClasseMetodos\6MetodosComRetorno\bin\Debug\net8.0\6MetodosComRetorno.exe
+C:\dev\CSharpEssencial\ClasseMetodos\6MetodosComRetorno\bin\Debug\net8.0\6MetodosComRetorno.deps.json
+C:\dev\CSharpEssencial\ClasseMetodos\6MetodosComRetorno\bin\Debug\net8.0\6MetodosComRetorno.runtimeconfig.json
+C:\dev\CSharpEssencial\ClasseMetodos\6MetodosComRetorno\bin\Debug\net8.0\6MetodosComRetorno.dll
+C:\dev\CSharpEssencial\ClasseMetodos\6MetodosComRetorno\bin\Debug\net8.0\6MetodosComRetorno.pdb
+C:\dev\CSharpEssencial\ClasseMetodos\6MetodosComRetorno\obj\Debug\net8.0\6MetodosComRetorno.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\CSharpEssencial\ClasseMetodos\6MetodosComRetorno\obj\Debug\net8.0\6MetodosComRetorno.AssemblyInfoInputs.cache
+C:\dev\CSharpEssencial\ClasseMetodos\6MetodosComRetorno\obj\Debug\net8.0\6MetodosComRetorno.AssemblyInfo.cs
+C:\dev\CSharpEssencial\ClasseMetodos\6MetodosComRetorno\obj\Debug\net8.0\6MetodosComRetorno.csproj.CoreCompileInputs.cache
+C:\dev\CSharpEssencial\ClasseMetodos\6MetodosComRetorno\obj\Debug\net8.0\6MetodosComRetorno.dll
+C:\dev\CSharpEssencial\ClasseMetodos\6MetodosComRetorno\obj\Debug\net8.0\refint\6MetodosComRetorno.dll
+C:\dev\CSharpEssencial\ClasseMetodos\6MetodosComRetorno\obj\Debug\net8.0\6MetodosComRetorno.pdb
+C:\dev\CSharpEssencial\ClasseMetodos\6MetodosComRetorno\obj\Debug\net8.0\6MetodosComRetorno.genruntimeconfig.cache
+C:\dev\CSharpEssencial\ClasseMetodos\6MetodosComRetorno\obj\Debug\net8.0\ref\6MetodosComRetorno.dll
