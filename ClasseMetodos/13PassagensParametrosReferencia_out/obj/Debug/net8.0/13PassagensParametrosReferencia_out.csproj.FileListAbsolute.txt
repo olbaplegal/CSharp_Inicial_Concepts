@@ -1,0 +1,14 @@
+C:\dev\CSharpEssencial\ClasseMetodos\13PassagensParametrosReferencia_out\bin\Debug\net8.0\13PassagensParametrosReferencia_out.exe
+C:\dev\CSharpEssencial\ClasseMetodos\13PassagensParametrosReferencia_out\bin\Debug\net8.0\13PassagensParametrosReferencia_out.deps.json
+C:\dev\CSharpEssencial\ClasseMetodos\13PassagensParametrosReferencia_out\bin\Debug\net8.0\13PassagensParametrosReferencia_out.runtimeconfig.json
+C:\dev\CSharpEssencial\ClasseMetodos\13PassagensParametrosReferencia_out\bin\Debug\net8.0\13PassagensParametrosReferencia_out.dll
+C:\dev\CSharpEssencial\ClasseMetodos\13PassagensParametrosReferencia_out\bin\Debug\net8.0\13PassagensParametrosReferencia_out.pdb
+C:\dev\CSharpEssencial\ClasseMetodos\13PassagensParametrosReferencia_out\obj\Debug\net8.0\13PassagensParametrosReferencia_out.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\CSharpEssencial\ClasseMetodos\13PassagensParametrosReferencia_out\obj\Debug\net8.0\13PassagensParametrosReferencia_out.AssemblyInfoInputs.cache
+C:\dev\CSharpEssencial\ClasseMetodos\13PassagensParametrosReferencia_out\obj\Debug\net8.0\13PassagensParametrosReferencia_out.AssemblyInfo.cs
+C:\dev\CSharpEssencial\ClasseMetodos\13PassagensParametrosReferencia_out\obj\Debug\net8.0\13PassagensParametrosReferencia_out.csproj.CoreCompileInputs.cache
+C:\dev\CSharpEssencial\ClasseMetodos\13PassagensParametrosReferencia_out\obj\Debug\net8.0\13PassagensParametrosReferencia_out.dll
+C:\dev\CSharpEssencial\ClasseMetodos\13PassagensParametrosReferencia_out\obj\Debug\net8.0\refint\13PassagensParametrosReferencia_out.dll
+C:\dev\CSharpEssencial\ClasseMetodos\13PassagensParametrosReferencia_out\obj\Debug\net8.0\13PassagensParametrosReferencia_out.pdb
+C:\dev\CSharpEssencial\ClasseMetodos\13PassagensParametrosReferencia_out\obj\Debug\net8.0\13PassagensParametrosReferencia_out.genruntimeconfig.cache
+C:\dev\CSharpEssencial\ClasseMetodos\13PassagensParametrosReferencia_out\obj\Debug\net8.0\ref\13PassagensParametrosReferencia_out.dll

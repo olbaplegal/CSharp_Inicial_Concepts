@@ -1,0 +1,14 @@
+C:\dev\CSharpEssencial\ClasseMetodos\PassandoArgumentosPorValor\bin\Debug\net8.0\PassandoArgumentosPorValor.exe
+C:\dev\CSharpEssencial\ClasseMetodos\PassandoArgumentosPorValor\bin\Debug\net8.0\PassandoArgumentosPorValor.deps.json
+C:\dev\CSharpEssencial\ClasseMetodos\PassandoArgumentosPorValor\bin\Debug\net8.0\PassandoArgumentosPorValor.runtimeconfig.json
+C:\dev\CSharpEssencial\ClasseMetodos\PassandoArgumentosPorValor\bin\Debug\net8.0\PassandoArgumentosPorValor.dll
+C:\dev\CSharpEssencial\ClasseMetodos\PassandoArgumentosPorValor\bin\Debug\net8.0\PassandoArgumentosPorValor.pdb
+C:\dev\CSharpEssencial\ClasseMetodos\PassandoArgumentosPorValor\obj\Debug\net8.0\PassandoArgumentosPorValor.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\CSharpEssencial\ClasseMetodos\PassandoArgumentosPorValor\obj\Debug\net8.0\PassandoArgumentosPorValor.AssemblyInfoInputs.cache
+C:\dev\CSharpEssencial\ClasseMetodos\PassandoArgumentosPorValor\obj\Debug\net8.0\PassandoArgumentosPorValor.AssemblyInfo.cs
+C:\dev\CSharpEssencial\ClasseMetodos\PassandoArgumentosPorValor\obj\Debug\net8.0\PassandoArgumentosPorValor.csproj.CoreCompileInputs.cache
+C:\dev\CSharpEssencial\ClasseMetodos\PassandoArgumentosPorValor\obj\Debug\net8.0\PassandoArgumentosPorValor.dll
+C:\dev\CSharpEssencial\ClasseMetodos\PassandoArgumentosPorValor\obj\Debug\net8.0\refint\PassandoArgumentosPorValor.dll
+C:\dev\CSharpEssencial\ClasseMetodos\PassandoArgumentosPorValor\obj\Debug\net8.0\PassandoArgumentosPorValor.pdb
+C:\dev\CSharpEssencial\ClasseMetodos\PassandoArgumentosPorValor\obj\Debug\net8.0\PassandoArgumentosPorValor.genruntimeconfig.cache
+C:\dev\CSharpEssencial\ClasseMetodos\PassandoArgumentosPorValor\obj\Debug\net8.0\ref\PassandoArgumentosPorValor.dll

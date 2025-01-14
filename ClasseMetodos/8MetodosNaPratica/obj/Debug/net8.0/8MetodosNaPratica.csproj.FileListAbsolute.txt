@@ -1,0 +1,14 @@
+C:\dev\CSharpEssencial\ClasseMetodos\8MetodosNaPratica\bin\Debug\net8.0\8MetodosNaPratica.exe
+C:\dev\CSharpEssencial\ClasseMetodos\8MetodosNaPratica\bin\Debug\net8.0\8MetodosNaPratica.deps.json
+C:\dev\CSharpEssencial\ClasseMetodos\8MetodosNaPratica\bin\Debug\net8.0\8MetodosNaPratica.runtimeconfig.json
+C:\dev\CSharpEssencial\ClasseMetodos\8MetodosNaPratica\bin\Debug\net8.0\8MetodosNaPratica.dll
+C:\dev\CSharpEssencial\ClasseMetodos\8MetodosNaPratica\bin\Debug\net8.0\8MetodosNaPratica.pdb
+C:\dev\CSharpEssencial\ClasseMetodos\8MetodosNaPratica\obj\Debug\net8.0\8MetodosNaPratica.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\CSharpEssencial\ClasseMetodos\8MetodosNaPratica\obj\Debug\net8.0\8MetodosNaPratica.AssemblyInfoInputs.cache
+C:\dev\CSharpEssencial\ClasseMetodos\8MetodosNaPratica\obj\Debug\net8.0\8MetodosNaPratica.AssemblyInfo.cs
+C:\dev\CSharpEssencial\ClasseMetodos\8MetodosNaPratica\obj\Debug\net8.0\8MetodosNaPratica.csproj.CoreCompileInputs.cache
+C:\dev\CSharpEssencial\ClasseMetodos\8MetodosNaPratica\obj\Debug\net8.0\8MetodosNaPratica.dll
+C:\dev\CSharpEssencial\ClasseMetodos\8MetodosNaPratica\obj\Debug\net8.0\refint\8MetodosNaPratica.dll
+C:\dev\CSharpEssencial\ClasseMetodos\8MetodosNaPratica\obj\Debug\net8.0\8MetodosNaPratica.pdb
+C:\dev\CSharpEssencial\ClasseMetodos\8MetodosNaPratica\obj\Debug\net8.0\8MetodosNaPratica.genruntimeconfig.cache
+C:\dev\CSharpEssencial\ClasseMetodos\8MetodosNaPratica\obj\Debug\net8.0\ref\8MetodosNaPratica.dll

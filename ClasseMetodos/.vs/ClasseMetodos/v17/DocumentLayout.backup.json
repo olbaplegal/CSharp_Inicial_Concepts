@@ -3,40 +3,20 @@
   "WorkspaceRootPath": "C:\\dev\\CSharpEssencial\\ClasseMetodos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C18EEB4F-18DD-4A86-A52E-85F76DACE799}|ClassesM\u00E9todosExercicioPratico\\ClassesM\u00E9todosExercicioPratico.csproj|c:\\dev\\csharpessencial\\classemetodos\\classesm\u00E9todosexerciciopratico\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C18EEB4F-18DD-4A86-A52E-85F76DACE799}|ClassesM\u00E9todosExercicioPratico\\ClassesM\u00E9todosExercicioPratico.csproj|solutionrelative:classesm\u00E9todosexerciciopratico\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{66FD2DA7-CBD6-4C37-9986-9E3D488F654C}|RespostaExercicio4\\RespostaExercicio4.csproj|c:\\dev\\csharpessencial\\classemetodos\\respostaexercicio4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66FD2DA7-CBD6-4C37-9986-9E3D488F654C}|RespostaExercicio4\\RespostaExercicio4.csproj|solutionrelative:respostaexercicio4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6A6D31EE-703D-43FA-8250-9339835069C7}|RespostaExercicio1\\RespostaExercicio1.csproj|c:\\dev\\csharpessencial\\classemetodos\\respostaexercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A6D31EE-703D-43FA-8250-9339835069C7}|RespostaExercicio1\\RespostaExercicio1.csproj|solutionrelative:respostaexercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FE22EEEF-50E9-432E-A3EB-9A8E9ABA33F8}|13PassagensParametrosReferencia_out\\13PassagensParametrosReferencia_out.csproj|c:\\dev\\csharpessencial\\classemetodos\\13passagensparametrosreferencia_out\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE22EEEF-50E9-432E-A3EB-9A8E9ABA33F8}|13PassagensParametrosReferencia_out\\13PassagensParametrosReferencia_out.csproj|solutionrelative:13passagensparametrosreferencia_out\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B571CAD4-BED0-418B-829A-5B0542F2E2C5}|6MetodosComRetorno\\6MetodosComRetorno.csproj|c:\\dev\\csharpessencial\\classemetodos\\6metodoscomretorno\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B571CAD4-BED0-418B-829A-5B0542F2E2C5}|6MetodosComRetorno\\6MetodosComRetorno.csproj|solutionrelative:6metodoscomretorno\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{62F12B62-C03F-465C-9878-ED8E7028AE7F}|RespostaExercicio3\\RespostaExercicio3.csproj|c:\\dev\\csharpessencial\\classemetodos\\respostaexercicio3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62F12B62-C03F-465C-9878-ED8E7028AE7F}|RespostaExercicio3\\RespostaExercicio3.csproj|solutionrelative:respostaexercicio3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BA379176-A02C-4C4E-A5EE-F5B388649F5F}|06this\\06this.csproj|c:\\dev\\csharpessencial\\classemetodos\\06this\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BA379176-A02C-4C4E-A5EE-F5B388649F5F}|06this\\06this.csproj|solutionrelative:06this\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FFB3A447-4419-41DB-BA84-270F73DDF56D}|2Metodos\\2Metodos.csproj|c:\\dev\\csharpessencial\\classemetodos\\2metodos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FFB3A447-4419-41DB-BA84-270F73DDF56D}|2Metodos\\2Metodos.csproj|solutionrelative:2metodos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{36F3DCAD-C38A-47CD-9F30-5771C9327118}|4MetodosParametros\\4MetodosParametros.csproj|c:\\dev\\csharpessencial\\classemetodos\\4metodosparametros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{36F3DCAD-C38A-47CD-9F30-5771C9327118}|4MetodosParametros\\4MetodosParametros.csproj|solutionrelative:4metodosparametros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2D450FFA-C819-439B-8B7F-12107C99DAE4}|3MetodosParemetros\\3MetodosParemetros.csproj|c:\\dev\\csharpessencial\\classemetodos\\3metodosparemetros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D450FFA-C819-439B-8B7F-12107C99DAE4}|3MetodosParemetros\\3MetodosParemetros.csproj|solutionrelative:3metodosparemetros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DF77D77C-CC80-4D38-86A3-BCBF6C77EDD1}|ClasseMetodos\\ClasseMetodos.csproj|c:\\dev\\csharpessencial\\classemetodos\\classemetodos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DF77D77C-CC80-4D38-86A3-BCBF6C77EDD1}|ClasseMetodos\\ClasseMetodos.csproj|solutionrelative:classemetodos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80C2C5F4-AEC3-4297-85C9-0DAD75AC7A9D}|5Construtores\\5Construtores.csproj|c:\\dev\\csharpessencial\\classemetodos\\5construtores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80C2C5F4-AEC3-4297-85C9-0DAD75AC7A9D}|5Construtores\\5Construtores.csproj|solutionrelative:5construtores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B829A6D5-CB3E-4800-9D89-B151EBBE5583}|PassandoArgumentosPorValor\\PassandoArgumentosPorValor.csproj|c:\\dev\\csharpessencial\\classemetodos\\passandoargumentosporvalor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B829A6D5-CB3E-4800-9D89-B151EBBE5583}|PassandoArgumentosPorValor\\PassandoArgumentosPorValor.csproj|solutionrelative:passandoargumentosporvalor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,123 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\dev\\CSharpEssencial\\ClasseMetodos\\6MetodosComRetorno\\Program.cs",
-              "RelativeDocumentMoniker": "6MetodosComRetorno\\Program.cs",
-              "ToolTip": "C:\\dev\\CSharpEssencial\\ClasseMetodos\\6MetodosComRetorno\\Program.cs",
-              "RelativeToolTip": "6MetodosComRetorno\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\dev\\CSharpEssencial\\ClasseMetodos\\RespostaExercicio4\\Program.cs",
+              "RelativeDocumentMoniker": "RespostaExercicio4\\Program.cs",
+              "ToolTip": "C:\\dev\\CSharpEssencial\\ClasseMetodos\\RespostaExercicio4\\Program.cs*",
+              "RelativeToolTip": "RespostaExercicio4\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T14:18:00.606Z",
+              "WhenOpened": "2025-01-14T14:38:27.231Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\dev\\CSharpEssencial\\ClasseMetodos\\RespostaExercicio1\\Program.cs",
-              "RelativeDocumentMoniker": "RespostaExercicio1\\Program.cs",
-              "ToolTip": "C:\\dev\\CSharpEssencial\\ClasseMetodos\\RespostaExercicio1\\Program.cs",
-              "RelativeToolTip": "RespostaExercicio1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAFAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\dev\\CSharpEssencial\\ClasseMetodos\\13PassagensParametrosReferencia_out\\Program.cs",
+              "RelativeDocumentMoniker": "13PassagensParametrosReferencia_out\\Program.cs",
+              "ToolTip": "C:\\dev\\CSharpEssencial\\ClasseMetodos\\13PassagensParametrosReferencia_out\\Program.cs",
+              "RelativeToolTip": "13PassagensParametrosReferencia_out\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T14:13:05.023Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\dev\\CSharpEssencial\\ClasseMetodos\\ClassesM\u00E9todosExercicioPratico\\Program.cs",
-              "RelativeDocumentMoniker": "ClassesM\u00E9todosExercicioPratico\\Program.cs",
-              "ToolTip": "C:\\dev\\CSharpEssencial\\ClasseMetodos\\ClassesM\u00E9todosExercicioPratico\\Program.cs*",
-              "RelativeToolTip": "ClassesM\u00E9todosExercicioPratico\\Program.cs*",
-              "ViewState": "AgIAACsAAAAAAAAAAAAawDsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T12:59:57.293Z",
+              "WhenOpened": "2025-01-14T14:18:38.515Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\dev\\CSharpEssencial\\ClasseMetodos\\06this\\Program.cs",
-              "RelativeDocumentMoniker": "06this\\Program.cs",
-              "ToolTip": "C:\\dev\\CSharpEssencial\\ClasseMetodos\\06this\\Program.cs",
-              "RelativeToolTip": "06this\\Program.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAqwDUAAAAKAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\dev\\CSharpEssencial\\ClasseMetodos\\PassandoArgumentosPorValor\\Program.cs",
+              "RelativeDocumentMoniker": "PassandoArgumentosPorValor\\Program.cs",
+              "ToolTip": "C:\\dev\\CSharpEssencial\\ClasseMetodos\\PassandoArgumentosPorValor\\Program.cs",
+              "RelativeToolTip": "PassandoArgumentosPorValor\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T13:05:18.043Z",
+              "WhenOpened": "2025-01-14T14:08:42.201Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\dev\\CSharpEssencial\\ClasseMetodos\\5Construtores\\Program.cs",
-              "RelativeDocumentMoniker": "5Construtores\\Program.cs",
-              "ToolTip": "C:\\dev\\CSharpEssencial\\ClasseMetodos\\5Construtores\\Program.cs",
-              "RelativeToolTip": "5Construtores\\Program.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAEwBMAAAA6AAAAAAAAAA==",
+              "DocumentMoniker": "C:\\dev\\CSharpEssencial\\ClasseMetodos\\RespostaExercicio3\\Program.cs",
+              "RelativeDocumentMoniker": "RespostaExercicio3\\Program.cs",
+              "ToolTip": "C:\\dev\\CSharpEssencial\\ClasseMetodos\\RespostaExercicio3\\Program.cs",
+              "RelativeToolTip": "RespostaExercicio3\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAiwD0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T12:46:36.022Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\dev\\CSharpEssencial\\ClasseMetodos\\4MetodosParametros\\Program.cs",
-              "RelativeDocumentMoniker": "4MetodosParametros\\Program.cs",
-              "ToolTip": "C:\\dev\\CSharpEssencial\\ClasseMetodos\\4MetodosParametros\\Program.cs",
-              "RelativeToolTip": "4MetodosParametros\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T21:29:53.981Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\dev\\CSharpEssencial\\ClasseMetodos\\3MetodosParemetros\\Program.cs",
-              "RelativeDocumentMoniker": "3MetodosParemetros\\Program.cs",
-              "ToolTip": "C:\\dev\\CSharpEssencial\\ClasseMetodos\\3MetodosParemetros\\Program.cs",
-              "RelativeToolTip": "3MetodosParemetros\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAArwA0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T21:20:58.619Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\dev\\CSharpEssencial\\ClasseMetodos\\2Metodos\\Program.cs",
-              "RelativeDocumentMoniker": "2Metodos\\Program.cs",
-              "ToolTip": "C:\\dev\\CSharpEssencial\\ClasseMetodos\\2Metodos\\Program.cs",
-              "RelativeToolTip": "2Metodos\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T21:08:48.944Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\dev\\CSharpEssencial\\ClasseMetodos\\ClasseMetodos\\Program.cs",
-              "RelativeDocumentMoniker": "ClasseMetodos\\Program.cs",
-              "ToolTip": "C:\\dev\\CSharpEssencial\\ClasseMetodos\\ClasseMetodos\\Program.cs",
-              "RelativeToolTip": "ClasseMetodos\\Program.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAYwCYAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T13:49:34.967Z",
+              "WhenOpened": "2025-01-14T13:51:00.199Z",
               "EditorCaption": ""
             }
           ]
