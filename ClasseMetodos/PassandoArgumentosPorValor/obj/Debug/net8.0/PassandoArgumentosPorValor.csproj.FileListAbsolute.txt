@@ -12,3 +12,4 @@ C:\dev\CSharpEssencial\ClasseMetodos\PassandoArgumentosPorValor\obj\Debug\net8.0
 C:\dev\CSharpEssencial\ClasseMetodos\PassandoArgumentosPorValor\obj\Debug\net8.0\PassandoArgumentosPorValor.pdb
 C:\dev\CSharpEssencial\ClasseMetodos\PassandoArgumentosPorValor\obj\Debug\net8.0\PassandoArgumentosPorValor.genruntimeconfig.cache
 C:\dev\CSharpEssencial\ClasseMetodos\PassandoArgumentosPorValor\obj\Debug\net8.0\ref\PassandoArgumentosPorValor.dll
+C:\dev\CSharpEssencial\ClasseMetodos\PassandoArgumentosPorValor\obj\Debug\net8.0\PassandoArgumentosPorValor.sourcelink.json

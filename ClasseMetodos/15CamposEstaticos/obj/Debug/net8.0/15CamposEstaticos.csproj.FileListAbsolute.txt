@@ -1,0 +1,15 @@
+C:\dev\CSharpEssencial\ClasseMetodos\15CamposEstaticos\obj\Debug\net8.0\15CamposEstaticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\CSharpEssencial\ClasseMetodos\15CamposEstaticos\obj\Debug\net8.0\15CamposEstaticos.AssemblyInfoInputs.cache
+C:\dev\CSharpEssencial\ClasseMetodos\15CamposEstaticos\obj\Debug\net8.0\15CamposEstaticos.AssemblyInfo.cs
+C:\dev\CSharpEssencial\ClasseMetodos\15CamposEstaticos\obj\Debug\net8.0\15CamposEstaticos.csproj.CoreCompileInputs.cache
+C:\dev\CSharpEssencial\ClasseMetodos\15CamposEstaticos\obj\Debug\net8.0\15CamposEstaticos.sourcelink.json
+C:\dev\CSharpEssencial\ClasseMetodos\15CamposEstaticos\bin\Debug\net8.0\15CamposEstaticos.exe
+C:\dev\CSharpEssencial\ClasseMetodos\15CamposEstaticos\bin\Debug\net8.0\15CamposEstaticos.deps.json
+C:\dev\CSharpEssencial\ClasseMetodos\15CamposEstaticos\bin\Debug\net8.0\15CamposEstaticos.runtimeconfig.json
+C:\dev\CSharpEssencial\ClasseMetodos\15CamposEstaticos\bin\Debug\net8.0\15CamposEstaticos.dll
+C:\dev\CSharpEssencial\ClasseMetodos\15CamposEstaticos\bin\Debug\net8.0\15CamposEstaticos.pdb
+C:\dev\CSharpEssencial\ClasseMetodos\15CamposEstaticos\obj\Debug\net8.0\15CamposEstaticos.dll
+C:\dev\CSharpEssencial\ClasseMetodos\15CamposEstaticos\obj\Debug\net8.0\refint\15CamposEstaticos.dll
+C:\dev\CSharpEssencial\ClasseMetodos\15CamposEstaticos\obj\Debug\net8.0\15CamposEstaticos.pdb
+C:\dev\CSharpEssencial\ClasseMetodos\15CamposEstaticos\obj\Debug\net8.0\15CamposEstaticos.genruntimeconfig.cache
+C:\dev\CSharpEssencial\ClasseMetodos\15CamposEstaticos\obj\Debug\net8.0\ref\15CamposEstaticos.dll

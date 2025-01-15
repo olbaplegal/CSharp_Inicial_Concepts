@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "14MetodosEstaticos/1.0.0": {
+        "dependencies": {
+          "PassandoArgumentosPorValor": "1.0.0"
+        },
+        "runtime": {
+          "14MetodosEstaticos.dll": {}
+        }
+      },
+      "PassandoArgumentosPorValor/1.0.0": {
+        "runtime": {
+          "PassandoArgumentosPorValor.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "14MetodosEstaticos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PassandoArgumentosPorValor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

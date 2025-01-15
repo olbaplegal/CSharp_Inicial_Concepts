@@ -1,0 +1,15 @@
+C:\dev\CSharpEssencial\ClasseMetodos\RespostaExercicio6\bin\Debug\net8.0\RespostaExercicio6.exe
+C:\dev\CSharpEssencial\ClasseMetodos\RespostaExercicio6\bin\Debug\net8.0\RespostaExercicio6.deps.json
+C:\dev\CSharpEssencial\ClasseMetodos\RespostaExercicio6\bin\Debug\net8.0\RespostaExercicio6.runtimeconfig.json
+C:\dev\CSharpEssencial\ClasseMetodos\RespostaExercicio6\bin\Debug\net8.0\RespostaExercicio6.dll
+C:\dev\CSharpEssencial\ClasseMetodos\RespostaExercicio6\bin\Debug\net8.0\RespostaExercicio6.pdb
+C:\dev\CSharpEssencial\ClasseMetodos\RespostaExercicio6\obj\Debug\net8.0\RespostaExercicio6.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\CSharpEssencial\ClasseMetodos\RespostaExercicio6\obj\Debug\net8.0\RespostaExercicio6.AssemblyInfoInputs.cache
+C:\dev\CSharpEssencial\ClasseMetodos\RespostaExercicio6\obj\Debug\net8.0\RespostaExercicio6.AssemblyInfo.cs
+C:\dev\CSharpEssencial\ClasseMetodos\RespostaExercicio6\obj\Debug\net8.0\RespostaExercicio6.csproj.CoreCompileInputs.cache
+C:\dev\CSharpEssencial\ClasseMetodos\RespostaExercicio6\obj\Debug\net8.0\RespostaExercicio6.sourcelink.json
+C:\dev\CSharpEssencial\ClasseMetodos\RespostaExercicio6\obj\Debug\net8.0\RespostaExercicio6.dll
+C:\dev\CSharpEssencial\ClasseMetodos\RespostaExercicio6\obj\Debug\net8.0\refint\RespostaExercicio6.dll
+C:\dev\CSharpEssencial\ClasseMetodos\RespostaExercicio6\obj\Debug\net8.0\RespostaExercicio6.pdb
+C:\dev\CSharpEssencial\ClasseMetodos\RespostaExercicio6\obj\Debug\net8.0\RespostaExercicio6.genruntimeconfig.cache
+C:\dev\CSharpEssencial\ClasseMetodos\RespostaExercicio6\obj\Debug\net8.0\ref\RespostaExercicio6.dll

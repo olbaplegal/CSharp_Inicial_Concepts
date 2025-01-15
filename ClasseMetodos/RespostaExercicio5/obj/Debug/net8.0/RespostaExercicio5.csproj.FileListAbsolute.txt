@@ -12,3 +12,4 @@ C:\dev\CSharpEssencial\ClasseMetodos\RespostaExercicio5\obj\Debug\net8.0\refint\
 C:\dev\CSharpEssencial\ClasseMetodos\RespostaExercicio5\obj\Debug\net8.0\RespostaExercicio5.pdb
 C:\dev\CSharpEssencial\ClasseMetodos\RespostaExercicio5\obj\Debug\net8.0\RespostaExercicio5.genruntimeconfig.cache
 C:\dev\CSharpEssencial\ClasseMetodos\RespostaExercicio5\obj\Debug\net8.0\ref\RespostaExercicio5.dll
+C:\dev\CSharpEssencial\ClasseMetodos\RespostaExercicio5\obj\Debug\net8.0\RespostaExercicio5.sourcelink.json
