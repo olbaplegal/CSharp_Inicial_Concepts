@@ -1,0 +1,14 @@
+C:\dev\CSharpEssencial\ClasseMetodos\9Metodos_ArgumentosNomeados\obj\Debug\net8.0\9Metodos_ArgumentosNomeados.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\CSharpEssencial\ClasseMetodos\9Metodos_ArgumentosNomeados\obj\Debug\net8.0\9Metodos_ArgumentosNomeados.AssemblyInfoInputs.cache
+C:\dev\CSharpEssencial\ClasseMetodos\9Metodos_ArgumentosNomeados\obj\Debug\net8.0\9Metodos_ArgumentosNomeados.AssemblyInfo.cs
+C:\dev\CSharpEssencial\ClasseMetodos\9Metodos_ArgumentosNomeados\obj\Debug\net8.0\9Metodos_ArgumentosNomeados.csproj.CoreCompileInputs.cache
+C:\dev\CSharpEssencial\ClasseMetodos\9Metodos_ArgumentosNomeados\bin\Debug\net8.0\9Metodos_ArgumentosNomeados.exe
+C:\dev\CSharpEssencial\ClasseMetodos\9Metodos_ArgumentosNomeados\bin\Debug\net8.0\9Metodos_ArgumentosNomeados.deps.json
+C:\dev\CSharpEssencial\ClasseMetodos\9Metodos_ArgumentosNomeados\bin\Debug\net8.0\9Metodos_ArgumentosNomeados.runtimeconfig.json
+C:\dev\CSharpEssencial\ClasseMetodos\9Metodos_ArgumentosNomeados\bin\Debug\net8.0\9Metodos_ArgumentosNomeados.dll
+C:\dev\CSharpEssencial\ClasseMetodos\9Metodos_ArgumentosNomeados\bin\Debug\net8.0\9Metodos_ArgumentosNomeados.pdb
+C:\dev\CSharpEssencial\ClasseMetodos\9Metodos_ArgumentosNomeados\obj\Debug\net8.0\9Metodos_ArgumentosNomeados.dll
+C:\dev\CSharpEssencial\ClasseMetodos\9Metodos_ArgumentosNomeados\obj\Debug\net8.0\refint\9Metodos_ArgumentosNomeados.dll
+C:\dev\CSharpEssencial\ClasseMetodos\9Metodos_ArgumentosNomeados\obj\Debug\net8.0\9Metodos_ArgumentosNomeados.pdb
+C:\dev\CSharpEssencial\ClasseMetodos\9Metodos_ArgumentosNomeados\obj\Debug\net8.0\9Metodos_ArgumentosNomeados.genruntimeconfig.cache
+C:\dev\CSharpEssencial\ClasseMetodos\9Metodos_ArgumentosNomeados\obj\Debug\net8.0\ref\9Metodos_ArgumentosNomeados.dll

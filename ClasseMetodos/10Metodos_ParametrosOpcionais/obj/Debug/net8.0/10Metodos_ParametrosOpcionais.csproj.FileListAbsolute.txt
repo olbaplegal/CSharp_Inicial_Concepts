@@ -1,0 +1,14 @@
+C:\dev\CSharpEssencial\ClasseMetodos\10Metodos_ParametrosOpcionais\bin\Debug\net8.0\10Metodos_ParametrosOpcionais.exe
+C:\dev\CSharpEssencial\ClasseMetodos\10Metodos_ParametrosOpcionais\bin\Debug\net8.0\10Metodos_ParametrosOpcionais.deps.json
+C:\dev\CSharpEssencial\ClasseMetodos\10Metodos_ParametrosOpcionais\bin\Debug\net8.0\10Metodos_ParametrosOpcionais.runtimeconfig.json
+C:\dev\CSharpEssencial\ClasseMetodos\10Metodos_ParametrosOpcionais\bin\Debug\net8.0\10Metodos_ParametrosOpcionais.dll
+C:\dev\CSharpEssencial\ClasseMetodos\10Metodos_ParametrosOpcionais\bin\Debug\net8.0\10Metodos_ParametrosOpcionais.pdb
+C:\dev\CSharpEssencial\ClasseMetodos\10Metodos_ParametrosOpcionais\obj\Debug\net8.0\10Metodos_ParametrosOpcionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\CSharpEssencial\ClasseMetodos\10Metodos_ParametrosOpcionais\obj\Debug\net8.0\10Metodos_ParametrosOpcionais.AssemblyInfoInputs.cache
+C:\dev\CSharpEssencial\ClasseMetodos\10Metodos_ParametrosOpcionais\obj\Debug\net8.0\10Metodos_ParametrosOpcionais.AssemblyInfo.cs
+C:\dev\CSharpEssencial\ClasseMetodos\10Metodos_ParametrosOpcionais\obj\Debug\net8.0\10Metodos_ParametrosOpcionais.csproj.CoreCompileInputs.cache
+C:\dev\CSharpEssencial\ClasseMetodos\10Metodos_ParametrosOpcionais\obj\Debug\net8.0\10Metodos_ParametrosOpcionais.dll
+C:\dev\CSharpEssencial\ClasseMetodos\10Metodos_ParametrosOpcionais\obj\Debug\net8.0\refint\10Metodos_ParametrosOpcionais.dll
+C:\dev\CSharpEssencial\ClasseMetodos\10Metodos_ParametrosOpcionais\obj\Debug\net8.0\10Metodos_ParametrosOpcionais.pdb
+C:\dev\CSharpEssencial\ClasseMetodos\10Metodos_ParametrosOpcionais\obj\Debug\net8.0\10Metodos_ParametrosOpcionais.genruntimeconfig.cache
+C:\dev\CSharpEssencial\ClasseMetodos\10Metodos_ParametrosOpcionais\obj\Debug\net8.0\ref\10Metodos_ParametrosOpcionais.dll

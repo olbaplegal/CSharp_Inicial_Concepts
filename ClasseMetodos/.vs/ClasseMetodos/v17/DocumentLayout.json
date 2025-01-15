@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\dev\\CSharpEssencial\\ClasseMetodos\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{68D12F23-8572-4B97-8333-FFBAFF8C7817}|RespostaExercicio5\\RespostaExercicio5.csproj|c:\\dev\\csharpessencial\\classemetodos\\respostaexercicio5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68D12F23-8572-4B97-8333-FFBAFF8C7817}|RespostaExercicio5\\RespostaExercicio5.csproj|solutionrelative:respostaexercicio5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DD3031F-246F-4C23-956A-A6CA89D2B407}|10Metodos_ParametrosOpcionais\\10Metodos_ParametrosOpcionais.csproj|c:\\dev\\csharpessencial\\classemetodos\\10metodos_parametrosopcionais\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DD3031F-246F-4C23-956A-A6CA89D2B407}|10Metodos_ParametrosOpcionais\\10Metodos_ParametrosOpcionais.csproj|solutionrelative:10metodos_parametrosopcionais\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{66FD2DA7-CBD6-4C37-9986-9E3D488F654C}|RespostaExercicio4\\RespostaExercicio4.csproj|c:\\dev\\csharpessencial\\classemetodos\\respostaexercicio4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{66FD2DA7-CBD6-4C37-9986-9E3D488F654C}|RespostaExercicio4\\RespostaExercicio4.csproj|solutionrelative:respostaexercicio4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60ECDA14-19F1-42F0-A9A8-F3B58CD02C0C}|9Metodos_ArgumentosNomeados\\9Metodos_ArgumentosNomeados.csproj|c:\\dev\\csharpessencial\\classemetodos\\9metodos_argumentosnomeados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60ECDA14-19F1-42F0-A9A8-F3B58CD02C0C}|9Metodos_ArgumentosNomeados\\9Metodos_ArgumentosNomeados.csproj|solutionrelative:9metodos_argumentosnomeados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FE22EEEF-50E9-432E-A3EB-9A8E9ABA33F8}|13PassagensParametrosReferencia_out\\13PassagensParametrosReferencia_out.csproj|c:\\dev\\csharpessencial\\classemetodos\\13passagensparametrosreferencia_out\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -32,18 +44,57 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\dev\\CSharpEssencial\\ClasseMetodos\\RespostaExercicio5\\Program.cs",
+              "RelativeDocumentMoniker": "RespostaExercicio5\\Program.cs",
+              "ToolTip": "C:\\dev\\CSharpEssencial\\ClasseMetodos\\RespostaExercicio5\\Program.cs",
+              "RelativeToolTip": "RespostaExercicio5\\Program.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAEwDgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T12:53:21.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\dev\\CSharpEssencial\\ClasseMetodos\\10Metodos_ParametrosOpcionais\\Program.cs",
+              "RelativeDocumentMoniker": "10Metodos_ParametrosOpcionais\\Program.cs",
+              "ToolTip": "C:\\dev\\CSharpEssencial\\ClasseMetodos\\10Metodos_ParametrosOpcionais\\Program.cs",
+              "RelativeToolTip": "10Metodos_ParametrosOpcionais\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T12:43:03.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\dev\\CSharpEssencial\\ClasseMetodos\\9Metodos_ArgumentosNomeados\\Program.cs",
+              "RelativeDocumentMoniker": "9Metodos_ArgumentosNomeados\\Program.cs",
+              "ToolTip": "C:\\dev\\CSharpEssencial\\ClasseMetodos\\9Metodos_ArgumentosNomeados\\Program.cs",
+              "RelativeToolTip": "9Metodos_ArgumentosNomeados\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T12:29:15.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\dev\\CSharpEssencial\\ClasseMetodos\\RespostaExercicio4\\Program.cs",
               "RelativeDocumentMoniker": "RespostaExercicio4\\Program.cs",
               "ToolTip": "C:\\dev\\CSharpEssencial\\ClasseMetodos\\RespostaExercicio4\\Program.cs",
               "RelativeToolTip": "RespostaExercicio4\\Program.cs",
-              "ViewState": "AgIAACoAAAAAJCt+YhYswD4AAABOAAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAEwDoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-14T14:38:27.231Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\dev\\CSharpEssencial\\ClasseMetodos\\13PassagensParametrosReferencia_out\\Program.cs",
               "RelativeDocumentMoniker": "13PassagensParametrosReferencia_out\\Program.cs",
@@ -51,12 +102,11 @@
               "RelativeToolTip": "13PassagensParametrosReferencia_out\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T14:18:38.515Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-14T14:18:38.515Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\dev\\CSharpEssencial\\ClasseMetodos\\PassandoArgumentosPorValor\\Program.cs",
               "RelativeDocumentMoniker": "PassandoArgumentosPorValor\\Program.cs",
@@ -64,12 +114,11 @@
               "RelativeToolTip": "PassandoArgumentosPorValor\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T14:08:42.201Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-14T14:08:42.201Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\dev\\CSharpEssencial\\ClasseMetodos\\RespostaExercicio3\\Program.cs",
               "RelativeDocumentMoniker": "RespostaExercicio3\\Program.cs",
@@ -77,8 +126,7 @@
               "RelativeToolTip": "RespostaExercicio3\\Program.cs",
               "ViewState": "AgIAAB4AAAAAAAAAAAAiwD0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T13:51:00.199Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-14T13:51:00.199Z"
             }
           ]
         }
