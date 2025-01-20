@@ -1,0 +1,15 @@
+C:\dev\CSharpEssencial\ClasseMetodos\16Propriedades\bin\Debug\net8.0\16Propriedades.exe
+C:\dev\CSharpEssencial\ClasseMetodos\16Propriedades\bin\Debug\net8.0\16Propriedades.deps.json
+C:\dev\CSharpEssencial\ClasseMetodos\16Propriedades\bin\Debug\net8.0\16Propriedades.runtimeconfig.json
+C:\dev\CSharpEssencial\ClasseMetodos\16Propriedades\bin\Debug\net8.0\16Propriedades.dll
+C:\dev\CSharpEssencial\ClasseMetodos\16Propriedades\bin\Debug\net8.0\16Propriedades.pdb
+C:\dev\CSharpEssencial\ClasseMetodos\16Propriedades\obj\Debug\net8.0\16Propriedades.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\CSharpEssencial\ClasseMetodos\16Propriedades\obj\Debug\net8.0\16Propriedades.AssemblyInfoInputs.cache
+C:\dev\CSharpEssencial\ClasseMetodos\16Propriedades\obj\Debug\net8.0\16Propriedades.AssemblyInfo.cs
+C:\dev\CSharpEssencial\ClasseMetodos\16Propriedades\obj\Debug\net8.0\16Propriedades.csproj.CoreCompileInputs.cache
+C:\dev\CSharpEssencial\ClasseMetodos\16Propriedades\obj\Debug\net8.0\16Propriedades.sourcelink.json
+C:\dev\CSharpEssencial\ClasseMetodos\16Propriedades\obj\Debug\net8.0\16Propriedades.dll
+C:\dev\CSharpEssencial\ClasseMetodos\16Propriedades\obj\Debug\net8.0\refint\16Propriedades.dll
+C:\dev\CSharpEssencial\ClasseMetodos\16Propriedades\obj\Debug\net8.0\16Propriedades.pdb
+C:\dev\CSharpEssencial\ClasseMetodos\16Propriedades\obj\Debug\net8.0\16Propriedades.genruntimeconfig.cache
+C:\dev\CSharpEssencial\ClasseMetodos\16Propriedades\obj\Debug\net8.0\ref\16Propriedades.dll

@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "C:\\dev\\CSharpEssencial\\ClasseMetodos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3F1FB65A-8DF6-483B-A035-C451804295F9}|RespostaExercicio6\\RespostaExercicio6.csproj|c:\\dev\\csharpessencial\\classemetodos\\respostaexercicio6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F1FB65A-8DF6-483B-A035-C451804295F9}|RespostaExercicio6\\RespostaExercicio6.csproj|solutionrelative:respostaexercicio6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5646B66E-6DB4-4579-B37F-F1993606A626}|15CamposEstaticos\\15CamposEstaticos.csproj|c:\\dev\\csharpessencial\\classemetodos\\15camposestaticos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5646B66E-6DB4-4579-B37F-F1993606A626}|15CamposEstaticos\\15CamposEstaticos.csproj|solutionrelative:15camposestaticos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4EC31420-4439-4EE9-956B-6C278067F603}|14MetodosEstaticos\\14MetodosEstaticos.csproj|c:\\dev\\csharpessencial\\classemetodos\\14metodosestaticos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4EC31420-4439-4EE9-956B-6C278067F603}|14MetodosEstaticos\\14MetodosEstaticos.csproj|solutionrelative:14metodosestaticos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{93F0D754-CA04-49DE-9546-8271AF5745CB}|RespostaExercicio7\\RespostaExercicio7.csproj|c:\\dev\\csharpessencial\\classemetodos\\respostaexercicio7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93F0D754-CA04-49DE-9546-8271AF5745CB}|RespostaExercicio7\\RespostaExercicio7.csproj|solutionrelative:respostaexercicio7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +14,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\dev\\CSharpEssencial\\ClasseMetodos\\RespostaExercicio6\\Program.cs",
-              "RelativeDocumentMoniker": "RespostaExercicio6\\Program.cs",
-              "ToolTip": "C:\\dev\\CSharpEssencial\\ClasseMetodos\\RespostaExercicio6\\Program.cs",
-              "RelativeToolTip": "RespostaExercicio6\\Program.cs",
+              "DocumentMoniker": "C:\\dev\\CSharpEssencial\\ClasseMetodos\\RespostaExercicio7\\Program.cs",
+              "RelativeDocumentMoniker": "RespostaExercicio7\\Program.cs",
+              "ToolTip": "C:\\dev\\CSharpEssencial\\ClasseMetodos\\RespostaExercicio7\\Program.cs",
+              "RelativeToolTip": "RespostaExercicio7\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T14:00:56.986Z",
+              "WhenOpened": "2025-01-19T15:32:00.123Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\dev\\CSharpEssencial\\ClasseMetodos\\15CamposEstaticos\\Program.cs",
-              "RelativeDocumentMoniker": "15CamposEstaticos\\Program.cs",
-              "ToolTip": "C:\\dev\\CSharpEssencial\\ClasseMetodos\\15CamposEstaticos\\Program.cs",
-              "RelativeToolTip": "15CamposEstaticos\\Program.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAEwB0AAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T13:41:25.47Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\dev\\CSharpEssencial\\ClasseMetodos\\14MetodosEstaticos\\Program.cs",
-              "RelativeDocumentMoniker": "14MetodosEstaticos\\Program.cs",
-              "ToolTip": "C:\\dev\\CSharpEssencial\\ClasseMetodos\\14MetodosEstaticos\\Program.cs",
-              "RelativeToolTip": "14MetodosEstaticos\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T13:21:32.896Z"
             }
           ]
         }

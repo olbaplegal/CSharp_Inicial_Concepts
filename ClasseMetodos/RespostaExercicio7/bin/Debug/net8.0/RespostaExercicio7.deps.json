@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "RespostaExercicio7/1.0.0": {
+        "runtime": {
+          "RespostaExercicio7.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RespostaExercicio7/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

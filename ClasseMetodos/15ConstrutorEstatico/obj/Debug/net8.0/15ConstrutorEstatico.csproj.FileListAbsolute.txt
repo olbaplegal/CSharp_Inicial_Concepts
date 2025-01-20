@@ -1,0 +1,15 @@
+C:\dev\CSharpEssencial\ClasseMetodos\15ConstrutorEstatico\bin\Debug\net8.0\15ConstrutorEstatico.exe
+C:\dev\CSharpEssencial\ClasseMetodos\15ConstrutorEstatico\bin\Debug\net8.0\15ConstrutorEstatico.deps.json
+C:\dev\CSharpEssencial\ClasseMetodos\15ConstrutorEstatico\bin\Debug\net8.0\15ConstrutorEstatico.runtimeconfig.json
+C:\dev\CSharpEssencial\ClasseMetodos\15ConstrutorEstatico\bin\Debug\net8.0\15ConstrutorEstatico.dll
+C:\dev\CSharpEssencial\ClasseMetodos\15ConstrutorEstatico\bin\Debug\net8.0\15ConstrutorEstatico.pdb
+C:\dev\CSharpEssencial\ClasseMetodos\15ConstrutorEstatico\obj\Debug\net8.0\15ConstrutorEstatico.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\CSharpEssencial\ClasseMetodos\15ConstrutorEstatico\obj\Debug\net8.0\15ConstrutorEstatico.AssemblyInfoInputs.cache
+C:\dev\CSharpEssencial\ClasseMetodos\15ConstrutorEstatico\obj\Debug\net8.0\15ConstrutorEstatico.AssemblyInfo.cs
+C:\dev\CSharpEssencial\ClasseMetodos\15ConstrutorEstatico\obj\Debug\net8.0\15ConstrutorEstatico.csproj.CoreCompileInputs.cache
+C:\dev\CSharpEssencial\ClasseMetodos\15ConstrutorEstatico\obj\Debug\net8.0\15ConstrutorEstatico.sourcelink.json
+C:\dev\CSharpEssencial\ClasseMetodos\15ConstrutorEstatico\obj\Debug\net8.0\15ConstrutorEstatico.dll
+C:\dev\CSharpEssencial\ClasseMetodos\15ConstrutorEstatico\obj\Debug\net8.0\refint\15ConstrutorEstatico.dll
+C:\dev\CSharpEssencial\ClasseMetodos\15ConstrutorEstatico\obj\Debug\net8.0\15ConstrutorEstatico.pdb
+C:\dev\CSharpEssencial\ClasseMetodos\15ConstrutorEstatico\obj\Debug\net8.0\15ConstrutorEstatico.genruntimeconfig.cache
+C:\dev\CSharpEssencial\ClasseMetodos\15ConstrutorEstatico\obj\Debug\net8.0\ref\15ConstrutorEstatico.dll
