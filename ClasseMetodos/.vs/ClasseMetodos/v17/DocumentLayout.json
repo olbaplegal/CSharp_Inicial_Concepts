@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\dev\\CSharpEssencial\\ClasseMetodos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{75C02E63-7D06-4360-95F1-56CFAA1A6675}|RespostaExercicio9\\RespostaExercicio9.csproj|c:\\dev\\csharpessencial\\classemetodos\\respostaexercicio9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75C02E63-7D06-4360-95F1-56CFAA1A6675}|RespostaExercicio9\\RespostaExercicio9.csproj|solutionrelative:respostaexercicio9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C84E435A-DD65-4B83-931E-691578F0188E}|RespostaExercicio10\\RespostaExercicio10.csproj|c:\\dev\\csharpessencial\\classemetodos\\respostaexercicio10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C84E435A-DD65-4B83-931E-691578F0188E}|RespostaExercicio10\\RespostaExercicio10.csproj|solutionrelative:respostaexercicio10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C1296DF-DFD6-4C96-8ED9-76CB92BDC73C}|18Enumeration\\18Enumeration.csproj|c:\\dev\\csharpessencial\\classemetodos\\18enumeration\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C1296DF-DFD6-4C96-8ED9-76CB92BDC73C}|18Enumeration\\18Enumeration.csproj|solutionrelative:18enumeration\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D50BAA6F-C84B-419A-817E-E522E4B3CEDA}|19ModificadoresDeAcesso\\19ModificadoresDeAcesso.csproj|c:\\dev\\csharpessencial\\classemetodos\\19modificadoresdeacesso\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D50BAA6F-C84B-419A-817E-E522E4B3CEDA}|19ModificadoresDeAcesso\\19ModificadoresDeAcesso.csproj|solutionrelative:19modificadoresdeacesso\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C1296DF-DFD6-4C96-8ED9-76CB92BDC73C}|18Enumeration\\18Enumeration.csproj|c:\\dev\\csharpessencial\\classemetodos\\18enumeration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C1296DF-DFD6-4C96-8ED9-76CB92BDC73C}|18Enumeration\\18Enumeration.csproj|solutionrelative:18enumeration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D50BAA6F-C84B-419A-817E-E522E4B3CEDA}|19ModificadoresDeAcesso\\19ModificadoresDeAcesso.csproj|c:\\dev\\csharpessencial\\classemetodos\\19modificadoresdeacesso\\minhastruct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D50BAA6F-C84B-419A-817E-E522E4B3CEDA}|19ModificadoresDeAcesso\\19ModificadoresDeAcesso.csproj|solutionrelative:19modificadoresdeacesso\\minhastruct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{75C02E63-7D06-4360-95F1-56CFAA1A6675}|RespostaExercicio9\\RespostaExercicio9.csproj|c:\\dev\\csharpessencial\\classemetodos\\respostaexercicio9\\carroenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75C02E63-7D06-4360-95F1-56CFAA1A6675}|RespostaExercicio9\\RespostaExercicio9.csproj|solutionrelative:respostaexercicio9\\carroenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D50BAA6F-C84B-419A-817E-E522E4B3CEDA}|19ModificadoresDeAcesso\\19ModificadoresDeAcesso.csproj|c:\\dev\\csharpessencial\\classemetodos\\19modificadoresdeacesso\\minhaenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D50BAA6F-C84B-419A-817E-E522E4B3CEDA}|19ModificadoresDeAcesso\\19ModificadoresDeAcesso.csproj|solutionrelative:19modificadoresdeacesso\\minhaenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D50BAA6F-C84B-419A-817E-E522E4B3CEDA}|19ModificadoresDeAcesso\\19ModificadoresDeAcesso.csproj|c:\\dev\\csharpessencial\\classemetodos\\19modificadoresdeacesso\\minhaclasse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D50BAA6F-C84B-419A-817E-E522E4B3CEDA}|19ModificadoresDeAcesso\\19ModificadoresDeAcesso.csproj|solutionrelative:19modificadoresdeacesso\\minhaclasse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,8 +30,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\dev\\CSharpEssencial\\ClasseMetodos\\RespostaExercicio10\\Program.cs",
+              "RelativeDocumentMoniker": "RespostaExercicio10\\Program.cs",
+              "ToolTip": "C:\\dev\\CSharpEssencial\\ClasseMetodos\\RespostaExercicio10\\Program.cs",
+              "RelativeToolTip": "RespostaExercicio10\\Program.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAIA4wFEAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T22:30:39.709Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
@@ -35,53 +52,53 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "CarroEnum.cs",
-              "DocumentMoniker": "C:\\dev\\CSharpEssencial\\ClasseMetodos\\RespostaExercicio9\\CarroEnum.cs",
-              "RelativeDocumentMoniker": "RespostaExercicio9\\CarroEnum.cs",
-              "ToolTip": "C:\\dev\\CSharpEssencial\\ClasseMetodos\\RespostaExercicio9\\CarroEnum.cs",
-              "RelativeToolTip": "RespostaExercicio9\\CarroEnum.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Title": "MinhaEnum.cs",
+              "DocumentMoniker": "C:\\dev\\CSharpEssencial\\ClasseMetodos\\19ModificadoresDeAcesso\\MinhaEnum.cs",
+              "RelativeDocumentMoniker": "19ModificadoresDeAcesso\\MinhaEnum.cs",
+              "ToolTip": "C:\\dev\\CSharpEssencial\\ClasseMetodos\\19ModificadoresDeAcesso\\MinhaEnum.cs",
+              "RelativeToolTip": "19ModificadoresDeAcesso\\MinhaEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T14:54:03.388Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\dev\\CSharpEssencial\\ClasseMetodos\\RespostaExercicio9\\Program.cs",
-              "RelativeDocumentMoniker": "RespostaExercicio9\\Program.cs",
-              "ToolTip": "C:\\dev\\CSharpEssencial\\ClasseMetodos\\RespostaExercicio9\\Program.cs",
-              "RelativeToolTip": "RespostaExercicio9\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T14:53:43.203Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\dev\\CSharpEssencial\\ClasseMetodos\\18Enumeration\\Class1.cs",
-              "RelativeDocumentMoniker": "18Enumeration\\Class1.cs",
-              "ToolTip": "C:\\dev\\CSharpEssencial\\ClasseMetodos\\18Enumeration\\Class1.cs",
-              "RelativeToolTip": "18Enumeration\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T14:48:49.626Z",
+              "WhenOpened": "2025-02-03T22:25:34.797Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\dev\\CSharpEssencial\\ClasseMetodos\\18Enumeration\\Program.cs",
-              "RelativeDocumentMoniker": "18Enumeration\\Program.cs",
-              "ToolTip": "C:\\dev\\CSharpEssencial\\ClasseMetodos\\18Enumeration\\Program.cs",
-              "RelativeToolTip": "18Enumeration\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAnAAAAAAAAAA==",
+              "Title": "MinhaStruct.cs",
+              "DocumentMoniker": "C:\\dev\\CSharpEssencial\\ClasseMetodos\\19ModificadoresDeAcesso\\MinhaStruct.cs",
+              "RelativeDocumentMoniker": "19ModificadoresDeAcesso\\MinhaStruct.cs",
+              "ToolTip": "C:\\dev\\CSharpEssencial\\ClasseMetodos\\19ModificadoresDeAcesso\\MinhaStruct.cs",
+              "RelativeToolTip": "19ModificadoresDeAcesso\\MinhaStruct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T14:26:49.116Z",
+              "WhenOpened": "2025-02-03T22:24:58.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MinhaClasse.cs",
+              "DocumentMoniker": "C:\\dev\\CSharpEssencial\\ClasseMetodos\\19ModificadoresDeAcesso\\MinhaClasse.cs",
+              "RelativeDocumentMoniker": "19ModificadoresDeAcesso\\MinhaClasse.cs",
+              "ToolTip": "C:\\dev\\CSharpEssencial\\ClasseMetodos\\19ModificadoresDeAcesso\\MinhaClasse.cs",
+              "RelativeToolTip": "19ModificadoresDeAcesso\\MinhaClasse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T22:23:43.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\dev\\CSharpEssencial\\ClasseMetodos\\19ModificadoresDeAcesso\\Program.cs",
+              "RelativeDocumentMoniker": "19ModificadoresDeAcesso\\Program.cs",
+              "ToolTip": "C:\\dev\\CSharpEssencial\\ClasseMetodos\\19ModificadoresDeAcesso\\Program.cs",
+              "RelativeToolTip": "19ModificadoresDeAcesso\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T22:23:04.002Z",
               "EditorCaption": ""
             }
           ]
