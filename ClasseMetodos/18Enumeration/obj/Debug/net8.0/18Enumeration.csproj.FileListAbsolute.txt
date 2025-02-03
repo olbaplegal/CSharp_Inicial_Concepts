@@ -1,0 +1,15 @@
+C:\dev\CSharpEssencial\ClasseMetodos\18Enumeration\bin\Debug\net8.0\18Enumeration.exe
+C:\dev\CSharpEssencial\ClasseMetodos\18Enumeration\bin\Debug\net8.0\18Enumeration.deps.json
+C:\dev\CSharpEssencial\ClasseMetodos\18Enumeration\bin\Debug\net8.0\18Enumeration.runtimeconfig.json
+C:\dev\CSharpEssencial\ClasseMetodos\18Enumeration\bin\Debug\net8.0\18Enumeration.dll
+C:\dev\CSharpEssencial\ClasseMetodos\18Enumeration\bin\Debug\net8.0\18Enumeration.pdb
+C:\dev\CSharpEssencial\ClasseMetodos\18Enumeration\obj\Debug\net8.0\18Enumeration.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\CSharpEssencial\ClasseMetodos\18Enumeration\obj\Debug\net8.0\18Enumeration.AssemblyInfoInputs.cache
+C:\dev\CSharpEssencial\ClasseMetodos\18Enumeration\obj\Debug\net8.0\18Enumeration.AssemblyInfo.cs
+C:\dev\CSharpEssencial\ClasseMetodos\18Enumeration\obj\Debug\net8.0\18Enumeration.csproj.CoreCompileInputs.cache
+C:\dev\CSharpEssencial\ClasseMetodos\18Enumeration\obj\Debug\net8.0\18Enumeration.sourcelink.json
+C:\dev\CSharpEssencial\ClasseMetodos\18Enumeration\obj\Debug\net8.0\18Enumeration.dll
+C:\dev\CSharpEssencial\ClasseMetodos\18Enumeration\obj\Debug\net8.0\refint\18Enumeration.dll
+C:\dev\CSharpEssencial\ClasseMetodos\18Enumeration\obj\Debug\net8.0\18Enumeration.pdb
+C:\dev\CSharpEssencial\ClasseMetodos\18Enumeration\obj\Debug\net8.0\18Enumeration.genruntimeconfig.cache
+C:\dev\CSharpEssencial\ClasseMetodos\18Enumeration\obj\Debug\net8.0\ref\18Enumeration.dll
