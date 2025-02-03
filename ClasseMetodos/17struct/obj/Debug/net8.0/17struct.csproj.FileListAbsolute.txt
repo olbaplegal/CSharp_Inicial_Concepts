@@ -1,0 +1,15 @@
+C:\dev\CSharpEssencial\ClasseMetodos\17struct\bin\Debug\net8.0\17struct.exe
+C:\dev\CSharpEssencial\ClasseMetodos\17struct\bin\Debug\net8.0\17struct.deps.json
+C:\dev\CSharpEssencial\ClasseMetodos\17struct\bin\Debug\net8.0\17struct.runtimeconfig.json
+C:\dev\CSharpEssencial\ClasseMetodos\17struct\bin\Debug\net8.0\17struct.dll
+C:\dev\CSharpEssencial\ClasseMetodos\17struct\bin\Debug\net8.0\17struct.pdb
+C:\dev\CSharpEssencial\ClasseMetodos\17struct\obj\Debug\net8.0\17struct.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\CSharpEssencial\ClasseMetodos\17struct\obj\Debug\net8.0\17struct.AssemblyInfoInputs.cache
+C:\dev\CSharpEssencial\ClasseMetodos\17struct\obj\Debug\net8.0\17struct.AssemblyInfo.cs
+C:\dev\CSharpEssencial\ClasseMetodos\17struct\obj\Debug\net8.0\17struct.csproj.CoreCompileInputs.cache
+C:\dev\CSharpEssencial\ClasseMetodos\17struct\obj\Debug\net8.0\17struct.sourcelink.json
+C:\dev\CSharpEssencial\ClasseMetodos\17struct\obj\Debug\net8.0\17struct.dll
+C:\dev\CSharpEssencial\ClasseMetodos\17struct\obj\Debug\net8.0\refint\17struct.dll
+C:\dev\CSharpEssencial\ClasseMetodos\17struct\obj\Debug\net8.0\17struct.pdb
+C:\dev\CSharpEssencial\ClasseMetodos\17struct\obj\Debug\net8.0\17struct.genruntimeconfig.cache
+C:\dev\CSharpEssencial\ClasseMetodos\17struct\obj\Debug\net8.0\ref\17struct.dll

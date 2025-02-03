@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\dev\\CSharpEssencial\\ClasseMetodos\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9BF7C7BB-9CF8-4CDA-8337-7A923508AB8D}|RespostaExercicio8\\RespostaExercicio8.csproj|c:\\dev\\csharpessencial\\classemetodos\\respostaexercicio8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BF7C7BB-9CF8-4CDA-8337-7A923508AB8D}|RespostaExercicio8\\RespostaExercicio8.csproj|solutionrelative:respostaexercicio8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{93F0D754-CA04-49DE-9546-8271AF5745CB}|RespostaExercicio7\\RespostaExercicio7.csproj|c:\\dev\\csharpessencial\\classemetodos\\respostaexercicio7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{93F0D754-CA04-49DE-9546-8271AF5745CB}|RespostaExercicio7\\RespostaExercicio7.csproj|solutionrelative:respostaexercicio7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -24,11 +28,24 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\dev\\CSharpEssencial\\ClasseMetodos\\RespostaExercicio8\\Program.cs",
+              "RelativeDocumentMoniker": "RespostaExercicio8\\Program.cs",
+              "ToolTip": "C:\\dev\\CSharpEssencial\\ClasseMetodos\\RespostaExercicio8\\Program.cs",
+              "RelativeToolTip": "RespostaExercicio8\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAArwAUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T12:42:50.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\dev\\CSharpEssencial\\ClasseMetodos\\RespostaExercicio7\\Program.cs",
               "RelativeDocumentMoniker": "RespostaExercicio7\\Program.cs",
               "ToolTip": "C:\\dev\\CSharpEssencial\\ClasseMetodos\\RespostaExercicio7\\Program.cs",
               "RelativeToolTip": "RespostaExercicio7\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAawBcAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-19T15:32:00.123Z",
               "EditorCaption": ""
