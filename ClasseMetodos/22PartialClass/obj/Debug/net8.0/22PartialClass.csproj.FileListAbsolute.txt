@@ -1,0 +1,15 @@
+C:\dev\CSharpEssencial\ClasseMetodos\22PartialClass\bin\Debug\net8.0\22PartialClass.exe
+C:\dev\CSharpEssencial\ClasseMetodos\22PartialClass\bin\Debug\net8.0\22PartialClass.deps.json
+C:\dev\CSharpEssencial\ClasseMetodos\22PartialClass\bin\Debug\net8.0\22PartialClass.runtimeconfig.json
+C:\dev\CSharpEssencial\ClasseMetodos\22PartialClass\bin\Debug\net8.0\22PartialClass.dll
+C:\dev\CSharpEssencial\ClasseMetodos\22PartialClass\bin\Debug\net8.0\22PartialClass.pdb
+C:\dev\CSharpEssencial\ClasseMetodos\22PartialClass\obj\Debug\net8.0\22PartialClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\CSharpEssencial\ClasseMetodos\22PartialClass\obj\Debug\net8.0\22PartialClass.AssemblyInfoInputs.cache
+C:\dev\CSharpEssencial\ClasseMetodos\22PartialClass\obj\Debug\net8.0\22PartialClass.AssemblyInfo.cs
+C:\dev\CSharpEssencial\ClasseMetodos\22PartialClass\obj\Debug\net8.0\22PartialClass.csproj.CoreCompileInputs.cache
+C:\dev\CSharpEssencial\ClasseMetodos\22PartialClass\obj\Debug\net8.0\22PartialClass.sourcelink.json
+C:\dev\CSharpEssencial\ClasseMetodos\22PartialClass\obj\Debug\net8.0\22PartialClass.dll
+C:\dev\CSharpEssencial\ClasseMetodos\22PartialClass\obj\Debug\net8.0\refint\22PartialClass.dll
+C:\dev\CSharpEssencial\ClasseMetodos\22PartialClass\obj\Debug\net8.0\22PartialClass.pdb
+C:\dev\CSharpEssencial\ClasseMetodos\22PartialClass\obj\Debug\net8.0\22PartialClass.genruntimeconfig.cache
+C:\dev\CSharpEssencial\ClasseMetodos\22PartialClass\obj\Debug\net8.0\ref\22PartialClass.dll

@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\dev\\CSharpEssencial\\ClasseMetodos\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2684A8FF-E457-4D6E-8B6A-AF564A0263AC}|22PartialClass\\22PartialClass.csproj|c:\\dev\\csharpessencial\\classemetodos\\22partialclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2684A8FF-E457-4D6E-8B6A-AF564A0263AC}|22PartialClass\\22PartialClass.csproj|solutionrelative:22partialclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2684A8FF-E457-4D6E-8B6A-AF564A0263AC}|22PartialClass\\22PartialClass.csproj|c:\\dev\\csharpessencial\\classemetodos\\22partialclass\\minhapartialclassprops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2684A8FF-E457-4D6E-8B6A-AF564A0263AC}|22PartialClass\\22PartialClass.csproj|solutionrelative:22partialclass\\minhapartialclassprops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2684A8FF-E457-4D6E-8B6A-AF564A0263AC}|22PartialClass\\22PartialClass.csproj|c:\\dev\\csharpessencial\\classemetodos\\22partialclass\\minhapartialclassmetodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2684A8FF-E457-4D6E-8B6A-AF564A0263AC}|22PartialClass\\22PartialClass.csproj|solutionrelative:22partialclass\\minhapartialclassmetodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6AF69008-7268-428F-B2CD-96503C973885}|ResolucaoExercicioTeorico\\ResolucaoExercicioTeorico.csproj|c:\\dev\\csharpessencial\\classemetodos\\resolucaoexercicioteorico\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6AF69008-7268-428F-B2CD-96503C973885}|ResolucaoExercicioTeorico\\ResolucaoExercicioTeorico.csproj|solutionrelative:resolucaoexercicioteorico\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -18,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,7 +38,46 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MinhaPartialClassMetodo.cs",
+              "DocumentMoniker": "C:\\dev\\CSharpEssencial\\ClasseMetodos\\22PartialClass\\MinhaPartialClassMetodo.cs",
+              "RelativeDocumentMoniker": "22PartialClass\\MinhaPartialClassMetodo.cs",
+              "ToolTip": "C:\\dev\\CSharpEssencial\\ClasseMetodos\\22PartialClass\\MinhaPartialClassMetodo.cs",
+              "RelativeToolTip": "22PartialClass\\MinhaPartialClassMetodo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T16:26:09.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MinhaPartialClassProps.cs",
+              "DocumentMoniker": "C:\\dev\\CSharpEssencial\\ClasseMetodos\\22PartialClass\\MinhaPartialClassProps.cs",
+              "RelativeDocumentMoniker": "22PartialClass\\MinhaPartialClassProps.cs",
+              "ToolTip": "C:\\dev\\CSharpEssencial\\ClasseMetodos\\22PartialClass\\MinhaPartialClassProps.cs",
+              "RelativeToolTip": "22PartialClass\\MinhaPartialClassProps.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T16:24:56.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\dev\\CSharpEssencial\\ClasseMetodos\\22PartialClass\\Program.cs",
+              "RelativeDocumentMoniker": "22PartialClass\\Program.cs",
+              "ToolTip": "C:\\dev\\CSharpEssencial\\ClasseMetodos\\22PartialClass\\Program.cs",
+              "RelativeToolTip": "22PartialClass\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T16:24:37.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\dev\\CSharpEssencial\\ClasseMetodos\\ResolucaoExercicioTeorico\\Program.cs",
               "RelativeDocumentMoniker": "ResolucaoExercicioTeorico\\Program.cs",
@@ -39,7 +90,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\dev\\CSharpEssencial\\ClasseMetodos\\19ModificadoresDeAcesso\\Program.cs",
               "RelativeDocumentMoniker": "19ModificadoresDeAcesso\\Program.cs",
@@ -47,8 +98,7 @@
               "RelativeToolTip": "19ModificadoresDeAcesso\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T22:23:04.002Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-03T22:23:04.002Z"
             }
           ]
         }
