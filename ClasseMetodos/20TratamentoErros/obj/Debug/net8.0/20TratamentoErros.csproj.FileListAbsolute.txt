@@ -1,0 +1,15 @@
+C:\dev\CSharpEssencial\ClasseMetodos\20TratamentoErros\bin\Debug\net8.0\20TratamentoErros.exe
+C:\dev\CSharpEssencial\ClasseMetodos\20TratamentoErros\bin\Debug\net8.0\20TratamentoErros.deps.json
+C:\dev\CSharpEssencial\ClasseMetodos\20TratamentoErros\bin\Debug\net8.0\20TratamentoErros.runtimeconfig.json
+C:\dev\CSharpEssencial\ClasseMetodos\20TratamentoErros\bin\Debug\net8.0\20TratamentoErros.dll
+C:\dev\CSharpEssencial\ClasseMetodos\20TratamentoErros\bin\Debug\net8.0\20TratamentoErros.pdb
+C:\dev\CSharpEssencial\ClasseMetodos\20TratamentoErros\obj\Debug\net8.0\20TratamentoErros.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\CSharpEssencial\ClasseMetodos\20TratamentoErros\obj\Debug\net8.0\20TratamentoErros.AssemblyInfoInputs.cache
+C:\dev\CSharpEssencial\ClasseMetodos\20TratamentoErros\obj\Debug\net8.0\20TratamentoErros.AssemblyInfo.cs
+C:\dev\CSharpEssencial\ClasseMetodos\20TratamentoErros\obj\Debug\net8.0\20TratamentoErros.csproj.CoreCompileInputs.cache
+C:\dev\CSharpEssencial\ClasseMetodos\20TratamentoErros\obj\Debug\net8.0\20TratamentoErros.sourcelink.json
+C:\dev\CSharpEssencial\ClasseMetodos\20TratamentoErros\obj\Debug\net8.0\20TratamentoErros.dll
+C:\dev\CSharpEssencial\ClasseMetodos\20TratamentoErros\obj\Debug\net8.0\refint\20TratamentoErros.dll
+C:\dev\CSharpEssencial\ClasseMetodos\20TratamentoErros\obj\Debug\net8.0\20TratamentoErros.pdb
+C:\dev\CSharpEssencial\ClasseMetodos\20TratamentoErros\obj\Debug\net8.0\20TratamentoErros.genruntimeconfig.cache
+C:\dev\CSharpEssencial\ClasseMetodos\20TratamentoErros\obj\Debug\net8.0\ref\20TratamentoErros.dll
