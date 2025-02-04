@@ -1,0 +1,15 @@
+C:\dev\CSharpEssencial\ClasseMetodos\21TiposAnonimos\bin\Debug\net8.0\21TiposAnonimos.exe
+C:\dev\CSharpEssencial\ClasseMetodos\21TiposAnonimos\bin\Debug\net8.0\21TiposAnonimos.deps.json
+C:\dev\CSharpEssencial\ClasseMetodos\21TiposAnonimos\bin\Debug\net8.0\21TiposAnonimos.runtimeconfig.json
+C:\dev\CSharpEssencial\ClasseMetodos\21TiposAnonimos\bin\Debug\net8.0\21TiposAnonimos.dll
+C:\dev\CSharpEssencial\ClasseMetodos\21TiposAnonimos\bin\Debug\net8.0\21TiposAnonimos.pdb
+C:\dev\CSharpEssencial\ClasseMetodos\21TiposAnonimos\obj\Debug\net8.0\21TiposAnonimos.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\CSharpEssencial\ClasseMetodos\21TiposAnonimos\obj\Debug\net8.0\21TiposAnonimos.AssemblyInfoInputs.cache
+C:\dev\CSharpEssencial\ClasseMetodos\21TiposAnonimos\obj\Debug\net8.0\21TiposAnonimos.AssemblyInfo.cs
+C:\dev\CSharpEssencial\ClasseMetodos\21TiposAnonimos\obj\Debug\net8.0\21TiposAnonimos.csproj.CoreCompileInputs.cache
+C:\dev\CSharpEssencial\ClasseMetodos\21TiposAnonimos\obj\Debug\net8.0\21TiposAnonimos.sourcelink.json
+C:\dev\CSharpEssencial\ClasseMetodos\21TiposAnonimos\obj\Debug\net8.0\21TiposAnonimos.dll
+C:\dev\CSharpEssencial\ClasseMetodos\21TiposAnonimos\obj\Debug\net8.0\refint\21TiposAnonimos.dll
+C:\dev\CSharpEssencial\ClasseMetodos\21TiposAnonimos\obj\Debug\net8.0\21TiposAnonimos.pdb
+C:\dev\CSharpEssencial\ClasseMetodos\21TiposAnonimos\obj\Debug\net8.0\21TiposAnonimos.genruntimeconfig.cache
+C:\dev\CSharpEssencial\ClasseMetodos\21TiposAnonimos\obj\Debug\net8.0\ref\21TiposAnonimos.dll

@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\dev\\CSharpEssencial\\ClasseMetodos\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{940B50EE-7FB3-4A82-9C29-CC2AB82B3997}|21TiposAnonimos\\21TiposAnonimos.csproj|c:\\dev\\csharpessencial\\classemetodos\\21tiposanonimos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{940B50EE-7FB3-4A82-9C29-CC2AB82B3997}|21TiposAnonimos\\21TiposAnonimos.csproj|solutionrelative:21tiposanonimos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{739034DE-415E-4367-9E2F-167777ADCF09}|20TratamentoErros\\20TratamentoErros.csproj|c:\\dev\\csharpessencial\\classemetodos\\20tratamentoerros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{739034DE-415E-4367-9E2F-167777ADCF09}|20TratamentoErros\\20TratamentoErros.csproj|solutionrelative:20tratamentoerros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -44,18 +48,31 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\dev\\CSharpEssencial\\ClasseMetodos\\21TiposAnonimos\\Program.cs",
+              "RelativeDocumentMoniker": "21TiposAnonimos\\Program.cs",
+              "ToolTip": "C:\\dev\\CSharpEssencial\\ClasseMetodos\\21TiposAnonimos\\Program.cs*",
+              "RelativeToolTip": "21TiposAnonimos\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T14:36:33.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\dev\\CSharpEssencial\\ClasseMetodos\\20TratamentoErros\\Program.cs",
               "RelativeDocumentMoniker": "20TratamentoErros\\Program.cs",
-              "ToolTip": "C:\\dev\\CSharpEssencial\\ClasseMetodos\\20TratamentoErros\\Program.cs*",
-              "RelativeToolTip": "20TratamentoErros\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAyAAAAAAAAAA==",
+              "ToolTip": "C:\\dev\\CSharpEssencial\\ClasseMetodos\\20TratamentoErros\\Program.cs",
+              "RelativeToolTip": "20TratamentoErros\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-04T13:55:16.653Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\dev\\CSharpEssencial\\ClasseMetodos\\RespostaExercicio10\\Program.cs",
               "RelativeDocumentMoniker": "RespostaExercicio10\\Program.cs",
@@ -63,12 +80,11 @@
               "RelativeToolTip": "RespostaExercicio10\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAFEAAABgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T22:30:39.709Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-03T22:30:39.709Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "MinhaEnum.cs",
               "DocumentMoniker": "C:\\dev\\CSharpEssencial\\ClasseMetodos\\19ModificadoresDeAcesso\\MinhaEnum.cs",
               "RelativeDocumentMoniker": "19ModificadoresDeAcesso\\MinhaEnum.cs",
@@ -80,7 +96,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "MinhaStruct.cs",
               "DocumentMoniker": "C:\\dev\\CSharpEssencial\\ClasseMetodos\\19ModificadoresDeAcesso\\MinhaStruct.cs",
               "RelativeDocumentMoniker": "19ModificadoresDeAcesso\\MinhaStruct.cs",
@@ -92,7 +108,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "MinhaClasse.cs",
               "DocumentMoniker": "C:\\dev\\CSharpEssencial\\ClasseMetodos\\19ModificadoresDeAcesso\\MinhaClasse.cs",
               "RelativeDocumentMoniker": "19ModificadoresDeAcesso\\MinhaClasse.cs",
@@ -104,7 +120,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\dev\\CSharpEssencial\\ClasseMetodos\\19ModificadoresDeAcesso\\Program.cs",
               "RelativeDocumentMoniker": "19ModificadoresDeAcesso\\Program.cs",
