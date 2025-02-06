@@ -1,0 +1,15 @@
+C:\dev\CSharpEssencial\Array\Colecoes\Arrayz\bin\Debug\net8.0\Arrays.exe
+C:\dev\CSharpEssencial\Array\Colecoes\Arrayz\bin\Debug\net8.0\Arrays.deps.json
+C:\dev\CSharpEssencial\Array\Colecoes\Arrayz\bin\Debug\net8.0\Arrays.runtimeconfig.json
+C:\dev\CSharpEssencial\Array\Colecoes\Arrayz\bin\Debug\net8.0\Arrays.dll
+C:\dev\CSharpEssencial\Array\Colecoes\Arrayz\bin\Debug\net8.0\Arrays.pdb
+C:\dev\CSharpEssencial\Array\Colecoes\Arrayz\obj\Debug\net8.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\CSharpEssencial\Array\Colecoes\Arrayz\obj\Debug\net8.0\Arrays.AssemblyInfoInputs.cache
+C:\dev\CSharpEssencial\Array\Colecoes\Arrayz\obj\Debug\net8.0\Arrays.AssemblyInfo.cs
+C:\dev\CSharpEssencial\Array\Colecoes\Arrayz\obj\Debug\net8.0\Arrays.csproj.CoreCompileInputs.cache
+C:\dev\CSharpEssencial\Array\Colecoes\Arrayz\obj\Debug\net8.0\Arrays.sourcelink.json
+C:\dev\CSharpEssencial\Array\Colecoes\Arrayz\obj\Debug\net8.0\Arrays.dll
+C:\dev\CSharpEssencial\Array\Colecoes\Arrayz\obj\Debug\net8.0\refint\Arrays.dll
+C:\dev\CSharpEssencial\Array\Colecoes\Arrayz\obj\Debug\net8.0\Arrays.pdb
+C:\dev\CSharpEssencial\Array\Colecoes\Arrayz\obj\Debug\net8.0\Arrays.genruntimeconfig.cache
+C:\dev\CSharpEssencial\Array\Colecoes\Arrayz\obj\Debug\net8.0\ref\Arrays.dll
