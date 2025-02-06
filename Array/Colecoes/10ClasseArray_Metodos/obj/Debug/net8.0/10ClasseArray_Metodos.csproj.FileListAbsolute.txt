@@ -1,0 +1,15 @@
+C:\dev\CSharpEssencial\Array\Colecoes\10ClasseArray_Metodos\bin\Debug\net8.0\10ClasseArray_Metodos.exe
+C:\dev\CSharpEssencial\Array\Colecoes\10ClasseArray_Metodos\bin\Debug\net8.0\10ClasseArray_Metodos.deps.json
+C:\dev\CSharpEssencial\Array\Colecoes\10ClasseArray_Metodos\bin\Debug\net8.0\10ClasseArray_Metodos.runtimeconfig.json
+C:\dev\CSharpEssencial\Array\Colecoes\10ClasseArray_Metodos\bin\Debug\net8.0\10ClasseArray_Metodos.dll
+C:\dev\CSharpEssencial\Array\Colecoes\10ClasseArray_Metodos\bin\Debug\net8.0\10ClasseArray_Metodos.pdb
+C:\dev\CSharpEssencial\Array\Colecoes\10ClasseArray_Metodos\obj\Debug\net8.0\10ClasseArray_Metodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\CSharpEssencial\Array\Colecoes\10ClasseArray_Metodos\obj\Debug\net8.0\10ClasseArray_Metodos.AssemblyInfoInputs.cache
+C:\dev\CSharpEssencial\Array\Colecoes\10ClasseArray_Metodos\obj\Debug\net8.0\10ClasseArray_Metodos.AssemblyInfo.cs
+C:\dev\CSharpEssencial\Array\Colecoes\10ClasseArray_Metodos\obj\Debug\net8.0\10ClasseArray_Metodos.csproj.CoreCompileInputs.cache
+C:\dev\CSharpEssencial\Array\Colecoes\10ClasseArray_Metodos\obj\Debug\net8.0\10ClasseArray_Metodos.sourcelink.json
+C:\dev\CSharpEssencial\Array\Colecoes\10ClasseArray_Metodos\obj\Debug\net8.0\10ClasseArray_Metodos.dll
+C:\dev\CSharpEssencial\Array\Colecoes\10ClasseArray_Metodos\obj\Debug\net8.0\refint\10ClasseArray_Metodos.dll
+C:\dev\CSharpEssencial\Array\Colecoes\10ClasseArray_Metodos\obj\Debug\net8.0\10ClasseArray_Metodos.pdb
+C:\dev\CSharpEssencial\Array\Colecoes\10ClasseArray_Metodos\obj\Debug\net8.0\10ClasseArray_Metodos.genruntimeconfig.cache
+C:\dev\CSharpEssencial\Array\Colecoes\10ClasseArray_Metodos\obj\Debug\net8.0\ref\10ClasseArray_Metodos.dll

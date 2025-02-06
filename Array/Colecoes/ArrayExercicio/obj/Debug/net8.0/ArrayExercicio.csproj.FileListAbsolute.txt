@@ -1,0 +1,15 @@
+C:\dev\CSharpEssencial\Array\Colecoes\ArrayExercicio\bin\Debug\net8.0\ArrayExercicio.exe
+C:\dev\CSharpEssencial\Array\Colecoes\ArrayExercicio\bin\Debug\net8.0\ArrayExercicio.deps.json
+C:\dev\CSharpEssencial\Array\Colecoes\ArrayExercicio\bin\Debug\net8.0\ArrayExercicio.runtimeconfig.json
+C:\dev\CSharpEssencial\Array\Colecoes\ArrayExercicio\bin\Debug\net8.0\ArrayExercicio.dll
+C:\dev\CSharpEssencial\Array\Colecoes\ArrayExercicio\bin\Debug\net8.0\ArrayExercicio.pdb
+C:\dev\CSharpEssencial\Array\Colecoes\ArrayExercicio\obj\Debug\net8.0\ArrayExercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\CSharpEssencial\Array\Colecoes\ArrayExercicio\obj\Debug\net8.0\ArrayExercicio.AssemblyInfoInputs.cache
+C:\dev\CSharpEssencial\Array\Colecoes\ArrayExercicio\obj\Debug\net8.0\ArrayExercicio.AssemblyInfo.cs
+C:\dev\CSharpEssencial\Array\Colecoes\ArrayExercicio\obj\Debug\net8.0\ArrayExercicio.csproj.CoreCompileInputs.cache
+C:\dev\CSharpEssencial\Array\Colecoes\ArrayExercicio\obj\Debug\net8.0\ArrayExercicio.sourcelink.json
+C:\dev\CSharpEssencial\Array\Colecoes\ArrayExercicio\obj\Debug\net8.0\ArrayExercicio.dll
+C:\dev\CSharpEssencial\Array\Colecoes\ArrayExercicio\obj\Debug\net8.0\refint\ArrayExercicio.dll
+C:\dev\CSharpEssencial\Array\Colecoes\ArrayExercicio\obj\Debug\net8.0\ArrayExercicio.pdb
+C:\dev\CSharpEssencial\Array\Colecoes\ArrayExercicio\obj\Debug\net8.0\ArrayExercicio.genruntimeconfig.cache
+C:\dev\CSharpEssencial\Array\Colecoes\ArrayExercicio\obj\Debug\net8.0\ref\ArrayExercicio.dll

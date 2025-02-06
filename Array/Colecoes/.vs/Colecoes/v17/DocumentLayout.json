@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\dev\\CSharpEssencial\\Array\\Colecoes\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{60CD124D-EFD2-4114-A92B-0994C6290AB1}|ArrayExercicio\\ArrayExercicio.csproj|c:\\dev\\csharpessencial\\array\\colecoes\\arrayexercicio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60CD124D-EFD2-4114-A92B-0994C6290AB1}|ArrayExercicio\\ArrayExercicio.csproj|solutionrelative:arrayexercicio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BE75815-F75C-451E-86D9-3A9EECF5355C}|10ClasseArray_Metodos\\10ClasseArray_Metodos.csproj|c:\\dev\\csharpessencial\\array\\colecoes\\10classearray_metodos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BE75815-F75C-451E-86D9-3A9EECF5355C}|10ClasseArray_Metodos\\10ClasseArray_Metodos.csproj|solutionrelative:10classearray_metodos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B3C44BD5-383C-4342-B30B-77549BAEAFE7}|Arrayz\\Arrays.csproj|c:\\dev\\csharpessencial\\array\\colecoes\\arrayz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B3C44BD5-383C-4342-B30B-77549BAEAFE7}|Arrayz\\Arrays.csproj|solutionrelative:arrayz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -23,6 +31,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\dev\\CSharpEssencial\\Array\\Colecoes\\ArrayExercicio\\Program.cs",
+              "RelativeDocumentMoniker": "ArrayExercicio\\Program.cs",
+              "ToolTip": "C:\\dev\\CSharpEssencial\\Array\\Colecoes\\ArrayExercicio\\Program.cs",
+              "RelativeToolTip": "ArrayExercicio\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAtwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T14:49:25.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\dev\\CSharpEssencial\\Array\\Colecoes\\10ClasseArray_Metodos\\Program.cs",
+              "RelativeDocumentMoniker": "10ClasseArray_Metodos\\Program.cs",
+              "ToolTip": "C:\\dev\\CSharpEssencial\\Array\\Colecoes\\10ClasseArray_Metodos\\Program.cs",
+              "RelativeToolTip": "10ClasseArray_Metodos\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T14:31:49.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\dev\\CSharpEssencial\\Array\\Colecoes\\Arrayz\\Program.cs",
               "RelativeDocumentMoniker": "Arrayz\\Program.cs",
