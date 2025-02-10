@@ -1,0 +1,15 @@
+C:\dev\CSharpEssencial\Array\Colecoes\9ModificadoresParams\bin\Debug\net8.0\9ModificadoresParams.exe
+C:\dev\CSharpEssencial\Array\Colecoes\9ModificadoresParams\bin\Debug\net8.0\9ModificadoresParams.deps.json
+C:\dev\CSharpEssencial\Array\Colecoes\9ModificadoresParams\bin\Debug\net8.0\9ModificadoresParams.runtimeconfig.json
+C:\dev\CSharpEssencial\Array\Colecoes\9ModificadoresParams\bin\Debug\net8.0\9ModificadoresParams.dll
+C:\dev\CSharpEssencial\Array\Colecoes\9ModificadoresParams\bin\Debug\net8.0\9ModificadoresParams.pdb
+C:\dev\CSharpEssencial\Array\Colecoes\9ModificadoresParams\obj\Debug\net8.0\9ModificadoresParams.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\CSharpEssencial\Array\Colecoes\9ModificadoresParams\obj\Debug\net8.0\9ModificadoresParams.AssemblyInfoInputs.cache
+C:\dev\CSharpEssencial\Array\Colecoes\9ModificadoresParams\obj\Debug\net8.0\9ModificadoresParams.AssemblyInfo.cs
+C:\dev\CSharpEssencial\Array\Colecoes\9ModificadoresParams\obj\Debug\net8.0\9ModificadoresParams.csproj.CoreCompileInputs.cache
+C:\dev\CSharpEssencial\Array\Colecoes\9ModificadoresParams\obj\Debug\net8.0\9ModificadoresParams.sourcelink.json
+C:\dev\CSharpEssencial\Array\Colecoes\9ModificadoresParams\obj\Debug\net8.0\9ModificadoresParams.dll
+C:\dev\CSharpEssencial\Array\Colecoes\9ModificadoresParams\obj\Debug\net8.0\refint\9ModificadoresParams.dll
+C:\dev\CSharpEssencial\Array\Colecoes\9ModificadoresParams\obj\Debug\net8.0\9ModificadoresParams.pdb
+C:\dev\CSharpEssencial\Array\Colecoes\9ModificadoresParams\obj\Debug\net8.0\9ModificadoresParams.genruntimeconfig.cache
+C:\dev\CSharpEssencial\Array\Colecoes\9ModificadoresParams\obj\Debug\net8.0\ref\9ModificadoresParams.dll

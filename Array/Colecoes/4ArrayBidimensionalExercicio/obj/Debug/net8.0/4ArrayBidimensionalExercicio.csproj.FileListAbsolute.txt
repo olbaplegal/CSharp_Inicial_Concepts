@@ -1,0 +1,15 @@
+C:\dev\CSharpEssencial\Array\Colecoes\4ArrayBidimensionalExercicio\obj\Debug\net8.0\4ArrayBidimensionalExercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\CSharpEssencial\Array\Colecoes\4ArrayBidimensionalExercicio\obj\Debug\net8.0\4ArrayBidimensionalExercicio.AssemblyInfoInputs.cache
+C:\dev\CSharpEssencial\Array\Colecoes\4ArrayBidimensionalExercicio\obj\Debug\net8.0\4ArrayBidimensionalExercicio.AssemblyInfo.cs
+C:\dev\CSharpEssencial\Array\Colecoes\4ArrayBidimensionalExercicio\obj\Debug\net8.0\4ArrayBidimensionalExercicio.csproj.CoreCompileInputs.cache
+C:\dev\CSharpEssencial\Array\Colecoes\4ArrayBidimensionalExercicio\obj\Debug\net8.0\4ArrayBidimensionalExercicio.sourcelink.json
+C:\dev\CSharpEssencial\Array\Colecoes\4ArrayBidimensionalExercicio\bin\Debug\net8.0\4ArrayBidimensionalExercicio.exe
+C:\dev\CSharpEssencial\Array\Colecoes\4ArrayBidimensionalExercicio\bin\Debug\net8.0\4ArrayBidimensionalExercicio.deps.json
+C:\dev\CSharpEssencial\Array\Colecoes\4ArrayBidimensionalExercicio\bin\Debug\net8.0\4ArrayBidimensionalExercicio.runtimeconfig.json
+C:\dev\CSharpEssencial\Array\Colecoes\4ArrayBidimensionalExercicio\bin\Debug\net8.0\4ArrayBidimensionalExercicio.dll
+C:\dev\CSharpEssencial\Array\Colecoes\4ArrayBidimensionalExercicio\bin\Debug\net8.0\4ArrayBidimensionalExercicio.pdb
+C:\dev\CSharpEssencial\Array\Colecoes\4ArrayBidimensionalExercicio\obj\Debug\net8.0\4ArrayBidimensionalExercicio.dll
+C:\dev\CSharpEssencial\Array\Colecoes\4ArrayBidimensionalExercicio\obj\Debug\net8.0\refint\4ArrayBidimensionalExercicio.dll
+C:\dev\CSharpEssencial\Array\Colecoes\4ArrayBidimensionalExercicio\obj\Debug\net8.0\4ArrayBidimensionalExercicio.pdb
+C:\dev\CSharpEssencial\Array\Colecoes\4ArrayBidimensionalExercicio\obj\Debug\net8.0\4ArrayBidimensionalExercicio.genruntimeconfig.cache
+C:\dev\CSharpEssencial\Array\Colecoes\4ArrayBidimensionalExercicio\obj\Debug\net8.0\ref\4ArrayBidimensionalExercicio.dll
