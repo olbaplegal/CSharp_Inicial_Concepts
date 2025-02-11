@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9ModificadoresParams", "9Mo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4ArrayBidimensionalExercicio", "4ArrayBidimensionalExercicio\4ArrayBidimensionalExercicio.csproj", "{3D77D17B-ED1E-4A0E-85BB-7FCAA14E9BD7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6ArrayList", "6ArrayList\6ArrayList.csproj", "{3507B5DC-6EB9-4A50-8F94-9068328D8655}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{3D77D17B-ED1E-4A0E-85BB-7FCAA14E9BD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3D77D17B-ED1E-4A0E-85BB-7FCAA14E9BD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3D77D17B-ED1E-4A0E-85BB-7FCAA14E9BD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3507B5DC-6EB9-4A50-8F94-9068328D8655}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3507B5DC-6EB9-4A50-8F94-9068328D8655}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3507B5DC-6EB9-4A50-8F94-9068328D8655}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3507B5DC-6EB9-4A50-8F94-9068328D8655}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
