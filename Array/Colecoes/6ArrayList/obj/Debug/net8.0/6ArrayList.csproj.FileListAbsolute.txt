@@ -1,0 +1,15 @@
+C:\dev\CSharpEssencial\Array\Colecoes\6ArrayList\bin\Debug\net8.0\6ArrayList.exe
+C:\dev\CSharpEssencial\Array\Colecoes\6ArrayList\bin\Debug\net8.0\6ArrayList.deps.json
+C:\dev\CSharpEssencial\Array\Colecoes\6ArrayList\bin\Debug\net8.0\6ArrayList.runtimeconfig.json
+C:\dev\CSharpEssencial\Array\Colecoes\6ArrayList\bin\Debug\net8.0\6ArrayList.dll
+C:\dev\CSharpEssencial\Array\Colecoes\6ArrayList\bin\Debug\net8.0\6ArrayList.pdb
+C:\dev\CSharpEssencial\Array\Colecoes\6ArrayList\obj\Debug\net8.0\6ArrayList.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\CSharpEssencial\Array\Colecoes\6ArrayList\obj\Debug\net8.0\6ArrayList.AssemblyInfoInputs.cache
+C:\dev\CSharpEssencial\Array\Colecoes\6ArrayList\obj\Debug\net8.0\6ArrayList.AssemblyInfo.cs
+C:\dev\CSharpEssencial\Array\Colecoes\6ArrayList\obj\Debug\net8.0\6ArrayList.csproj.CoreCompileInputs.cache
+C:\dev\CSharpEssencial\Array\Colecoes\6ArrayList\obj\Debug\net8.0\6ArrayList.sourcelink.json
+C:\dev\CSharpEssencial\Array\Colecoes\6ArrayList\obj\Debug\net8.0\6ArrayList.dll
+C:\dev\CSharpEssencial\Array\Colecoes\6ArrayList\obj\Debug\net8.0\refint\6ArrayList.dll
+C:\dev\CSharpEssencial\Array\Colecoes\6ArrayList\obj\Debug\net8.0\6ArrayList.pdb
+C:\dev\CSharpEssencial\Array\Colecoes\6ArrayList\obj\Debug\net8.0\6ArrayList.genruntimeconfig.cache
+C:\dev\CSharpEssencial\Array\Colecoes\6ArrayList\obj\Debug\net8.0\ref\6ArrayList.dll
