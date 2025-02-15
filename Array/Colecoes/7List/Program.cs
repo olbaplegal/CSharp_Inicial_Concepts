@@ -18,6 +18,8 @@
 //};
 
 //criação da lista
+using System.Collections;
+
 var lista = new List<string>() { "Maria", "Ana", "Pedro", "Carlos", "Zé" };
 
 //"Add" adiciona ao final da lista
@@ -59,6 +61,21 @@ var res1 = lista.Contains("Ana");
 
 //remove todos os elementos da lista
 lista.Clear();
+
+//comparação, ArrayList && List<T>
+//boxing == transformar um tipo primitivo em obj
+//quando você introduz um dado de tipo primitivo em um ArrayList você faz boxing do dado
+ArrayList lista1 = new ArrayList();
+lista1.Add(3);//boxing
+lista1.Add(4);//boxing
+
+var elemento = lista1[0];//unboxing //ta retornado um obj
+int numero = (int)lista1[1];//tem que fazer a converção explicita
+
+List<int> lista2 = new();
+lista2.Add(2);
+
+var item = lista2[0];
 
 Console.ReadKey();
 
