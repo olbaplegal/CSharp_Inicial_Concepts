@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{3507B5DC-6EB9-4A50-8F94-9068328D8655}|6ArrayList\\6ArrayList.csproj|solutionrelative:6arraylist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{B3C44BD5-383C-4342-B30B-77549BAEAFE7}|Arrayz\\Arrays.csproj|c:\\dev\\csharpessencial\\array\\colecoes\\arrayz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3C44BD5-383C-4342-B30B-77549BAEAFE7}|Arrayz\\Arrays.csproj|solutionrelative:arrayz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3D77D17B-ED1E-4A0E-85BB-7FCAA14E9BD7}|4ArrayBidimensionalExercicio\\4ArrayBidimensionalExercicio.csproj|c:\\dev\\csharpessencial\\array\\colecoes\\4arraybidimensionalexercicio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D77D17B-ED1E-4A0E-85BB-7FCAA14E9BD7}|4ArrayBidimensionalExercicio\\4ArrayBidimensionalExercicio.csproj|solutionrelative:4arraybidimensionalexercicio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -21,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{6BE75815-F75C-451E-86D9-3A9EECF5355C}|10ClasseArray_Metodos\\10ClasseArray_Metodos.csproj|c:\\dev\\csharpessencial\\array\\colecoes\\10classearray_metodos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6BE75815-F75C-451E-86D9-3A9EECF5355C}|10ClasseArray_Metodos\\10ClasseArray_Metodos.csproj|solutionrelative:10classearray_metodos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B3C44BD5-383C-4342-B30B-77549BAEAFE7}|Arrayz\\Arrays.csproj|c:\\dev\\csharpessencial\\array\\colecoes\\arrayz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3C44BD5-383C-4342-B30B-77549BAEAFE7}|Arrayz\\Arrays.csproj|solutionrelative:arrayz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -48,14 +48,14 @@
               "RelativeDocumentMoniker": "6ArrayList\\Program.cs",
               "ToolTip": "C:\\dev\\CSharpEssencial\\Array\\Colecoes\\6ArrayList\\Program.cs",
               "RelativeToolTip": "6ArrayList\\Program.cs",
-              "ViewState": "AgIAACYAAABAPUTRkhchwDUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAEAAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-11T20:47:45.589Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\dev\\CSharpEssencial\\Array\\Colecoes\\4ArrayBidimensionalExercicio\\Program.cs",
               "RelativeDocumentMoniker": "4ArrayBidimensionalExercicio\\Program.cs",
@@ -67,7 +67,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\dev\\CSharpEssencial\\Array\\Colecoes\\9ModificadoresParams\\Program.cs",
               "RelativeDocumentMoniker": "9ModificadoresParams\\Program.cs",
@@ -79,7 +79,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\dev\\CSharpEssencial\\Array\\Colecoes\\ArrayExercicio\\Program.cs",
               "RelativeDocumentMoniker": "ArrayExercicio\\Program.cs",
@@ -91,7 +91,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\dev\\CSharpEssencial\\Array\\Colecoes\\10ClasseArray_Metodos\\Program.cs",
               "RelativeDocumentMoniker": "10ClasseArray_Metodos\\Program.cs",
@@ -103,7 +103,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\dev\\CSharpEssencial\\Array\\Colecoes\\Arrayz\\Program.cs",
               "RelativeDocumentMoniker": "Arrayz\\Program.cs",
@@ -111,7 +111,8 @@
               "RelativeToolTip": "Arrayz\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T13:50:52.149Z"
+              "WhenOpened": "2025-02-06T13:50:52.149Z",
+              "EditorCaption": ""
             }
           ]
         }

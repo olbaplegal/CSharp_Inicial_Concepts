@@ -46,9 +46,20 @@ Console.Clear();
 
 var lista11 = new ArrayList() { "Paulo", 4.5, 5, " ", null, true, 2, 6, 0 };
 
-lista.Remove(null); // remove pelo valor do indice
+lista11.Remove(null); // remove o valor especificado
 
-lista.RemoveAt(4); // remove pelo número do indice
+lista11.RemoveAt(4); // remove pelo valor do indice
 
-lista.RemoveRange(0, 2); // remove 2 ou mais elementos, aonde é primeiro espaço é aonde vai começar
+lista11.RemoveRange(0, 2); // remove 2 ou mais elementos, aonde é primeiro espaço é aonde vai começar
 
+
+var res1 = lista11.Contains(5); // contem? retorna true ou false
+bool res2 = lista.Contains("Mari");
+
+Console.WriteLine(res1);
+Console.WriteLine(lista.Contains(null));
+
+ArrayList listaNomes = new ArrayList() { "Maria", "Ana", "Zilda", "Carlos", "Diná" };
+listaNomes.Sort(); // ordena o array
+Console.WriteLine(listaNomes.Count); // conta quantos elementos tem no array
+listaNomes.Clear(); // wipe all the array keeping the number of the indexes
