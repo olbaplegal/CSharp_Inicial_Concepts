@@ -1,4 +1,6 @@
 ﻿//declaração do array
+//TipoDados[] NomeDoArray;
+//aqui, você criou o array mas não alocou memória
 int[] numeros;
 
 //aloquei memória
