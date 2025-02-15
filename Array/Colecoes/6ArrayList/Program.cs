@@ -44,5 +44,11 @@ lista.InsertRange(2, array1);
 Console.ReadLine();
 Console.Clear();
 
+var lista11 = new ArrayList() { "Paulo", 4.5, 5, " ", null, true, 2, 6, 0 };
 
+lista.Remove(null); // remove pelo valor do indice
+
+lista.RemoveAt(4); // remove pelo número do indice
+
+lista.RemoveRange(0, 2); // remove 2 ou mais elementos, aonde é primeiro espaço é aonde vai começar
 
