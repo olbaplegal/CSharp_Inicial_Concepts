@@ -1,0 +1,15 @@
+C:\dev\CSharpEssencial\Array\Colecoes\ColecoesExercicio\bin\Debug\net8.0\ColecoesExercicio.exe
+C:\dev\CSharpEssencial\Array\Colecoes\ColecoesExercicio\bin\Debug\net8.0\ColecoesExercicio.deps.json
+C:\dev\CSharpEssencial\Array\Colecoes\ColecoesExercicio\bin\Debug\net8.0\ColecoesExercicio.runtimeconfig.json
+C:\dev\CSharpEssencial\Array\Colecoes\ColecoesExercicio\bin\Debug\net8.0\ColecoesExercicio.dll
+C:\dev\CSharpEssencial\Array\Colecoes\ColecoesExercicio\bin\Debug\net8.0\ColecoesExercicio.pdb
+C:\dev\CSharpEssencial\Array\Colecoes\ColecoesExercicio\obj\Debug\net8.0\ColecoesExercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\CSharpEssencial\Array\Colecoes\ColecoesExercicio\obj\Debug\net8.0\ColecoesExercicio.AssemblyInfoInputs.cache
+C:\dev\CSharpEssencial\Array\Colecoes\ColecoesExercicio\obj\Debug\net8.0\ColecoesExercicio.AssemblyInfo.cs
+C:\dev\CSharpEssencial\Array\Colecoes\ColecoesExercicio\obj\Debug\net8.0\ColecoesExercicio.csproj.CoreCompileInputs.cache
+C:\dev\CSharpEssencial\Array\Colecoes\ColecoesExercicio\obj\Debug\net8.0\ColecoesExercicio.sourcelink.json
+C:\dev\CSharpEssencial\Array\Colecoes\ColecoesExercicio\obj\Debug\net8.0\ColecoesExercicio.dll
+C:\dev\CSharpEssencial\Array\Colecoes\ColecoesExercicio\obj\Debug\net8.0\refint\ColecoesExercicio.dll
+C:\dev\CSharpEssencial\Array\Colecoes\ColecoesExercicio\obj\Debug\net8.0\ColecoesExercicio.pdb
+C:\dev\CSharpEssencial\Array\Colecoes\ColecoesExercicio\obj\Debug\net8.0\ColecoesExercicio.genruntimeconfig.cache
+C:\dev\CSharpEssencial\Array\Colecoes\ColecoesExercicio\obj\Debug\net8.0\ref\ColecoesExercicio.dll
