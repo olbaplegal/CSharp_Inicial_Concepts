@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\dev\\CSharpEssencial\\Array\\Colecoes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3D76FB4A-1D16-42A0-A421-152441C4C82E}|1.2List\\1.2List.csproj|c:\\dev\\csharpessencial\\array\\colecoes\\1.2list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D76FB4A-1D16-42A0-A421-152441C4C82E}|1.2List\\1.2List.csproj|solutionrelative:1.2list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0F46D600-46AD-4696-AEA0-9F0EDC97EA46}|ExercicioList\\ExercicioList.csproj|c:\\dev\\csharpessencial\\array\\colecoes\\exerciciolist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F46D600-46AD-4696-AEA0-9F0EDC97EA46}|ExercicioList\\ExercicioList.csproj|solutionrelative:exerciciolist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F46D600-46AD-4696-AEA0-9F0EDC97EA46}|ExercicioList\\ExercicioList.csproj|c:\\dev\\csharpessencial\\array\\colecoes\\exerciciolist\\fontedados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F46D600-46AD-4696-AEA0-9F0EDC97EA46}|ExercicioList\\ExercicioList.csproj|solutionrelative:exerciciolist\\fontedados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F46D600-46AD-4696-AEA0-9F0EDC97EA46}|ExercicioList\\ExercicioList.csproj|c:\\dev\\csharpessencial\\array\\colecoes\\exerciciolist\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F46D600-46AD-4696-AEA0-9F0EDC97EA46}|ExercicioList\\ExercicioList.csproj|solutionrelative:exerciciolist\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,15 +30,41 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FonteDados.cs",
+              "DocumentMoniker": "C:\\dev\\CSharpEssencial\\Array\\Colecoes\\ExercicioList\\FonteDados.cs",
+              "RelativeDocumentMoniker": "ExercicioList\\FonteDados.cs",
+              "ToolTip": "C:\\dev\\CSharpEssencial\\Array\\Colecoes\\ExercicioList\\FonteDados.cs",
+              "RelativeToolTip": "ExercicioList\\FonteDados.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T18:39:55.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Aluno.cs",
+              "DocumentMoniker": "C:\\dev\\CSharpEssencial\\Array\\Colecoes\\ExercicioList\\Aluno.cs",
+              "RelativeDocumentMoniker": "ExercicioList\\Aluno.cs",
+              "ToolTip": "C:\\dev\\CSharpEssencial\\Array\\Colecoes\\ExercicioList\\Aluno.cs",
+              "RelativeToolTip": "ExercicioList\\Aluno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T18:37:53.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\dev\\CSharpEssencial\\Array\\Colecoes\\1.2List\\Program.cs",
-              "RelativeDocumentMoniker": "1.2List\\Program.cs",
-              "ToolTip": "C:\\dev\\CSharpEssencial\\Array\\Colecoes\\1.2List\\Program.cs*",
-              "RelativeToolTip": "1.2List\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAARAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\dev\\CSharpEssencial\\Array\\Colecoes\\ExercicioList\\Program.cs",
+              "RelativeDocumentMoniker": "ExercicioList\\Program.cs",
+              "ToolTip": "C:\\dev\\CSharpEssencial\\Array\\Colecoes\\ExercicioList\\Program.cs*",
+              "RelativeToolTip": "ExercicioList\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T17:57:00.842Z",
+              "WhenOpened": "2025-02-16T18:29:41.268Z",
               "EditorCaption": ""
             }
           ]
