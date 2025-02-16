@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\dev\\CSharpEssencial\\Array\\Colecoes\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6C129520-2FD4-4C38-845D-07E80788F018}|12Random\\12Random.csproj|c:\\dev\\csharpessencial\\array\\colecoes\\12random\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C129520-2FD4-4C38-845D-07E80788F018}|12Random\\12Random.csproj|solutionrelative:12random\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4A849844-291E-4C02-AE7B-2E76DBDC7386}|10Indexadores\\10Indexadores.csproj|c:\\dev\\csharpessencial\\array\\colecoes\\10indexadores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4A849844-291E-4C02-AE7B-2E76DBDC7386}|10Indexadores\\10Indexadores.csproj|solutionrelative:10indexadores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -30,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,7 +42,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\dev\\CSharpEssencial\\Array\\Colecoes\\12Random\\Program.cs",
+              "RelativeDocumentMoniker": "12Random\\Program.cs",
+              "ToolTip": "C:\\dev\\CSharpEssencial\\Array\\Colecoes\\12Random\\Program.cs",
+              "RelativeToolTip": "12Random\\Program.cs",
+              "ViewState": "AgIAABcAAAAAvhab2wf3vycAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T20:07:40.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Time.cs",
               "DocumentMoniker": "C:\\dev\\CSharpEssencial\\Array\\Colecoes\\10Indexadores\\Time.cs",
               "RelativeDocumentMoniker": "10Indexadores\\Time.cs",
@@ -46,25 +63,24 @@
               "RelativeToolTip": "10Indexadores\\Time.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T19:54:01.609Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-16T19:54:01.609Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\dev\\CSharpEssencial\\Array\\Colecoes\\10Indexadores\\Program.cs",
               "RelativeDocumentMoniker": "10Indexadores\\Program.cs",
               "ToolTip": "C:\\dev\\CSharpEssencial\\Array\\Colecoes\\10Indexadores\\Program.cs",
               "RelativeToolTip": "10Indexadores\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-16T19:53:27.725Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "FonteDados.cs",
               "DocumentMoniker": "C:\\dev\\CSharpEssencial\\Array\\Colecoes\\ExercicioList\\FonteDados.cs",
               "RelativeDocumentMoniker": "ExercicioList\\FonteDados.cs",
@@ -76,7 +92,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Aluno.cs",
               "DocumentMoniker": "C:\\dev\\CSharpEssencial\\Array\\Colecoes\\ExercicioList\\Aluno.cs",
               "RelativeDocumentMoniker": "ExercicioList\\Aluno.cs",
@@ -88,7 +104,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\dev\\CSharpEssencial\\Array\\Colecoes\\ExercicioList\\Program.cs",
               "RelativeDocumentMoniker": "ExercicioList\\Program.cs",
@@ -96,8 +112,7 @@
               "RelativeToolTip": "ExercicioList\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T18:29:41.268Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-16T18:29:41.268Z"
             }
           ]
         }

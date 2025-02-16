@@ -1,0 +1,15 @@
+C:\dev\CSharpEssencial\Array\Colecoes\12Random\bin\Debug\net8.0\12Random.exe
+C:\dev\CSharpEssencial\Array\Colecoes\12Random\bin\Debug\net8.0\12Random.deps.json
+C:\dev\CSharpEssencial\Array\Colecoes\12Random\bin\Debug\net8.0\12Random.runtimeconfig.json
+C:\dev\CSharpEssencial\Array\Colecoes\12Random\bin\Debug\net8.0\12Random.dll
+C:\dev\CSharpEssencial\Array\Colecoes\12Random\bin\Debug\net8.0\12Random.pdb
+C:\dev\CSharpEssencial\Array\Colecoes\12Random\obj\Debug\net8.0\12Random.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\CSharpEssencial\Array\Colecoes\12Random\obj\Debug\net8.0\12Random.AssemblyInfoInputs.cache
+C:\dev\CSharpEssencial\Array\Colecoes\12Random\obj\Debug\net8.0\12Random.AssemblyInfo.cs
+C:\dev\CSharpEssencial\Array\Colecoes\12Random\obj\Debug\net8.0\12Random.csproj.CoreCompileInputs.cache
+C:\dev\CSharpEssencial\Array\Colecoes\12Random\obj\Debug\net8.0\12Random.sourcelink.json
+C:\dev\CSharpEssencial\Array\Colecoes\12Random\obj\Debug\net8.0\12Random.dll
+C:\dev\CSharpEssencial\Array\Colecoes\12Random\obj\Debug\net8.0\refint\12Random.dll
+C:\dev\CSharpEssencial\Array\Colecoes\12Random\obj\Debug\net8.0\12Random.pdb
+C:\dev\CSharpEssencial\Array\Colecoes\12Random\obj\Debug\net8.0\12Random.genruntimeconfig.cache
+C:\dev\CSharpEssencial\Array\Colecoes\12Random\obj\Debug\net8.0\ref\12Random.dll
