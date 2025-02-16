@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7.2List", "1.2List\7.2List.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercicioList", "ExercicioList\ExercicioList.csproj", "{0F46D600-46AD-4696-AEA0-9F0EDC97EA46}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10Indexadores", "10Indexadores\10Indexadores.csproj", "{4A849844-291E-4C02-AE7B-2E76DBDC7386}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{0F46D600-46AD-4696-AEA0-9F0EDC97EA46}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0F46D600-46AD-4696-AEA0-9F0EDC97EA46}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0F46D600-46AD-4696-AEA0-9F0EDC97EA46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A849844-291E-4C02-AE7B-2E76DBDC7386}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A849844-291E-4C02-AE7B-2E76DBDC7386}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A849844-291E-4C02-AE7B-2E76DBDC7386}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A849844-291E-4C02-AE7B-2E76DBDC7386}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

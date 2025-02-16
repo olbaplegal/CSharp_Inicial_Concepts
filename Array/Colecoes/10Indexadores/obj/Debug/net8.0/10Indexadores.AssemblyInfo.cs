@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("9ModificadoresParams")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("10Indexadores")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4590a344b7123ddc849c3db6c4fb6971e19377ee")]
-[assembly: System.Reflection.AssemblyProductAttribute("9ModificadoresParams")]
-[assembly: System.Reflection.AssemblyTitleAttribute("9ModificadoresParams")]
+[assembly: System.Reflection.AssemblyProductAttribute("10Indexadores")]
+[assembly: System.Reflection.AssemblyTitleAttribute("10Indexadores")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
