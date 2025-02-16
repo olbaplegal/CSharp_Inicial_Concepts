@@ -1,0 +1,15 @@
+C:\dev\CSharpEssencial\Array\Colecoes\7.1List\bin\Debug\net8.0\7.1List.exe
+C:\dev\CSharpEssencial\Array\Colecoes\7.1List\bin\Debug\net8.0\7.1List.deps.json
+C:\dev\CSharpEssencial\Array\Colecoes\7.1List\bin\Debug\net8.0\7.1List.runtimeconfig.json
+C:\dev\CSharpEssencial\Array\Colecoes\7.1List\bin\Debug\net8.0\7.1List.dll
+C:\dev\CSharpEssencial\Array\Colecoes\7.1List\bin\Debug\net8.0\7.1List.pdb
+C:\dev\CSharpEssencial\Array\Colecoes\7.1List\obj\Debug\net8.0\7.1List.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\CSharpEssencial\Array\Colecoes\7.1List\obj\Debug\net8.0\7.1List.AssemblyInfoInputs.cache
+C:\dev\CSharpEssencial\Array\Colecoes\7.1List\obj\Debug\net8.0\7.1List.AssemblyInfo.cs
+C:\dev\CSharpEssencial\Array\Colecoes\7.1List\obj\Debug\net8.0\7.1List.csproj.CoreCompileInputs.cache
+C:\dev\CSharpEssencial\Array\Colecoes\7.1List\obj\Debug\net8.0\7.1List.sourcelink.json
+C:\dev\CSharpEssencial\Array\Colecoes\7.1List\obj\Debug\net8.0\7.1List.dll
+C:\dev\CSharpEssencial\Array\Colecoes\7.1List\obj\Debug\net8.0\refint\7.1List.dll
+C:\dev\CSharpEssencial\Array\Colecoes\7.1List\obj\Debug\net8.0\7.1List.pdb
+C:\dev\CSharpEssencial\Array\Colecoes\7.1List\obj\Debug\net8.0\7.1List.genruntimeconfig.cache
+C:\dev\CSharpEssencial\Array\Colecoes\7.1List\obj\Debug\net8.0\ref\7.1List.dll
