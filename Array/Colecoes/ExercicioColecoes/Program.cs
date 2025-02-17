@@ -50,38 +50,84 @@
 
 //Console.ReadLine();
 
-//3
-double[,] notas = new double[2, 5];
-for (int i = 0; i < notas.GetLength(0); i++)
-{
-    for (int j = 0; j < notas.GetLength(1); j++)
-    {
-        Console.Write($"Informe o valor da {notas[i, j]}º nota: ");
-        notas[i, j] = Convert.ToDouble(Console.ReadLine());
-    }
-}
-
-double soma1 = 0;
-double soma2 = 0;
-Console.WriteLine("Notas: ");
-for (int i = 0; i < notas.GetLength(0); i++)
-{
-    for (int j = 0; j < notas.GetLength(1); j++)
-    {
-        Console.WriteLine(notas[i, j]);
-        soma1 += i;
-        soma2 += j;
-    }
-}
-
-double media1 = soma1 / 5;
-double media2 = soma2 / 5;
-Console.WriteLine(media1);
-Console.WriteLine(media2);
 
 
+////2
+////solicitando número de valores do array
+//Console.WriteLine("´tamanho do array");
+//int i = Convert.ToInt32(Console.ReadLine());
 
+////declarando e inicializando um array de inteiros
+//int[] array = new int[i];
 
+////botando valores do array
+//Console.WriteLine("items do array");
+//for (int j = 0; j < array.Length; j++)
+//{
+//    array[j] = Convert.ToInt32(Console.ReadLine());
+//}
 
+//string numero;
+//Console.WriteLine("\nInforme o número a localizar no array (tecle fim para encerrar): \n");
+//do
+//{
+//    numero = Console.ReadLine();
 
-Console.ReadLine();
+//    if (numero != "fim")
+//    {
+//        int valor = Convert.ToInt32(numero);
+
+//        if (Array.BinarySearch(array, valor) >= 0)
+//        {
+//            Console.WriteLine($"\nO número {numero} Existe no array");
+//        }
+//        else
+//        {
+//            Console.WriteLine($"\nO número {numero} não existe no array");
+//        }
+//    }
+//}
+//while (numero != "fim");
+
+//>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>3
+
+////define os grupos
+//int totalGrupo = 2;
+//int totalPorGrupo = 5;
+
+////declara e inicializa o array com os grupos
+//float[,] notas = new float[totalGrupo, totalPorGrupo];
+
+////define os valores dos totais iniciais das notas
+//float totalGrupo1 = 0.0f, totalGrupo2 = 0.0f;
+
+//Console.WriteLine("\nCálculo da média das notas de 2 grupos de alunos com 5 alunos cada");
+//Console.WriteLine("Array bidimensional => [2,5]\n");
+
+//for (int i = 0; i < totalGrupo; i++)
+//{
+//    Console.WriteLine($"Informe nota do grupo {i + 1}");
+//    for (int j = 0; j < totalPorGrupo; j++)
+//    {
+//        Console.Write($"Nota : [{i},[{j}] = ");
+//        notas[i, j] = Convert.ToSingle(Console.ReadLine());
+//    }
+//}
+
+////Calculando a média para o grupo 1
+////percorre o array
+//for (int i = 0; i < totalPorGrupo; i++)
+//{
+//    totalGrupo1 += notas[0, i];
+//}
+
+////Exibe resultado
+//Console.WriteLine($"Média para o grupo 1: {totalGrupo1 / totalPorGrupo}");
+
+//for (int i = 0; i < totalPorGrupo; i++)
+//{
+//    totalGrupo2 += notas[1, i];
+//}
+//Console.WriteLine($"\nMédia para o grupo 2: {totalGrupo2 / totalPorGrupo}");
+
+//>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>

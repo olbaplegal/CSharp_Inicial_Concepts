@@ -26,7 +26,7 @@ static void ExibeArray(string[] nomes)
     foreach (var nome in nomes)
     {
         Console.Write($"{nome} ");
-        Console.WriteLine("Hello")
+        Console.WriteLine("Hello");
     }
     Console.WriteLine();
 }
