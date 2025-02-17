@@ -27,7 +27,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10Indexadores", "10Indexado
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12Random", "12Random\12Random.csproj", "{6C129520-2FD4-4C38-845D-07E80788F018}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercicioColecoes", "ExercicioColecoes\ExercicioColecoes.csproj", "{2197CAC7-22CE-4D24-838D-851E7667F134}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercicioColecoes4", "ExercicioColecoes\ExercicioColecoes4.csproj", "{2197CAC7-22CE-4D24-838D-851E7667F134}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColecoesExercicio1", "ColecoesExercicio1\ColecoesExercicio1.csproj", "{47C54C20-6544-4F4C-8471-353AD6AEC1BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColecoesExercicio2", "ColecoesExercicio2\ColecoesExercicio2.csproj", "{CDAA1E8C-798D-46F6-9FE2-0CBAF54FCB9B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColecoesExercicio3", "ColecoesExercicio3\ColecoesExercicio3.csproj", "{B990DEF2-DFBC-4ED8-A3F3-830090E61E57}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +93,18 @@ Global
 		{2197CAC7-22CE-4D24-838D-851E7667F134}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2197CAC7-22CE-4D24-838D-851E7667F134}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2197CAC7-22CE-4D24-838D-851E7667F134}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47C54C20-6544-4F4C-8471-353AD6AEC1BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47C54C20-6544-4F4C-8471-353AD6AEC1BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47C54C20-6544-4F4C-8471-353AD6AEC1BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47C54C20-6544-4F4C-8471-353AD6AEC1BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDAA1E8C-798D-46F6-9FE2-0CBAF54FCB9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDAA1E8C-798D-46F6-9FE2-0CBAF54FCB9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDAA1E8C-798D-46F6-9FE2-0CBAF54FCB9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDAA1E8C-798D-46F6-9FE2-0CBAF54FCB9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B990DEF2-DFBC-4ED8-A3F3-830090E61E57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B990DEF2-DFBC-4ED8-A3F3-830090E61E57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B990DEF2-DFBC-4ED8-A3F3-830090E61E57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B990DEF2-DFBC-4ED8-A3F3-830090E61E57}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\dev\\CSharpEssencial\\Array\\Colecoes\\ExercicioColecoes\\ExercicioColecoes.csproj",
-      "projectName": "ExercicioColecoes",
-      "projectPath": "C:\\dev\\CSharpEssencial\\Array\\Colecoes\\ExercicioColecoes\\ExercicioColecoes.csproj",
+      "projectUniqueName": "C:\\dev\\CSharpEssencial\\Array\\Colecoes\\ExercicioColecoes\\ExercicioColecoes4.csproj",
+      "projectName": "ExercicioColecoes4",
+      "projectPath": "C:\\dev\\CSharpEssencial\\Array\\Colecoes\\ExercicioColecoes\\ExercicioColecoes4.csproj",
       "packagesPath": "C:\\Users\\Aria\\.nuget\\packages\\",
       "outputPath": "C:\\dev\\CSharpEssencial\\Array\\Colecoes\\ExercicioColecoes\\obj\\",
       "projectStyle": "PackageReference",
