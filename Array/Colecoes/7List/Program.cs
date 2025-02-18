@@ -1,26 +1,27 @@
-﻿////declarar uma coleão do tipo List<T>
-//List<string> lista;
-//lista = new List<string>();
+﻿using System.Collections;
 
-//List<int> lista1 = new List<int>();
+//declarar uma coleão do tipo List<T>
+List<string> lista;
+lista = new List<string>();
 
-//var lista2 = new List<float>();
+List<int> lista1 = new List<int>();
 
-//List<double> lista3 = new();
+var lista2 = new List<float>();
 
-//List<string> nomes = new();
-//nomes.Add("Paulo");
-//nomes.Add("Maria");
+List<double> lista3 = new();
 
-//var lista4 = new List<string>()
-//{
-//    "Paulo", "Maria", "Bia", "Pedro"
-//};
+List<string> nomes = new();
+nomes.Add("Paulo");
+nomes.Add("Maria");
+
+var lista4 = new List<string>()
+{
+    "Paulo", "Maria", "Bia", "Pedro"
+};
 
 //criação da lista
-using System.Collections;
 
-var lista = new List<string>() { "Maria", "Ana", "Pedro", "Carlos", "Zé" };
+var lista0 = new List<string>() { "Maria", "Ana", "Pedro", "Carlos", "Zé" };
 
 //"Add" adiciona ao final da lista
 lista.Add("Marta");
@@ -65,14 +66,14 @@ lista.Clear();
 //comparação, ArrayList && List<T>
 //boxing == transformar um tipo primitivo em obj
 //quando você introduz um dado de tipo primitivo em um ArrayList você faz boxing do dado
-ArrayList lista1 = new ArrayList();
+ArrayList lista11 = new ArrayList();
 lista1.Add(3);//boxing
 lista1.Add(4);//boxing
 
 var elemento = lista1[0];//unboxing //ta retornado um obj
 int numero = (int)lista1[1];//tem que fazer a converção explicita
 
-List<int> lista2 = new();
+List<int> lista22 = new();
 lista2.Add(2);
 
 var item = lista2[0];

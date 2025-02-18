@@ -3,26 +3,18 @@
   "WorkspaceRootPath": "C:\\dev\\CSharpEssencial\\Array\\Colecoes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3507B5DC-6EB9-4A50-8F94-9068328D8655}|6ArrayList\\6ArrayList.csproj|c:\\dev\\csharpessencial\\array\\colecoes\\6arraylist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3507B5DC-6EB9-4A50-8F94-9068328D8655}|6ArrayList\\6ArrayList.csproj|solutionrelative:6arraylist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2197CAC7-22CE-4D24-838D-851E7667F134}|ExercicioColecoes\\ExercicioColecoes4.csproj|c:\\dev\\csharpessencial\\array\\colecoes\\exerciciocolecoes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2197CAC7-22CE-4D24-838D-851E7667F134}|ExercicioColecoes\\ExercicioColecoes4.csproj|solutionrelative:exerciciocolecoes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2197CAC7-22CE-4D24-838D-851E7667F134}|ExercicioColecoes\\ExercicioColecoes4.csproj|c:\\dev\\csharpessencial\\array\\colecoes\\exerciciocolecoes\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2197CAC7-22CE-4D24-838D-851E7667F134}|ExercicioColecoes\\ExercicioColecoes4.csproj|solutionrelative:exerciciocolecoes\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D9689C0C-2A70-49C8-A791-5C92AE240DAD}|ExercicioColecoes5\\ExercicioColecoes5.csproj|c:\\dev\\csharpessencial\\array\\colecoes\\exerciciocolecoes5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9689C0C-2A70-49C8-A791-5C92AE240DAD}|ExercicioColecoes5\\ExercicioColecoes5.csproj|solutionrelative:exerciciocolecoes5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
     {
-      "Orientation": 1,
+      "Orientation": 0,
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedHeight": 200,
-          "SelectedChildIndex": 3,
+          "DockedWidth": 1471,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,39 +22,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\dev\\CSharpEssencial\\Array\\Colecoes\\ExercicioColecoes\\Program.cs",
-              "RelativeDocumentMoniker": "ExercicioColecoes\\Program.cs",
-              "ToolTip": "C:\\dev\\CSharpEssencial\\Array\\Colecoes\\ExercicioColecoes\\Program.cs",
-              "RelativeToolTip": "ExercicioColecoes\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T22:15:47.537Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Pessoa.cs",
-              "DocumentMoniker": "C:\\dev\\CSharpEssencial\\Array\\Colecoes\\ExercicioColecoes\\Pessoa.cs",
-              "RelativeDocumentMoniker": "ExercicioColecoes\\Pessoa.cs",
-              "ToolTip": "C:\\dev\\CSharpEssencial\\Array\\Colecoes\\ExercicioColecoes\\Pessoa.cs",
-              "RelativeToolTip": "ExercicioColecoes\\Pessoa.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T17:24:55.719Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\dev\\CSharpEssencial\\Array\\Colecoes\\6ArrayList\\Program.cs",
-              "RelativeDocumentMoniker": "6ArrayList\\Program.cs",
-              "ToolTip": "C:\\dev\\CSharpEssencial\\Array\\Colecoes\\6ArrayList\\Program.cs",
-              "RelativeToolTip": "6ArrayList\\Program.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAIAwwCUAAAAbAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\dev\\CSharpEssencial\\Array\\Colecoes\\ExercicioColecoes5\\Program.cs",
+              "RelativeDocumentMoniker": "ExercicioColecoes5\\Program.cs",
+              "ToolTip": "C:\\dev\\CSharpEssencial\\Array\\Colecoes\\ExercicioColecoes5\\Program.cs*",
+              "RelativeToolTip": "ExercicioColecoes5\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T17:23:55.688Z",
+              "WhenOpened": "2025-02-18T15:01:50.173Z",
               "EditorCaption": ""
             }
           ]
