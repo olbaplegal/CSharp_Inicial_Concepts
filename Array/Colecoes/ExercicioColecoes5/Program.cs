@@ -35,8 +35,27 @@ for (int i = 0; i < produtos.Count; i++)
     Console.WriteLine($"{produtos[i].Nome}\t\t{produtos[i].Preco}");
 }
 
+//ordenando por nome
+Console.WriteLine("\n>Ordenando por Nome");
+produtos = produtos.OrderBy(x => x.Nome).ToList();
+Console.WriteLine($"\nProdutos:\tPreço:");
+for (int i = 0; i < produtos.Count; i++)
+{
+    Console.WriteLine($"{produtos[i].Nome}\t\t{produtos[i].Preco}");
+}
 
+//exibindo preços menores que 5
+Console.WriteLine("\n>Exibindo Preços Menores que 5");
+Console.WriteLine($"\nProdutos:\tPreço:");
+for (int i = 0; i < produtos.Count; i++)
+{
+    if (produtos[i].Preco < 5) { Console.WriteLine($"{produtos[i].Nome}\t\t{produtos[i].Preco}"); }
+}
 
+//Procurando Estojo
+Console.WriteLine("\n>Localizando na lista o produto com nome Estojo\n");
+var produtoEstojo = produtos.Find(n => n.Nome.Equals("Estojo")); //predicado
+Console.WriteLine($"Produto: {produtoEstojo.Nome} - {produtoEstojo.Preco}");
 
 Console.ReadLine();
 
