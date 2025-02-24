@@ -1,0 +1,15 @@
+C:\dev\CSharpEssencial\POO\POO\bin\Debug\net8.0\Heraca_ConceitoSintaxe.exe
+C:\dev\CSharpEssencial\POO\POO\bin\Debug\net8.0\Heraca_ConceitoSintaxe.deps.json
+C:\dev\CSharpEssencial\POO\POO\bin\Debug\net8.0\Heraca_ConceitoSintaxe.runtimeconfig.json
+C:\dev\CSharpEssencial\POO\POO\bin\Debug\net8.0\Heraca_ConceitoSintaxe.dll
+C:\dev\CSharpEssencial\POO\POO\bin\Debug\net8.0\Heraca_ConceitoSintaxe.pdb
+C:\dev\CSharpEssencial\POO\POO\obj\Debug\net8.0\Heraca_ConceitoSintaxe.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\CSharpEssencial\POO\POO\obj\Debug\net8.0\Heraca_ConceitoSintaxe.AssemblyInfoInputs.cache
+C:\dev\CSharpEssencial\POO\POO\obj\Debug\net8.0\Heraca_ConceitoSintaxe.AssemblyInfo.cs
+C:\dev\CSharpEssencial\POO\POO\obj\Debug\net8.0\Heraca_ConceitoSintaxe.csproj.CoreCompileInputs.cache
+C:\dev\CSharpEssencial\POO\POO\obj\Debug\net8.0\Heraca_ConceitoSintaxe.sourcelink.json
+C:\dev\CSharpEssencial\POO\POO\obj\Debug\net8.0\Heraca_ConceitoSintaxe.dll
+C:\dev\CSharpEssencial\POO\POO\obj\Debug\net8.0\refint\Heraca_ConceitoSintaxe.dll
+C:\dev\CSharpEssencial\POO\POO\obj\Debug\net8.0\Heraca_ConceitoSintaxe.pdb
+C:\dev\CSharpEssencial\POO\POO\obj\Debug\net8.0\Heraca_ConceitoSintaxe.genruntimeconfig.cache
+C:\dev\CSharpEssencial\POO\POO\obj\Debug\net8.0\ref\Heraca_ConceitoSintaxe.dll
