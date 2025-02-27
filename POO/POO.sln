@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Heraca_ConceitoSintaxe", "POO\Heraca_ConceitoSintaxe.csproj", "{652197A1-CC9F-4BA1-AF01-1D42EFA5C394}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeracaConceitoSintaxe", "POO\HeracaConceitoSintaxe.csproj", "{652197A1-CC9F-4BA1-AF01-1D42EFA5C394}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Heranca", "Heranca\Heranca.csproj", "{9E686347-4FC9-419A-B9A1-A06DBF2E7A9B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeracaConstrutores", "HeracaConstrutores\HeracaConstrutores.csproj", "{48819E8B-E208-4CB2-9F32-CAA06A2B769B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{9E686347-4FC9-419A-B9A1-A06DBF2E7A9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9E686347-4FC9-419A-B9A1-A06DBF2E7A9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9E686347-4FC9-419A-B9A1-A06DBF2E7A9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48819E8B-E208-4CB2-9F32-CAA06A2B769B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48819E8B-E208-4CB2-9F32-CAA06A2B769B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48819E8B-E208-4CB2-9F32-CAA06A2B769B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48819E8B-E208-4CB2-9F32-CAA06A2B769B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

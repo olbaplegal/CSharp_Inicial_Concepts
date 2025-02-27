@@ -1,0 +1,15 @@
+C:\dev\CSharpEssencial\POO\HeracaConstrutores\bin\Debug\net8.0\HeracaConstrutores.exe
+C:\dev\CSharpEssencial\POO\HeracaConstrutores\bin\Debug\net8.0\HeracaConstrutores.deps.json
+C:\dev\CSharpEssencial\POO\HeracaConstrutores\bin\Debug\net8.0\HeracaConstrutores.runtimeconfig.json
+C:\dev\CSharpEssencial\POO\HeracaConstrutores\bin\Debug\net8.0\HeracaConstrutores.dll
+C:\dev\CSharpEssencial\POO\HeracaConstrutores\bin\Debug\net8.0\HeracaConstrutores.pdb
+C:\dev\CSharpEssencial\POO\HeracaConstrutores\obj\Debug\net8.0\HeracaConstrutores.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\CSharpEssencial\POO\HeracaConstrutores\obj\Debug\net8.0\HeracaConstrutores.AssemblyInfoInputs.cache
+C:\dev\CSharpEssencial\POO\HeracaConstrutores\obj\Debug\net8.0\HeracaConstrutores.AssemblyInfo.cs
+C:\dev\CSharpEssencial\POO\HeracaConstrutores\obj\Debug\net8.0\HeracaConstrutores.csproj.CoreCompileInputs.cache
+C:\dev\CSharpEssencial\POO\HeracaConstrutores\obj\Debug\net8.0\HeracaConstrutores.sourcelink.json
+C:\dev\CSharpEssencial\POO\HeracaConstrutores\obj\Debug\net8.0\HeracaConstrutores.dll
+C:\dev\CSharpEssencial\POO\HeracaConstrutores\obj\Debug\net8.0\refint\HeracaConstrutores.dll
+C:\dev\CSharpEssencial\POO\HeracaConstrutores\obj\Debug\net8.0\HeracaConstrutores.pdb
+C:\dev\CSharpEssencial\POO\HeracaConstrutores\obj\Debug\net8.0\HeracaConstrutores.genruntimeconfig.cache
+C:\dev\CSharpEssencial\POO\HeracaConstrutores\obj\Debug\net8.0\ref\HeracaConstrutores.dll

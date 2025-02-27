@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\dev\\CSharpEssencial\\POO\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{48819E8B-E208-4CB2-9F32-CAA06A2B769B}|HeracaConstrutores\\HeracaConstrutores.csproj|c:\\dev\\csharpessencial\\poo\\heracaconstrutores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48819E8B-E208-4CB2-9F32-CAA06A2B769B}|HeracaConstrutores\\HeracaConstrutores.csproj|solutionrelative:heracaconstrutores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9E686347-4FC9-419A-B9A1-A06DBF2E7A9B}|Heranca\\Heranca.csproj|c:\\dev\\csharpessencial\\poo\\heranca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9E686347-4FC9-419A-B9A1-A06DBF2E7A9B}|Heranca\\Heranca.csproj|solutionrelative:heranca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -28,10 +32,23 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\dev\\CSharpEssencial\\POO\\HeracaConstrutores\\Program.cs",
+              "RelativeDocumentMoniker": "HeracaConstrutores\\Program.cs",
+              "ToolTip": "C:\\dev\\CSharpEssencial\\POO\\HeracaConstrutores\\Program.cs*",
+              "RelativeToolTip": "HeracaConstrutores\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T14:47:42.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\dev\\CSharpEssencial\\POO\\Heranca\\Program.cs",
               "RelativeDocumentMoniker": "Heranca\\Program.cs",
-              "ToolTip": "C:\\dev\\CSharpEssencial\\POO\\Heranca\\Program.cs*",
-              "RelativeToolTip": "Heranca\\Program.cs*",
+              "ToolTip": "C:\\dev\\CSharpEssencial\\POO\\Heranca\\Program.cs",
+              "RelativeToolTip": "Heranca\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-26T14:54:35.453Z",
@@ -39,7 +56,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\dev\\CSharpEssencial\\POO\\POO\\Program.cs",
               "RelativeDocumentMoniker": "POO\\Program.cs",
@@ -47,8 +64,7 @@
               "RelativeToolTip": "POO\\Program.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T14:13:51.188Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-24T14:13:51.188Z"
             }
           ]
         }
