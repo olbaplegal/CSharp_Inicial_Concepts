@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dev\\CSharpzada\\POO\\POO\\HeracaConceitoSintaxe.csproj": {}
+    "C:\\dev\\CSharpzada\\POO\\HeracaObject\\HeracaObject.csproj": {}
   },
   "projects": {
-    "C:\\dev\\CSharpzada\\POO\\POO\\HeracaConceitoSintaxe.csproj": {
+    "C:\\dev\\CSharpzada\\POO\\HeracaObject\\HeracaObject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\CSharpzada\\POO\\POO\\HeracaConceitoSintaxe.csproj",
-        "projectName": "HeracaConceitoSintaxe",
-        "projectPath": "C:\\dev\\CSharpzada\\POO\\POO\\HeracaConceitoSintaxe.csproj",
+        "projectUniqueName": "C:\\dev\\CSharpzada\\POO\\HeracaObject\\HeracaObject.csproj",
+        "projectName": "HeracaObject",
+        "projectPath": "C:\\dev\\CSharpzada\\POO\\HeracaObject\\HeracaObject.csproj",
         "packagesPath": "C:\\Users\\olbap\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\CSharpzada\\POO\\POO\\obj\\",
+        "outputPath": "C:\\dev\\CSharpzada\\POO\\HeracaObject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

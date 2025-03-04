@@ -1,18 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\dev\\CSharpEssencial\\POO\\",
+  "WorkspaceRootPath": "C:\\dev\\CSharpzada\\POO\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{48819E8B-E208-4CB2-9F32-CAA06A2B769B}|HeracaConstrutores\\HeracaConstrutores.csproj|c:\\dev\\csharpessencial\\poo\\heracaconstrutores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C7416521-6902-4951-9BB6-5AA6BAEF2FAC}|HeracaObject\\HeracaObject.csproj|c:\\dev\\csharpzada\\poo\\heracaobject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7416521-6902-4951-9BB6-5AA6BAEF2FAC}|HeracaObject\\HeracaObject.csproj|solutionrelative:heracaobject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48819E8B-E208-4CB2-9F32-CAA06A2B769B}|HeracaConstrutores\\HeracaConstrutores.csproj|c:\\dev\\csharpzada\\poo\\heracaconstrutores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{48819E8B-E208-4CB2-9F32-CAA06A2B769B}|HeracaConstrutores\\HeracaConstrutores.csproj|solutionrelative:heracaconstrutores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9E686347-4FC9-419A-B9A1-A06DBF2E7A9B}|Heranca\\Heranca.csproj|c:\\dev\\csharpessencial\\poo\\heranca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9E686347-4FC9-419A-B9A1-A06DBF2E7A9B}|Heranca\\Heranca.csproj|c:\\dev\\csharpzada\\poo\\heranca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9E686347-4FC9-419A-B9A1-A06DBF2E7A9B}|Heranca\\Heranca.csproj|solutionrelative:heranca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{652197A1-CC9F-4BA1-AF01-1D42EFA5C394}|POO\\Heraca_ConceitoSintaxe.csproj|c:\\dev\\csharpessencial\\poo\\poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{652197A1-CC9F-4BA1-AF01-1D42EFA5C394}|POO\\Heraca_ConceitoSintaxe.csproj|solutionrelative:poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{652197A1-CC9F-4BA1-AF01-1D42EFA5C394}|POO\\HeracaConceitoSintaxe.csproj|c:\\dev\\csharpzada\\poo\\poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{652197A1-CC9F-4BA1-AF01-1D42EFA5C394}|POO\\HeracaConceitoSintaxe.csproj|solutionrelative:poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,35 +36,47 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\dev\\CSharpEssencial\\POO\\HeracaConstrutores\\Program.cs",
-              "RelativeDocumentMoniker": "HeracaConstrutores\\Program.cs",
-              "ToolTip": "C:\\dev\\CSharpEssencial\\POO\\HeracaConstrutores\\Program.cs",
-              "RelativeToolTip": "HeracaConstrutores\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\dev\\CSharpzada\\POO\\HeracaObject\\Program.cs",
+              "RelativeDocumentMoniker": "HeracaObject\\Program.cs",
+              "ToolTip": "C:\\dev\\CSharpzada\\POO\\HeracaObject\\Program.cs",
+              "RelativeToolTip": "HeracaObject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T14:47:42.068Z",
+              "WhenOpened": "2025-03-04T14:53:39.161Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\dev\\CSharpEssencial\\POO\\Heranca\\Program.cs",
-              "RelativeDocumentMoniker": "Heranca\\Program.cs",
-              "ToolTip": "C:\\dev\\CSharpEssencial\\POO\\Heranca\\Program.cs",
-              "RelativeToolTip": "Heranca\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAzAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\dev\\CSharpzada\\POO\\HeracaConstrutores\\Program.cs",
+              "RelativeDocumentMoniker": "HeracaConstrutores\\Program.cs",
+              "ToolTip": "C:\\dev\\CSharpzada\\POO\\HeracaConstrutores\\Program.cs",
+              "RelativeToolTip": "HeracaConstrutores\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T14:54:35.453Z",
+              "WhenOpened": "2025-02-27T14:47:42.068Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\dev\\CSharpEssencial\\POO\\POO\\Program.cs",
+              "DocumentMoniker": "C:\\dev\\CSharpzada\\POO\\Heranca\\Program.cs",
+              "RelativeDocumentMoniker": "Heranca\\Program.cs",
+              "ToolTip": "C:\\dev\\CSharpzada\\POO\\Heranca\\Program.cs",
+              "RelativeToolTip": "Heranca\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T14:54:35.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\dev\\CSharpzada\\POO\\POO\\Program.cs",
               "RelativeDocumentMoniker": "POO\\Program.cs",
-              "ToolTip": "C:\\dev\\CSharpEssencial\\POO\\POO\\Program.cs",
+              "ToolTip": "C:\\dev\\CSharpzada\\POO\\POO\\Program.cs",
               "RelativeToolTip": "POO\\Program.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
