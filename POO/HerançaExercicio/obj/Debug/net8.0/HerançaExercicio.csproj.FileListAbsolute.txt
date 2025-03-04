@@ -1,0 +1,15 @@
+C:\dev\CSharpzada\POO\HerançaExercicio\bin\Debug\net8.0\HerançaExercicio.exe
+C:\dev\CSharpzada\POO\HerançaExercicio\bin\Debug\net8.0\HerançaExercicio.deps.json
+C:\dev\CSharpzada\POO\HerançaExercicio\bin\Debug\net8.0\HerançaExercicio.runtimeconfig.json
+C:\dev\CSharpzada\POO\HerançaExercicio\bin\Debug\net8.0\HerançaExercicio.dll
+C:\dev\CSharpzada\POO\HerançaExercicio\bin\Debug\net8.0\HerançaExercicio.pdb
+C:\dev\CSharpzada\POO\HerançaExercicio\obj\Debug\net8.0\HerançaExercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\CSharpzada\POO\HerançaExercicio\obj\Debug\net8.0\HerançaExercicio.AssemblyInfoInputs.cache
+C:\dev\CSharpzada\POO\HerançaExercicio\obj\Debug\net8.0\HerançaExercicio.AssemblyInfo.cs
+C:\dev\CSharpzada\POO\HerançaExercicio\obj\Debug\net8.0\HerançaExercicio.csproj.CoreCompileInputs.cache
+C:\dev\CSharpzada\POO\HerançaExercicio\obj\Debug\net8.0\HerançaExercicio.sourcelink.json
+C:\dev\CSharpzada\POO\HerançaExercicio\obj\Debug\net8.0\HerançaExercicio.dll
+C:\dev\CSharpzada\POO\HerançaExercicio\obj\Debug\net8.0\refint\HerançaExercicio.dll
+C:\dev\CSharpzada\POO\HerançaExercicio\obj\Debug\net8.0\HerançaExercicio.pdb
+C:\dev\CSharpzada\POO\HerançaExercicio\obj\Debug\net8.0\HerançaExercicio.genruntimeconfig.cache
+C:\dev\CSharpzada\POO\HerançaExercicio\obj\Debug\net8.0\ref\HerançaExercicio.dll
