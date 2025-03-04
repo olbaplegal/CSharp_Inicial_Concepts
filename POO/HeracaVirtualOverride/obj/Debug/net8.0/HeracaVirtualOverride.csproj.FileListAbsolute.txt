@@ -1,0 +1,15 @@
+C:\dev\CSharpzada\POO\HeracaVirtualOverride\bin\Debug\net8.0\HeracaVirtualOverride.exe
+C:\dev\CSharpzada\POO\HeracaVirtualOverride\bin\Debug\net8.0\HeracaVirtualOverride.deps.json
+C:\dev\CSharpzada\POO\HeracaVirtualOverride\bin\Debug\net8.0\HeracaVirtualOverride.runtimeconfig.json
+C:\dev\CSharpzada\POO\HeracaVirtualOverride\bin\Debug\net8.0\HeracaVirtualOverride.dll
+C:\dev\CSharpzada\POO\HeracaVirtualOverride\bin\Debug\net8.0\HeracaVirtualOverride.pdb
+C:\dev\CSharpzada\POO\HeracaVirtualOverride\obj\Debug\net8.0\HeracaVirtualOverride.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\CSharpzada\POO\HeracaVirtualOverride\obj\Debug\net8.0\HeracaVirtualOverride.AssemblyInfoInputs.cache
+C:\dev\CSharpzada\POO\HeracaVirtualOverride\obj\Debug\net8.0\HeracaVirtualOverride.AssemblyInfo.cs
+C:\dev\CSharpzada\POO\HeracaVirtualOverride\obj\Debug\net8.0\HeracaVirtualOverride.csproj.CoreCompileInputs.cache
+C:\dev\CSharpzada\POO\HeracaVirtualOverride\obj\Debug\net8.0\HeracaVirtualOverride.sourcelink.json
+C:\dev\CSharpzada\POO\HeracaVirtualOverride\obj\Debug\net8.0\HeracaVirtualOverride.dll
+C:\dev\CSharpzada\POO\HeracaVirtualOverride\obj\Debug\net8.0\refint\HeracaVirtualOverride.dll
+C:\dev\CSharpzada\POO\HeracaVirtualOverride\obj\Debug\net8.0\HeracaVirtualOverride.pdb
+C:\dev\CSharpzada\POO\HeracaVirtualOverride\obj\Debug\net8.0\HeracaVirtualOverride.genruntimeconfig.cache
+C:\dev\CSharpzada\POO\HeracaVirtualOverride\obj\Debug\net8.0\ref\HeracaVirtualOverride.dll
