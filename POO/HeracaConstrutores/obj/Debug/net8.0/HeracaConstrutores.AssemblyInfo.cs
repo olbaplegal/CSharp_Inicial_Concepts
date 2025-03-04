@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HeracaConstrutores")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f9c43a44e5d59b22b4ddc9ba5e3d4987e1856482")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d7bbdb63dffc432fb0461e93a0eb7e72bee21de6")]
 [assembly: System.Reflection.AssemblyProductAttribute("HeracaConstrutores")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HeracaConstrutores")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

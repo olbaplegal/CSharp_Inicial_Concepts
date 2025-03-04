@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeracaConstrutores", "Herac
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeracaObject", "HeracaObject\HeracaObject.csproj", "{C7416521-6902-4951-9BB6-5AA6BAEF2FAC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeracaModificadoresNew", "HeracaModificadoresNew\HeracaModificadoresNew.csproj", "{C5EB0C9E-5970-4739-873E-D2A607F3D87B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,8 +35,15 @@ Global
 		{C7416521-6902-4951-9BB6-5AA6BAEF2FAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C7416521-6902-4951-9BB6-5AA6BAEF2FAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C7416521-6902-4951-9BB6-5AA6BAEF2FAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5EB0C9E-5970-4739-873E-D2A607F3D87B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5EB0C9E-5970-4739-873E-D2A607F3D87B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5EB0C9E-5970-4739-873E-D2A607F3D87B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5EB0C9E-5970-4739-873E-D2A607F3D87B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06A9A979-2262-418F-A20C-64024D2D7D0B}
 	EndGlobalSection
 EndGlobal

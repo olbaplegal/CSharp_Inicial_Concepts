@@ -1,0 +1,15 @@
+C:\dev\CSharpzada\POO\HeracaModificadoresNew\bin\Debug\net8.0\HeracaModificadoresNew.exe
+C:\dev\CSharpzada\POO\HeracaModificadoresNew\bin\Debug\net8.0\HeracaModificadoresNew.deps.json
+C:\dev\CSharpzada\POO\HeracaModificadoresNew\bin\Debug\net8.0\HeracaModificadoresNew.runtimeconfig.json
+C:\dev\CSharpzada\POO\HeracaModificadoresNew\bin\Debug\net8.0\HeracaModificadoresNew.dll
+C:\dev\CSharpzada\POO\HeracaModificadoresNew\bin\Debug\net8.0\HeracaModificadoresNew.pdb
+C:\dev\CSharpzada\POO\HeracaModificadoresNew\obj\Debug\net8.0\HeracaModificadoresNew.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\CSharpzada\POO\HeracaModificadoresNew\obj\Debug\net8.0\HeracaModificadoresNew.AssemblyInfoInputs.cache
+C:\dev\CSharpzada\POO\HeracaModificadoresNew\obj\Debug\net8.0\HeracaModificadoresNew.AssemblyInfo.cs
+C:\dev\CSharpzada\POO\HeracaModificadoresNew\obj\Debug\net8.0\HeracaModificadoresNew.csproj.CoreCompileInputs.cache
+C:\dev\CSharpzada\POO\HeracaModificadoresNew\obj\Debug\net8.0\HeracaModificadoresNew.sourcelink.json
+C:\dev\CSharpzada\POO\HeracaModificadoresNew\obj\Debug\net8.0\HeracaModificadoresNew.dll
+C:\dev\CSharpzada\POO\HeracaModificadoresNew\obj\Debug\net8.0\refint\HeracaModificadoresNew.dll
+C:\dev\CSharpzada\POO\HeracaModificadoresNew\obj\Debug\net8.0\HeracaModificadoresNew.pdb
+C:\dev\CSharpzada\POO\HeracaModificadoresNew\obj\Debug\net8.0\HeracaModificadoresNew.genruntimeconfig.cache
+C:\dev\CSharpzada\POO\HeracaModificadoresNew\obj\Debug\net8.0\ref\HeracaModificadoresNew.dll

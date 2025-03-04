@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("HeracaObject")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("HeracaModificadoresNew")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d7bbdb63dffc432fb0461e93a0eb7e72bee21de6")]
-[assembly: System.Reflection.AssemblyProductAttribute("HeracaObject")]
-[assembly: System.Reflection.AssemblyTitleAttribute("HeracaObject")]
+[assembly: System.Reflection.AssemblyProductAttribute("HeracaModificadoresNew")]
+[assembly: System.Reflection.AssemblyTitleAttribute("HeracaModificadoresNew")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
