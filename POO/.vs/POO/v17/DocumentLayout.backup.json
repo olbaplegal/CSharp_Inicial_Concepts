@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\dev\\CSharpzada\\POO\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C386A23A-F714-4641-9B59-A075548FEB1F}|HerancaSealed\\HerancaSealed.csproj|c:\\dev\\csharpzada\\poo\\herancasealed\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C386A23A-F714-4641-9B59-A075548FEB1F}|HerancaSealed\\HerancaSealed.csproj|solutionrelative:herancasealed\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E9FD2B9A-701A-446E-9A29-66C45960B307}|HeracaVirtualOverride\\HeracaVirtualOverride.csproj|c:\\dev\\csharpzada\\poo\\heracavirtualoverride\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E9FD2B9A-701A-446E-9A29-66C45960B307}|HeracaVirtualOverride\\HeracaVirtualOverride.csproj|solutionrelative:heracavirtualoverride\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -44,18 +48,31 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\dev\\CSharpzada\\POO\\HerancaSealed\\Program.cs",
+              "RelativeDocumentMoniker": "HerancaSealed\\Program.cs",
+              "ToolTip": "C:\\dev\\CSharpzada\\POO\\HerancaSealed\\Program.cs",
+              "RelativeToolTip": "HerancaSealed\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T15:45:00.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\dev\\CSharpzada\\POO\\HeracaVirtualOverride\\Program.cs",
               "RelativeDocumentMoniker": "HeracaVirtualOverride\\Program.cs",
-              "ToolTip": "C:\\dev\\CSharpzada\\POO\\HeracaVirtualOverride\\Program.cs*",
-              "RelativeToolTip": "HeracaVirtualOverride\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "ToolTip": "C:\\dev\\CSharpzada\\POO\\HeracaVirtualOverride\\Program.cs",
+              "RelativeToolTip": "HeracaVirtualOverride\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-04T15:33:12.482Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\dev\\CSharpzada\\POO\\HeracaModificadoresNew\\Program.cs",
               "RelativeDocumentMoniker": "HeracaModificadoresNew\\Program.cs",
@@ -68,7 +85,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\dev\\CSharpzada\\POO\\HeracaObject\\Program.cs",
               "RelativeDocumentMoniker": "HeracaObject\\Program.cs",
@@ -80,7 +97,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\dev\\CSharpzada\\POO\\HeracaConstrutores\\Program.cs",
               "RelativeDocumentMoniker": "HeracaConstrutores\\Program.cs",
@@ -92,7 +109,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\dev\\CSharpzada\\POO\\Heranca\\Program.cs",
               "RelativeDocumentMoniker": "Heranca\\Program.cs",
@@ -104,7 +121,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\dev\\CSharpzada\\POO\\POO\\Program.cs",
               "RelativeDocumentMoniker": "POO\\Program.cs",

@@ -1,0 +1,15 @@
+C:\dev\CSharpzada\POO\HerancaSealed\bin\Debug\net8.0\HerancaSealed.exe
+C:\dev\CSharpzada\POO\HerancaSealed\bin\Debug\net8.0\HerancaSealed.deps.json
+C:\dev\CSharpzada\POO\HerancaSealed\bin\Debug\net8.0\HerancaSealed.runtimeconfig.json
+C:\dev\CSharpzada\POO\HerancaSealed\bin\Debug\net8.0\HerancaSealed.dll
+C:\dev\CSharpzada\POO\HerancaSealed\bin\Debug\net8.0\HerancaSealed.pdb
+C:\dev\CSharpzada\POO\HerancaSealed\obj\Debug\net8.0\HerancaSealed.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\CSharpzada\POO\HerancaSealed\obj\Debug\net8.0\HerancaSealed.AssemblyInfoInputs.cache
+C:\dev\CSharpzada\POO\HerancaSealed\obj\Debug\net8.0\HerancaSealed.AssemblyInfo.cs
+C:\dev\CSharpzada\POO\HerancaSealed\obj\Debug\net8.0\HerancaSealed.csproj.CoreCompileInputs.cache
+C:\dev\CSharpzada\POO\HerancaSealed\obj\Debug\net8.0\HerancaSealed.sourcelink.json
+C:\dev\CSharpzada\POO\HerancaSealed\obj\Debug\net8.0\HerancaSealed.dll
+C:\dev\CSharpzada\POO\HerancaSealed\obj\Debug\net8.0\refint\HerancaSealed.dll
+C:\dev\CSharpzada\POO\HerancaSealed\obj\Debug\net8.0\HerancaSealed.pdb
+C:\dev\CSharpzada\POO\HerancaSealed\obj\Debug\net8.0\HerancaSealed.genruntimeconfig.cache
+C:\dev\CSharpzada\POO\HerancaSealed\obj\Debug\net8.0\ref\HerancaSealed.dll
