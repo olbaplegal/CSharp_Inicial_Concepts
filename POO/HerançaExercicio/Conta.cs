@@ -18,7 +18,7 @@
 
     public virtual decimal Sacar(decimal valor)
     {
-        Saldo -= valor;
+        Saldo = Saldo - valor;
         return Saldo;
     }
 

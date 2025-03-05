@@ -5,14 +5,14 @@
 
     private decimal CalculaImposto(double imposto)
     {
-        return Saldo * (decimal)Imposto;
+        return Saldo * (decimal)imposto;
     }
 
     public override decimal Sacar(decimal valor)
     {
         if (Saldo >= valor)
         {
-            Saldo = Saldo - valor - CalculaImposto(Imposto);
+            Saldo = Saldo - valor + CalculaImposto(Imposto);
             return Saldo;
         }
         else
@@ -21,5 +21,4 @@
             return Saldo;
         }
     }
-
 }
