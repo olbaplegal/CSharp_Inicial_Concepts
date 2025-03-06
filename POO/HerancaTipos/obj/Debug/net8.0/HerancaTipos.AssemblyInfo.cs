@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("HeracaVirtualOverride")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("HerancaTipos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+db269dcf1d33dafe0c25068a733ebadded0e53e6")]
-[assembly: System.Reflection.AssemblyProductAttribute("HeracaVirtualOverride")]
-[assembly: System.Reflection.AssemblyTitleAttribute("HeracaVirtualOverride")]
+[assembly: System.Reflection.AssemblyProductAttribute("HerancaTipos")]
+[assembly: System.Reflection.AssemblyTitleAttribute("HerancaTipos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

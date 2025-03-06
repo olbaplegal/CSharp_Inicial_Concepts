@@ -13,10 +13,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{92F16E27-5FC7-450B-A25E-F30D32DA376D}|HerancaExercicioV2\\HerancaExercicioV2.csproj|c:\\dev\\csharpzada\\poo\\herancaexerciciov2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{92F16E27-5FC7-450B-A25E-F30D32DA376D}|HerancaExercicioV2\\HerancaExercicioV2.csproj|solutionrelative:herancaexerciciov2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{92F16E27-5FC7-450B-A25E-F30D32DA376D}|HerancaExercicioV2\\HerancaExercicioV2.csproj|c:\\dev\\csharpzada\\poo\\herancaexerciciov2\\containvestimento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{92F16E27-5FC7-450B-A25E-F30D32DA376D}|HerancaExercicioV2\\HerancaExercicioV2.csproj|solutionrelative:herancaexerciciov2\\containvestimento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -61,9 +57,9 @@
               "Title": "ContaInvestimento.cs",
               "DocumentMoniker": "C:\\dev\\CSharpzada\\POO\\Heran\u00E7aExercicio\\ContaInvestimento.cs",
               "RelativeDocumentMoniker": "Heran\u00E7aExercicio\\ContaInvestimento.cs",
-              "ToolTip": "C:\\dev\\CSharpzada\\POO\\Heran\u00E7aExercicio\\ContaInvestimento.cs*",
-              "RelativeToolTip": "Heran\u00E7aExercicio\\ContaInvestimento.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAjAAAAAAAAAA==",
+              "ToolTip": "C:\\dev\\CSharpzada\\POO\\Heran\u00E7aExercicio\\ContaInvestimento.cs",
+              "RelativeToolTip": "Heran\u00E7aExercicio\\ContaInvestimento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-05T17:20:45.239Z",
               "EditorCaption": ""
@@ -71,19 +67,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ContaInvestimento.cs",
-              "DocumentMoniker": "C:\\dev\\CSharpzada\\POO\\HerancaExercicioV2\\ContaInvestimento.cs",
-              "RelativeDocumentMoniker": "HerancaExercicioV2\\ContaInvestimento.cs",
-              "ToolTip": "C:\\dev\\CSharpzada\\POO\\HerancaExercicioV2\\ContaInvestimento.cs",
-              "RelativeToolTip": "HerancaExercicioV2\\ContaInvestimento.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T17:17:25.717Z",
-              "EditorCaption": ""
             }
           ]
         }
