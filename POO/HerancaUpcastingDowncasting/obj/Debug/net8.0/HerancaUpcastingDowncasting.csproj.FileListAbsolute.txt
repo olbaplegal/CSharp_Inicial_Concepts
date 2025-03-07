@@ -1,0 +1,15 @@
+C:\dev\CSharpzada\POO\HerancaUpcastingDowncasting\bin\Debug\net8.0\HerancaUpcastingDowncasting.exe
+C:\dev\CSharpzada\POO\HerancaUpcastingDowncasting\bin\Debug\net8.0\HerancaUpcastingDowncasting.deps.json
+C:\dev\CSharpzada\POO\HerancaUpcastingDowncasting\bin\Debug\net8.0\HerancaUpcastingDowncasting.runtimeconfig.json
+C:\dev\CSharpzada\POO\HerancaUpcastingDowncasting\bin\Debug\net8.0\HerancaUpcastingDowncasting.dll
+C:\dev\CSharpzada\POO\HerancaUpcastingDowncasting\bin\Debug\net8.0\HerancaUpcastingDowncasting.pdb
+C:\dev\CSharpzada\POO\HerancaUpcastingDowncasting\obj\Debug\net8.0\HerancaUpcastingDowncasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\CSharpzada\POO\HerancaUpcastingDowncasting\obj\Debug\net8.0\HerancaUpcastingDowncasting.AssemblyInfoInputs.cache
+C:\dev\CSharpzada\POO\HerancaUpcastingDowncasting\obj\Debug\net8.0\HerancaUpcastingDowncasting.AssemblyInfo.cs
+C:\dev\CSharpzada\POO\HerancaUpcastingDowncasting\obj\Debug\net8.0\HerancaUpcastingDowncasting.csproj.CoreCompileInputs.cache
+C:\dev\CSharpzada\POO\HerancaUpcastingDowncasting\obj\Debug\net8.0\HerancaUpcastingDowncasting.sourcelink.json
+C:\dev\CSharpzada\POO\HerancaUpcastingDowncasting\obj\Debug\net8.0\HerancaUpcastingDowncasting.dll
+C:\dev\CSharpzada\POO\HerancaUpcastingDowncasting\obj\Debug\net8.0\refint\HerancaUpcastingDowncasting.dll
+C:\dev\CSharpzada\POO\HerancaUpcastingDowncasting\obj\Debug\net8.0\HerancaUpcastingDowncasting.pdb
+C:\dev\CSharpzada\POO\HerancaUpcastingDowncasting\obj\Debug\net8.0\HerancaUpcastingDowncasting.genruntimeconfig.cache
+C:\dev\CSharpzada\POO\HerancaUpcastingDowncasting\obj\Debug\net8.0\ref\HerancaUpcastingDowncasting.dll
