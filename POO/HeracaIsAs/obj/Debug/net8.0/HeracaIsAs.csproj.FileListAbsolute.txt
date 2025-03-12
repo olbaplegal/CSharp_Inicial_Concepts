@@ -1,0 +1,15 @@
+C:\dev\CSharpzada\POO\HeracaIsAs\bin\Debug\net8.0\HeracaIsAs.exe
+C:\dev\CSharpzada\POO\HeracaIsAs\bin\Debug\net8.0\HeracaIsAs.deps.json
+C:\dev\CSharpzada\POO\HeracaIsAs\bin\Debug\net8.0\HeracaIsAs.runtimeconfig.json
+C:\dev\CSharpzada\POO\HeracaIsAs\bin\Debug\net8.0\HeracaIsAs.dll
+C:\dev\CSharpzada\POO\HeracaIsAs\bin\Debug\net8.0\HeracaIsAs.pdb
+C:\dev\CSharpzada\POO\HeracaIsAs\obj\Debug\net8.0\HeracaIsAs.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\CSharpzada\POO\HeracaIsAs\obj\Debug\net8.0\HeracaIsAs.AssemblyInfoInputs.cache
+C:\dev\CSharpzada\POO\HeracaIsAs\obj\Debug\net8.0\HeracaIsAs.AssemblyInfo.cs
+C:\dev\CSharpzada\POO\HeracaIsAs\obj\Debug\net8.0\HeracaIsAs.csproj.CoreCompileInputs.cache
+C:\dev\CSharpzada\POO\HeracaIsAs\obj\Debug\net8.0\HeracaIsAs.sourcelink.json
+C:\dev\CSharpzada\POO\HeracaIsAs\obj\Debug\net8.0\HeracaIsAs.dll
+C:\dev\CSharpzada\POO\HeracaIsAs\obj\Debug\net8.0\refint\HeracaIsAs.dll
+C:\dev\CSharpzada\POO\HeracaIsAs\obj\Debug\net8.0\HeracaIsAs.pdb
+C:\dev\CSharpzada\POO\HeracaIsAs\obj\Debug\net8.0\HeracaIsAs.genruntimeconfig.cache
+C:\dev\CSharpzada\POO\HeracaIsAs\obj\Debug\net8.0\ref\HeracaIsAs.dll
