@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "C:\\dev\\CSharpzada\\POO\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4441C507-D6F1-40C6-A2AB-CD68AFE35830}|InterfaceExercicio\\InterfaceExercicio.csproj|c:\\dev\\csharpzada\\poo\\interfaceexercicio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4441C507-D6F1-40C6-A2AB-CD68AFE35830}|InterfaceExercicio\\InterfaceExercicio.csproj|solutionrelative:interfaceexercicio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4441C507-D6F1-40C6-A2AB-CD68AFE35830}|InterfaceExercicio\\InterfaceExercicio.csproj|c:\\dev\\csharpzada\\poo\\interfaceexercicio\\isalvar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4441C507-D6F1-40C6-A2AB-CD68AFE35830}|InterfaceExercicio\\InterfaceExercicio.csproj|solutionrelative:interfaceexercicio\\isalvar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4441C507-D6F1-40C6-A2AB-CD68AFE35830}|InterfaceExercicio\\InterfaceExercicio.csproj|c:\\dev\\csharpzada\\poo\\interfaceexercicio\\salvarjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4441C507-D6F1-40C6-A2AB-CD68AFE35830}|InterfaceExercicio\\InterfaceExercicio.csproj|solutionrelative:interfaceexercicio\\salvarjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4441C507-D6F1-40C6-A2AB-CD68AFE35830}|InterfaceExercicio\\InterfaceExercicio.csproj|c:\\dev\\csharpzada\\poo\\interfaceexercicio\\salvarxml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4441C507-D6F1-40C6-A2AB-CD68AFE35830}|InterfaceExercicio\\InterfaceExercicio.csproj|solutionrelative:interfaceexercicio\\salvarxml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4441C507-D6F1-40C6-A2AB-CD68AFE35830}|InterfaceExercicio\\InterfaceExercicio.csproj|c:\\dev\\csharpzada\\poo\\interfaceexercicio\\arquivobase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4441C507-D6F1-40C6-A2AB-CD68AFE35830}|InterfaceExercicio\\InterfaceExercicio.csproj|solutionrelative:interfaceexercicio\\arquivobase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A53F2B5F-070C-4EB0-B894-1267F8B65DFF}|Interfaces\\Interfaces.csproj|c:\\dev\\csharpzada\\poo\\interfaces\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A53F2B5F-070C-4EB0-B894-1267F8B65DFF}|Interfaces\\Interfaces.csproj|solutionrelative:interfaces\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 1471,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,13 +42,78 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SalvarJson.cs",
+              "DocumentMoniker": "C:\\dev\\CSharpzada\\POO\\InterfaceExercicio\\SalvarJson.cs",
+              "RelativeDocumentMoniker": "InterfaceExercicio\\SalvarJson.cs",
+              "ToolTip": "C:\\dev\\CSharpzada\\POO\\InterfaceExercicio\\SalvarJson.cs",
+              "RelativeToolTip": "InterfaceExercicio\\SalvarJson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T19:25:24.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SalvarXml.cs",
+              "DocumentMoniker": "C:\\dev\\CSharpzada\\POO\\InterfaceExercicio\\SalvarXml.cs",
+              "RelativeDocumentMoniker": "InterfaceExercicio\\SalvarXml.cs",
+              "ToolTip": "C:\\dev\\CSharpzada\\POO\\InterfaceExercicio\\SalvarXml.cs",
+              "RelativeToolTip": "InterfaceExercicio\\SalvarXml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T19:22:12.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ArquivoBase.cs",
+              "DocumentMoniker": "C:\\dev\\CSharpzada\\POO\\InterfaceExercicio\\ArquivoBase.cs",
+              "RelativeDocumentMoniker": "InterfaceExercicio\\ArquivoBase.cs",
+              "ToolTip": "C:\\dev\\CSharpzada\\POO\\InterfaceExercicio\\ArquivoBase.cs",
+              "RelativeToolTip": "InterfaceExercicio\\ArquivoBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T19:17:16.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ISalvar.cs",
+              "DocumentMoniker": "C:\\dev\\CSharpzada\\POO\\InterfaceExercicio\\ISalvar.cs",
+              "RelativeDocumentMoniker": "InterfaceExercicio\\ISalvar.cs",
+              "ToolTip": "C:\\dev\\CSharpzada\\POO\\InterfaceExercicio\\ISalvar.cs*",
+              "RelativeToolTip": "InterfaceExercicio\\ISalvar.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T19:16:01.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\dev\\CSharpzada\\POO\\InterfaceExercicio\\Program.cs",
+              "RelativeDocumentMoniker": "InterfaceExercicio\\Program.cs",
+              "ToolTip": "C:\\dev\\CSharpzada\\POO\\InterfaceExercicio\\Program.cs*",
+              "RelativeToolTip": "InterfaceExercicio\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T18:35:26.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\dev\\CSharpzada\\POO\\Interfaces\\Program.cs",
               "RelativeDocumentMoniker": "Interfaces\\Program.cs",
               "ToolTip": "C:\\dev\\CSharpzada\\POO\\Interfaces\\Program.cs",
               "RelativeToolTip": "Interfaces\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAALAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-12T18:23:41.048Z",
               "EditorCaption": ""

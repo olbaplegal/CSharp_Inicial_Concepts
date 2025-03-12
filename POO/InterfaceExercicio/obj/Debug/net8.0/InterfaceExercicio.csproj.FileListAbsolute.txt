@@ -1,0 +1,15 @@
+C:\dev\CSharpzada\POO\InterfaceExercicio\bin\Debug\net8.0\InterfaceExercicio.exe
+C:\dev\CSharpzada\POO\InterfaceExercicio\bin\Debug\net8.0\InterfaceExercicio.deps.json
+C:\dev\CSharpzada\POO\InterfaceExercicio\bin\Debug\net8.0\InterfaceExercicio.runtimeconfig.json
+C:\dev\CSharpzada\POO\InterfaceExercicio\bin\Debug\net8.0\InterfaceExercicio.dll
+C:\dev\CSharpzada\POO\InterfaceExercicio\bin\Debug\net8.0\InterfaceExercicio.pdb
+C:\dev\CSharpzada\POO\InterfaceExercicio\obj\Debug\net8.0\InterfaceExercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\CSharpzada\POO\InterfaceExercicio\obj\Debug\net8.0\InterfaceExercicio.AssemblyInfoInputs.cache
+C:\dev\CSharpzada\POO\InterfaceExercicio\obj\Debug\net8.0\InterfaceExercicio.AssemblyInfo.cs
+C:\dev\CSharpzada\POO\InterfaceExercicio\obj\Debug\net8.0\InterfaceExercicio.csproj.CoreCompileInputs.cache
+C:\dev\CSharpzada\POO\InterfaceExercicio\obj\Debug\net8.0\InterfaceExercicio.sourcelink.json
+C:\dev\CSharpzada\POO\InterfaceExercicio\obj\Debug\net8.0\InterfaceExercicio.dll
+C:\dev\CSharpzada\POO\InterfaceExercicio\obj\Debug\net8.0\refint\InterfaceExercicio.dll
+C:\dev\CSharpzada\POO\InterfaceExercicio\obj\Debug\net8.0\InterfaceExercicio.pdb
+C:\dev\CSharpzada\POO\InterfaceExercicio\obj\Debug\net8.0\InterfaceExercicio.genruntimeconfig.cache
+C:\dev\CSharpzada\POO\InterfaceExercicio\obj\Debug\net8.0\ref\InterfaceExercicio.dll
