@@ -13,4 +13,7 @@ c.PintarCirculo();
 Console.WriteLine(c == f);
 Console.WriteLine(c == circulo);
 
+
+
+
 Console.ReadKey();
