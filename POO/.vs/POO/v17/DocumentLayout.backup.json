@@ -3,28 +3,8 @@
   "WorkspaceRootPath": "C:\\dev\\CSharpzada\\POO\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BC447C72-B889-4224-9F0C-B92138BC04A7}|HerancaAbstract\\HerancaAbstract.csproj|c:\\dev\\csharpzada\\poo\\herancaabstract\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC447C72-B889-4224-9F0C-B92138BC04A7}|HerancaAbstract\\HerancaAbstract.csproj|solutionrelative:herancaabstract\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC447C72-B889-4224-9F0C-B92138BC04A7}|HerancaAbstract\\HerancaAbstract.csproj|c:\\dev\\csharpzada\\poo\\herancaabstract\\quadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC447C72-B889-4224-9F0C-B92138BC04A7}|HerancaAbstract\\HerancaAbstract.csproj|solutionrelative:herancaabstract\\quadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC447C72-B889-4224-9F0C-B92138BC04A7}|HerancaAbstract\\HerancaAbstract.csproj|c:\\dev\\csharpzada\\poo\\herancaabstract\\forma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC447C72-B889-4224-9F0C-B92138BC04A7}|HerancaAbstract\\HerancaAbstract.csproj|solutionrelative:herancaabstract\\forma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5D841C5-CFEE-4189-8CA5-886A3EFA6597}|HerancaUpcastingDowncasting\\HerancaUpcastingDowncasting.csproj|c:\\dev\\csharpzada\\poo\\herancaupcastingdowncasting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5D841C5-CFEE-4189-8CA5-886A3EFA6597}|HerancaUpcastingDowncasting\\HerancaUpcastingDowncasting.csproj|solutionrelative:herancaupcastingdowncasting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E1D0B152-EA28-46A8-A9FA-6A6C08D9AFC9}|HeracaIsAs\\HeracaIsAs.csproj|c:\\dev\\csharpzada\\poo\\heracaisas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1D0B152-EA28-46A8-A9FA-6A6C08D9AFC9}|HeracaIsAs\\HeracaIsAs.csproj|solutionrelative:heracaisas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5D841C5-CFEE-4189-8CA5-886A3EFA6597}|HerancaUpcastingDowncasting\\HerancaUpcastingDowncasting.csproj|c:\\dev\\csharpzada\\poo\\herancaupcastingdowncasting\\circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5D841C5-CFEE-4189-8CA5-886A3EFA6597}|HerancaUpcastingDowncasting\\HerancaUpcastingDowncasting.csproj|solutionrelative:herancaupcastingdowncasting\\circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A53F2B5F-070C-4EB0-B894-1267F8B65DFF}|Interfaces\\Interfaces.csproj|c:\\dev\\csharpzada\\poo\\interfaces\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53F2B5F-070C-4EB0-B894-1267F8B65DFF}|Interfaces\\Interfaces.csproj|solutionrelative:interfaces\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 1471,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,80 +22,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Quadrado.cs",
-              "DocumentMoniker": "C:\\dev\\CSharpzada\\POO\\HerancaAbstract\\Quadrado.cs",
-              "RelativeDocumentMoniker": "HerancaAbstract\\Quadrado.cs",
-              "ToolTip": "C:\\dev\\CSharpzada\\POO\\HerancaAbstract\\Quadrado.cs",
-              "RelativeToolTip": "HerancaAbstract\\Quadrado.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T18:01:21.986Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Forma.cs",
-              "DocumentMoniker": "C:\\dev\\CSharpzada\\POO\\HerancaAbstract\\Forma.cs",
-              "RelativeDocumentMoniker": "HerancaAbstract\\Forma.cs",
-              "ToolTip": "C:\\dev\\CSharpzada\\POO\\HerancaAbstract\\Forma.cs",
-              "RelativeToolTip": "HerancaAbstract\\Forma.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T18:00:06.592Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\dev\\CSharpzada\\POO\\HerancaAbstract\\Program.cs",
-              "RelativeDocumentMoniker": "HerancaAbstract\\Program.cs",
-              "ToolTip": "C:\\dev\\CSharpzada\\POO\\HerancaAbstract\\Program.cs",
-              "RelativeToolTip": "HerancaAbstract\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAASAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\dev\\CSharpzada\\POO\\Interfaces\\Program.cs",
+              "RelativeDocumentMoniker": "Interfaces\\Program.cs",
+              "ToolTip": "C:\\dev\\CSharpzada\\POO\\Interfaces\\Program.cs*",
+              "RelativeToolTip": "Interfaces\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T17:53:48.569Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\dev\\CSharpzada\\POO\\HeracaIsAs\\Program.cs",
-              "RelativeDocumentMoniker": "HeracaIsAs\\Program.cs",
-              "ToolTip": "C:\\dev\\CSharpzada\\POO\\HeracaIsAs\\Program.cs",
-              "RelativeToolTip": "HeracaIsAs\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T17:39:18.425Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\dev\\CSharpzada\\POO\\HerancaUpcastingDowncasting\\Program.cs",
-              "RelativeDocumentMoniker": "HerancaUpcastingDowncasting\\Program.cs",
-              "ToolTip": "C:\\dev\\CSharpzada\\POO\\HerancaUpcastingDowncasting\\Program.cs",
-              "RelativeToolTip": "HerancaUpcastingDowncasting\\Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T14:33:12.62Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Circulo.cs",
-              "DocumentMoniker": "C:\\dev\\CSharpzada\\POO\\HerancaUpcastingDowncasting\\Circulo.cs",
-              "RelativeDocumentMoniker": "HerancaUpcastingDowncasting\\Circulo.cs",
-              "ToolTip": "C:\\dev\\CSharpzada\\POO\\HerancaUpcastingDowncasting\\Circulo.cs",
-              "RelativeToolTip": "HerancaUpcastingDowncasting\\Circulo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T14:29:54.677Z",
+              "WhenOpened": "2025-03-12T18:23:41.048Z",
               "EditorCaption": ""
             }
           ]
