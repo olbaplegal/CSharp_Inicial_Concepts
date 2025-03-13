@@ -1,0 +1,15 @@
+C:\dev\CSharpzada\POO\Polimorfismo Overloading\bin\Debug\net8.0\Polimorfismo Overloading.exe
+C:\dev\CSharpzada\POO\Polimorfismo Overloading\bin\Debug\net8.0\Polimorfismo Overloading.deps.json
+C:\dev\CSharpzada\POO\Polimorfismo Overloading\bin\Debug\net8.0\Polimorfismo Overloading.runtimeconfig.json
+C:\dev\CSharpzada\POO\Polimorfismo Overloading\bin\Debug\net8.0\Polimorfismo Overloading.dll
+C:\dev\CSharpzada\POO\Polimorfismo Overloading\bin\Debug\net8.0\Polimorfismo Overloading.pdb
+C:\dev\CSharpzada\POO\Polimorfismo Overloading\obj\Debug\net8.0\Polimorfismo Overloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\CSharpzada\POO\Polimorfismo Overloading\obj\Debug\net8.0\Polimorfismo Overloading.AssemblyInfoInputs.cache
+C:\dev\CSharpzada\POO\Polimorfismo Overloading\obj\Debug\net8.0\Polimorfismo Overloading.AssemblyInfo.cs
+C:\dev\CSharpzada\POO\Polimorfismo Overloading\obj\Debug\net8.0\Polimorfismo Overloading.csproj.CoreCompileInputs.cache
+C:\dev\CSharpzada\POO\Polimorfismo Overloading\obj\Debug\net8.0\Polimorfismo Overloading.sourcelink.json
+C:\dev\CSharpzada\POO\Polimorfismo Overloading\obj\Debug\net8.0\Polimorfismo Overloading.dll
+C:\dev\CSharpzada\POO\Polimorfismo Overloading\obj\Debug\net8.0\refint\Polimorfismo Overloading.dll
+C:\dev\CSharpzada\POO\Polimorfismo Overloading\obj\Debug\net8.0\Polimorfismo Overloading.pdb
+C:\dev\CSharpzada\POO\Polimorfismo Overloading\obj\Debug\net8.0\Polimorfismo Overloading.genruntimeconfig.cache
+C:\dev\CSharpzada\POO\Polimorfismo Overloading\obj\Debug\net8.0\ref\Polimorfismo Overloading.dll

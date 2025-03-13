@@ -1,0 +1,15 @@
+C:\dev\CSharpzada\POO\Polimorfismo\bin\Debug\net8.0\PolimorfismoDinamico.exe
+C:\dev\CSharpzada\POO\Polimorfismo\bin\Debug\net8.0\PolimorfismoDinamico.deps.json
+C:\dev\CSharpzada\POO\Polimorfismo\bin\Debug\net8.0\PolimorfismoDinamico.runtimeconfig.json
+C:\dev\CSharpzada\POO\Polimorfismo\bin\Debug\net8.0\PolimorfismoDinamico.dll
+C:\dev\CSharpzada\POO\Polimorfismo\bin\Debug\net8.0\PolimorfismoDinamico.pdb
+C:\dev\CSharpzada\POO\Polimorfismo\obj\Debug\net8.0\PolimorfismoDinamico.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\CSharpzada\POO\Polimorfismo\obj\Debug\net8.0\PolimorfismoDinamico.AssemblyInfoInputs.cache
+C:\dev\CSharpzada\POO\Polimorfismo\obj\Debug\net8.0\PolimorfismoDinamico.AssemblyInfo.cs
+C:\dev\CSharpzada\POO\Polimorfismo\obj\Debug\net8.0\PolimorfismoDinamico.csproj.CoreCompileInputs.cache
+C:\dev\CSharpzada\POO\Polimorfismo\obj\Debug\net8.0\PolimorfismoDinamico.sourcelink.json
+C:\dev\CSharpzada\POO\Polimorfismo\obj\Debug\net8.0\PolimorfismoDinamico.dll
+C:\dev\CSharpzada\POO\Polimorfismo\obj\Debug\net8.0\refint\PolimorfismoDinamico.dll
+C:\dev\CSharpzada\POO\Polimorfismo\obj\Debug\net8.0\PolimorfismoDinamico.pdb
+C:\dev\CSharpzada\POO\Polimorfismo\obj\Debug\net8.0\PolimorfismoDinamico.genruntimeconfig.cache
+C:\dev\CSharpzada\POO\Polimorfismo\obj\Debug\net8.0\ref\PolimorfismoDinamico.dll

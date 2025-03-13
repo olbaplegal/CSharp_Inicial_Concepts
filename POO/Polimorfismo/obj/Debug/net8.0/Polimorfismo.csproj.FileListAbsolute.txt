@@ -1,0 +1,15 @@
+C:\dev\CSharpzada\POO\Polimorfismo\bin\Debug\net8.0\Polimorfismo.exe
+C:\dev\CSharpzada\POO\Polimorfismo\bin\Debug\net8.0\Polimorfismo.deps.json
+C:\dev\CSharpzada\POO\Polimorfismo\bin\Debug\net8.0\Polimorfismo.runtimeconfig.json
+C:\dev\CSharpzada\POO\Polimorfismo\bin\Debug\net8.0\Polimorfismo.dll
+C:\dev\CSharpzada\POO\Polimorfismo\bin\Debug\net8.0\Polimorfismo.pdb
+C:\dev\CSharpzada\POO\Polimorfismo\obj\Debug\net8.0\Polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\CSharpzada\POO\Polimorfismo\obj\Debug\net8.0\Polimorfismo.AssemblyInfoInputs.cache
+C:\dev\CSharpzada\POO\Polimorfismo\obj\Debug\net8.0\Polimorfismo.AssemblyInfo.cs
+C:\dev\CSharpzada\POO\Polimorfismo\obj\Debug\net8.0\Polimorfismo.csproj.CoreCompileInputs.cache
+C:\dev\CSharpzada\POO\Polimorfismo\obj\Debug\net8.0\Polimorfismo.sourcelink.json
+C:\dev\CSharpzada\POO\Polimorfismo\obj\Debug\net8.0\Polimorfismo.dll
+C:\dev\CSharpzada\POO\Polimorfismo\obj\Debug\net8.0\refint\Polimorfismo.dll
+C:\dev\CSharpzada\POO\Polimorfismo\obj\Debug\net8.0\Polimorfismo.pdb
+C:\dev\CSharpzada\POO\Polimorfismo\obj\Debug\net8.0\Polimorfismo.genruntimeconfig.cache
+C:\dev\CSharpzada\POO\Polimorfismo\obj\Debug\net8.0\ref\Polimorfismo.dll
