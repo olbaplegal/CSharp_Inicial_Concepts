@@ -41,6 +41,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PolimorfismoOverriding", "P
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polimorfismo Overloading", "Polimorfismo Overloading\Polimorfismo Overloading.csproj", "{49BB1058-7D2D-4904-96B7-B17F1686A653}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PooExercicio1", "PooExercicio1\PooExercicio1.csproj", "{F4BF633F-27C1-44C8-A0C1-1C922C5DAA42}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +125,10 @@ Global
 		{49BB1058-7D2D-4904-96B7-B17F1686A653}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{49BB1058-7D2D-4904-96B7-B17F1686A653}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{49BB1058-7D2D-4904-96B7-B17F1686A653}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4BF633F-27C1-44C8-A0C1-1C922C5DAA42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4BF633F-27C1-44C8-A0C1-1C922C5DAA42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4BF633F-27C1-44C8-A0C1-1C922C5DAA42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4BF633F-27C1-44C8-A0C1-1C922C5DAA42}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

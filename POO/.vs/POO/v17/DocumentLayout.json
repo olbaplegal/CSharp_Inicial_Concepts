@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\dev\\CSharpzada\\POO\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{49BB1058-7D2D-4904-96B7-B17F1686A653}|Polimorfismo Overloading\\Polimorfismo Overloading.csproj|c:\\dev\\csharpzada\\poo\\polimorfismo overloading\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{49BB1058-7D2D-4904-96B7-B17F1686A653}|Polimorfismo Overloading\\Polimorfismo Overloading.csproj|solutionrelative:polimorfismo overloading\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F4BF633F-27C1-44C8-A0C1-1C922C5DAA42}|PooExercicio1\\PooExercicio1.csproj|c:\\dev\\csharpzada\\poo\\pooexercicio1\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4BF633F-27C1-44C8-A0C1-1C922C5DAA42}|PooExercicio1\\PooExercicio1.csproj|solutionrelative:pooexercicio1\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4BF633F-27C1-44C8-A0C1-1C922C5DAA42}|PooExercicio1\\PooExercicio1.csproj|c:\\dev\\csharpzada\\poo\\pooexercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4BF633F-27C1-44C8-A0C1-1C922C5DAA42}|PooExercicio1\\PooExercicio1.csproj|solutionrelative:pooexercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4BF633F-27C1-44C8-A0C1-1C922C5DAA42}|PooExercicio1\\PooExercicio1.csproj|c:\\dev\\csharpzada\\poo\\pooexercicio1\\iveiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4BF633F-27C1-44C8-A0C1-1C922C5DAA42}|PooExercicio1\\PooExercicio1.csproj|solutionrelative:pooexercicio1\\iveiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,14 +31,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\dev\\CSharpzada\\POO\\Polimorfismo Overloading\\Program.cs",
-              "RelativeDocumentMoniker": "Polimorfismo Overloading\\Program.cs",
-              "ToolTip": "C:\\dev\\CSharpzada\\POO\\Polimorfismo Overloading\\Program.cs",
-              "RelativeToolTip": "Polimorfismo Overloading\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Title": "Carro.cs",
+              "DocumentMoniker": "C:\\dev\\CSharpzada\\POO\\PooExercicio1\\Carro.cs",
+              "RelativeDocumentMoniker": "PooExercicio1\\Carro.cs",
+              "ToolTip": "C:\\dev\\CSharpzada\\POO\\PooExercicio1\\Carro.cs*",
+              "RelativeToolTip": "PooExercicio1\\Carro.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T16:35:39.374Z",
+              "WhenOpened": "2025-03-13T17:25:42.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IVeiculo.cs",
+              "DocumentMoniker": "C:\\dev\\CSharpzada\\POO\\PooExercicio1\\IVeiculo.cs",
+              "RelativeDocumentMoniker": "PooExercicio1\\IVeiculo.cs",
+              "ToolTip": "C:\\dev\\CSharpzada\\POO\\PooExercicio1\\IVeiculo.cs",
+              "RelativeToolTip": "PooExercicio1\\IVeiculo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T17:18:55.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\dev\\CSharpzada\\POO\\PooExercicio1\\Program.cs",
+              "RelativeDocumentMoniker": "PooExercicio1\\Program.cs",
+              "ToolTip": "C:\\dev\\CSharpzada\\POO\\PooExercicio1\\Program.cs",
+              "RelativeToolTip": "PooExercicio1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T17:18:24.728Z",
               "EditorCaption": ""
             }
           ]
