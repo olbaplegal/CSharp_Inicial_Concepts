@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Comment CommentText="composição acontece em muitos casos para reduzir o acoplamento">
+    <Position X="12.25" Y="5.25" Height="0.75" Width="1.7" />
+  </Comment>
+  <Comment CommentText="em alguns casos preferir usar a composição do que usar herança">
+    <Position X="13.25" Y="2.25" Height="0.75" Width="1.7" />
+  </Comment>
+  <Class Name="Acoplamento.Macaco">
+    <Position X="3.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>Macaco.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="_comportamentoAndar" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Acoplamento.Homem">
+    <Position X="5.75" Y="4" Width="1.5" />
+    <AssociationLine Name="_comportamentoAndar" Type="Acoplamento.ComportamentoAndar" ManuallyRouted="true">
+      <Path>
+        <Point X="5.75" Y="4.713" />
+        <Point X="5.5" Y="4.713" />
+        <Point X="5.5" Y="2.229" />
+        <Point X="3.812" Y="2.229" />
+        <Point X="3.812" Y="2.603" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>Homem.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="_comportamentoAndar" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Acoplamento.Animal">
+    <Position X="5.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAACAAAAA=</HashCode>
+      <FileName>Animal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Acoplamento.Sardinha">
+    <Position X="8.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAgAAAAAAAA=</HashCode>
+      <FileName>Sardinha.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="_comportamentoNadar" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Acoplamento.ComportamentoNadar">
+    <Position X="8.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ComportamentoNadar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Acoplamento.ComportamentoAndar">
+    <Position X="3.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ComportamentoAndar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

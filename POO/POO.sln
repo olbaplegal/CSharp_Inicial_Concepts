@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceExercicio", "Inter
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Agregação", "Agragação\Agregação.csproj", "{8F950943-594C-45A3-9E68-9CC23A172C12}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Acoplamento", "Acoplamento\Acoplamento.csproj", "{A28EF458-B1A2-4FAE-90D2-F73066160C2F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +107,10 @@ Global
 		{8F950943-594C-45A3-9E68-9CC23A172C12}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8F950943-594C-45A3-9E68-9CC23A172C12}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8F950943-594C-45A3-9E68-9CC23A172C12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A28EF458-B1A2-4FAE-90D2-F73066160C2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A28EF458-B1A2-4FAE-90D2-F73066160C2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A28EF458-B1A2-4FAE-90D2-F73066160C2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A28EF458-B1A2-4FAE-90D2-F73066160C2F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

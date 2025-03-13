@@ -3,16 +3,36 @@
   "WorkspaceRootPath": "C:\\dev\\CSharpzada\\POO\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8F950943-594C-45A3-9E68-9CC23A172C12}|Agraga\u00E7\u00E3o\\Agraga\u00E7\u00E3o.csproj|c:\\dev\\csharpzada\\poo\\agraga\u00E7\u00E3o\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F950943-594C-45A3-9E68-9CC23A172C12}|Agraga\u00E7\u00E3o\\Agraga\u00E7\u00E3o.csproj|solutionrelative:agraga\u00E7\u00E3o\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A28EF458-B1A2-4FAE-90D2-F73066160C2F}|Acoplamento\\Acoplamento.csproj|c:\\dev\\csharpzada\\poo\\acoplamento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A28EF458-B1A2-4FAE-90D2-F73066160C2F}|Acoplamento\\Acoplamento.csproj|solutionrelative:acoplamento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F950943-594C-45A3-9E68-9CC23A172C12}|Agraga\u00E7\u00E3o\\Agraga\u00E7\u00E3o.csproj|c:\\dev\\csharpzada\\poo\\agraga\u00E7\u00E3o\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F950943-594C-45A3-9E68-9CC23A172C12}|Agraga\u00E7\u00E3o\\Agraga\u00E7\u00E3o.csproj|solutionrelative:agraga\u00E7\u00E3o\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A28EF458-B1A2-4FAE-90D2-F73066160C2F}|Acoplamento\\Acoplamento.csproj|c:\\dev\\csharpzada\\poo\\acoplamento\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A28EF458-B1A2-4FAE-90D2-F73066160C2F}|Acoplamento\\Acoplamento.csproj|solutionrelative:acoplamento\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F950943-594C-45A3-9E68-9CC23A172C12}|Agraga\u00E7\u00E3o\\Agraga\u00E7\u00E3o.csproj|c:\\dev\\csharpzada\\poo\\agraga\u00E7\u00E3o\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F950943-594C-45A3-9E68-9CC23A172C12}|Agraga\u00E7\u00E3o\\Agraga\u00E7\u00E3o.csproj|solutionrelative:agraga\u00E7\u00E3o\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A28EF458-B1A2-4FAE-90D2-F73066160C2F}|Acoplamento\\Acoplamento.csproj|c:\\dev\\csharpzada\\poo\\acoplamento\\homem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A28EF458-B1A2-4FAE-90D2-F73066160C2F}|Acoplamento\\Acoplamento.csproj|solutionrelative:acoplamento\\homem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A28EF458-B1A2-4FAE-90D2-F73066160C2F}|Acoplamento\\Acoplamento.csproj|c:\\dev\\csharpzada\\poo\\acoplamento\\sardinha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A28EF458-B1A2-4FAE-90D2-F73066160C2F}|Acoplamento\\Acoplamento.csproj|solutionrelative:acoplamento\\sardinha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A28EF458-B1A2-4FAE-90D2-F73066160C2F}|Acoplamento\\Acoplamento.csproj|c:\\dev\\csharpzada\\poo\\acoplamento\\macaco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A28EF458-B1A2-4FAE-90D2-F73066160C2F}|Acoplamento\\Acoplamento.csproj|solutionrelative:acoplamento\\macaco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A28EF458-B1A2-4FAE-90D2-F73066160C2F}|Acoplamento\\Acoplamento.csproj|c:\\dev\\csharpzada\\poo\\acoplamento\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{A28EF458-B1A2-4FAE-90D2-F73066160C2F}|Acoplamento\\Acoplamento.csproj|solutionrelative:acoplamento\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A28EF458-B1A2-4FAE-90D2-F73066160C2F}|Acoplamento\\Acoplamento.csproj|c:\\dev\\csharpzada\\poo\\acoplamento\\comportamentoandar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A28EF458-B1A2-4FAE-90D2-F73066160C2F}|Acoplamento\\Acoplamento.csproj|solutionrelative:acoplamento\\comportamentoandar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A28EF458-B1A2-4FAE-90D2-F73066160C2F}|Acoplamento\\Acoplamento.csproj|c:\\dev\\csharpzada\\poo\\acoplamento\\comportamentonadar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A28EF458-B1A2-4FAE-90D2-F73066160C2F}|Acoplamento\\Acoplamento.csproj|solutionrelative:acoplamento\\comportamentonadar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 1471,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,41 +50,105 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Departamento.cs",
-              "DocumentMoniker": "C:\\dev\\CSharpzada\\POO\\Agraga\u00E7\u00E3o\\Departamento.cs",
-              "RelativeDocumentMoniker": "Agraga\u00E7\u00E3o\\Departamento.cs",
-              "ToolTip": "C:\\dev\\CSharpzada\\POO\\Agraga\u00E7\u00E3o\\Departamento.cs",
-              "RelativeToolTip": "Agraga\u00E7\u00E3o\\Departamento.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAOAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "ComportamentoNadar.cs",
+              "DocumentMoniker": "C:\\dev\\CSharpzada\\POO\\Acoplamento\\ComportamentoNadar.cs",
+              "RelativeDocumentMoniker": "Acoplamento\\ComportamentoNadar.cs",
+              "ToolTip": "C:\\dev\\CSharpzada\\POO\\Acoplamento\\ComportamentoNadar.cs*",
+              "RelativeToolTip": "Acoplamento\\ComportamentoNadar.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T13:19:14.435Z",
+              "WhenOpened": "2025-03-13T14:48:31.345Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Professor.cs",
-              "DocumentMoniker": "C:\\dev\\CSharpzada\\POO\\Agraga\u00E7\u00E3o\\Professor.cs",
-              "RelativeDocumentMoniker": "Agraga\u00E7\u00E3o\\Professor.cs",
-              "ToolTip": "C:\\dev\\CSharpzada\\POO\\Agraga\u00E7\u00E3o\\Professor.cs",
-              "RelativeToolTip": "Agraga\u00E7\u00E3o\\Professor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAOAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "ComportamentoAndar.cs",
+              "DocumentMoniker": "C:\\dev\\CSharpzada\\POO\\Acoplamento\\ComportamentoAndar.cs",
+              "RelativeDocumentMoniker": "Acoplamento\\ComportamentoAndar.cs",
+              "ToolTip": "C:\\dev\\CSharpzada\\POO\\Acoplamento\\ComportamentoAndar.cs*",
+              "RelativeToolTip": "Acoplamento\\ComportamentoAndar.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T13:14:44.705Z",
+              "WhenOpened": "2025-03-13T14:25:18.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "C:\\dev\\CSharpzada\\POO\\Acoplamento\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "Acoplamento\\ClassDiagram1.cd",
+              "ToolTip": "C:\\dev\\CSharpzada\\POO\\Acoplamento\\ClassDiagram1.cd*",
+              "RelativeToolTip": "Acoplamento\\ClassDiagram1.cd*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2025-03-13T14:22:54.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Macaco.cs",
+              "DocumentMoniker": "C:\\dev\\CSharpzada\\POO\\Acoplamento\\Macaco.cs",
+              "RelativeDocumentMoniker": "Acoplamento\\Macaco.cs",
+              "ToolTip": "C:\\dev\\CSharpzada\\POO\\Acoplamento\\Macaco.cs",
+              "RelativeToolTip": "Acoplamento\\Macaco.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T14:22:10.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Sardinha.cs",
+              "DocumentMoniker": "C:\\dev\\CSharpzada\\POO\\Acoplamento\\Sardinha.cs",
+              "RelativeDocumentMoniker": "Acoplamento\\Sardinha.cs",
+              "ToolTip": "C:\\dev\\CSharpzada\\POO\\Acoplamento\\Sardinha.cs*",
+              "RelativeToolTip": "Acoplamento\\Sardinha.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAB2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T14:22:31.122Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\dev\\CSharpzada\\POO\\Agraga\u00E7\u00E3o\\Program.cs",
-              "RelativeDocumentMoniker": "Agraga\u00E7\u00E3o\\Program.cs",
-              "ToolTip": "C:\\dev\\CSharpzada\\POO\\Agraga\u00E7\u00E3o\\Program.cs",
-              "RelativeToolTip": "Agraga\u00E7\u00E3o\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Title": "Homem.cs",
+              "DocumentMoniker": "C:\\dev\\CSharpzada\\POO\\Acoplamento\\Homem.cs",
+              "RelativeDocumentMoniker": "Acoplamento\\Homem.cs",
+              "ToolTip": "C:\\dev\\CSharpzada\\POO\\Acoplamento\\Homem.cs",
+              "RelativeToolTip": "Acoplamento\\Homem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T13:14:19.721Z",
+              "WhenOpened": "2025-03-13T14:22:23.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\dev\\CSharpzada\\POO\\Acoplamento\\Animal.cs",
+              "RelativeDocumentMoniker": "Acoplamento\\Animal.cs",
+              "ToolTip": "C:\\dev\\CSharpzada\\POO\\Acoplamento\\Animal.cs*",
+              "RelativeToolTip": "Acoplamento\\Animal.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T14:21:59.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\dev\\CSharpzada\\POO\\Acoplamento\\Program.cs",
+              "RelativeDocumentMoniker": "Acoplamento\\Program.cs",
+              "ToolTip": "C:\\dev\\CSharpzada\\POO\\Acoplamento\\Program.cs*",
+              "RelativeToolTip": "Acoplamento\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T14:21:46.361Z",
               "EditorCaption": ""
             }
           ]

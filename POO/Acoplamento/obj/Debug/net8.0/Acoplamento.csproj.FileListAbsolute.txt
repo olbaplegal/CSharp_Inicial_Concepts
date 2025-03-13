@@ -1,0 +1,15 @@
+C:\dev\CSharpzada\POO\Acoplamento\bin\Debug\net8.0\Acoplamento.exe
+C:\dev\CSharpzada\POO\Acoplamento\bin\Debug\net8.0\Acoplamento.deps.json
+C:\dev\CSharpzada\POO\Acoplamento\bin\Debug\net8.0\Acoplamento.runtimeconfig.json
+C:\dev\CSharpzada\POO\Acoplamento\bin\Debug\net8.0\Acoplamento.dll
+C:\dev\CSharpzada\POO\Acoplamento\bin\Debug\net8.0\Acoplamento.pdb
+C:\dev\CSharpzada\POO\Acoplamento\obj\Debug\net8.0\Acoplamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\CSharpzada\POO\Acoplamento\obj\Debug\net8.0\Acoplamento.AssemblyInfoInputs.cache
+C:\dev\CSharpzada\POO\Acoplamento\obj\Debug\net8.0\Acoplamento.AssemblyInfo.cs
+C:\dev\CSharpzada\POO\Acoplamento\obj\Debug\net8.0\Acoplamento.csproj.CoreCompileInputs.cache
+C:\dev\CSharpzada\POO\Acoplamento\obj\Debug\net8.0\Acoplamento.sourcelink.json
+C:\dev\CSharpzada\POO\Acoplamento\obj\Debug\net8.0\Acoplamento.dll
+C:\dev\CSharpzada\POO\Acoplamento\obj\Debug\net8.0\refint\Acoplamento.dll
+C:\dev\CSharpzada\POO\Acoplamento\obj\Debug\net8.0\Acoplamento.pdb
+C:\dev\CSharpzada\POO\Acoplamento\obj\Debug\net8.0\Acoplamento.genruntimeconfig.cache
+C:\dev\CSharpzada\POO\Acoplamento\obj\Debug\net8.0\ref\Acoplamento.dll
