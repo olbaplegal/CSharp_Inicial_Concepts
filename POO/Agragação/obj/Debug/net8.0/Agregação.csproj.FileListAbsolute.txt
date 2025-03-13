@@ -1,0 +1,15 @@
+C:\dev\CSharpzada\POO\Agragação\bin\Debug\net8.0\Agregação.exe
+C:\dev\CSharpzada\POO\Agragação\bin\Debug\net8.0\Agregação.deps.json
+C:\dev\CSharpzada\POO\Agragação\bin\Debug\net8.0\Agregação.runtimeconfig.json
+C:\dev\CSharpzada\POO\Agragação\bin\Debug\net8.0\Agregação.dll
+C:\dev\CSharpzada\POO\Agragação\bin\Debug\net8.0\Agregação.pdb
+C:\dev\CSharpzada\POO\Agragação\obj\Debug\net8.0\Agregação.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\CSharpzada\POO\Agragação\obj\Debug\net8.0\Agregação.AssemblyInfoInputs.cache
+C:\dev\CSharpzada\POO\Agragação\obj\Debug\net8.0\Agregação.AssemblyInfo.cs
+C:\dev\CSharpzada\POO\Agragação\obj\Debug\net8.0\Agregação.csproj.CoreCompileInputs.cache
+C:\dev\CSharpzada\POO\Agragação\obj\Debug\net8.0\Agregação.sourcelink.json
+C:\dev\CSharpzada\POO\Agragação\obj\Debug\net8.0\Agregação.dll
+C:\dev\CSharpzada\POO\Agragação\obj\Debug\net8.0\refint\Agregação.dll
+C:\dev\CSharpzada\POO\Agragação\obj\Debug\net8.0\Agregação.pdb
+C:\dev\CSharpzada\POO\Agragação\obj\Debug\net8.0\Agregação.genruntimeconfig.cache
+C:\dev\CSharpzada\POO\Agragação\obj\Debug\net8.0\ref\Agregação.dll
