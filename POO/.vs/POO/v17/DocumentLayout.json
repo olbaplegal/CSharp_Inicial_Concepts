@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\dev\\CSharpzada\\POO\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F4BF633F-27C1-44C8-A0C1-1C922C5DAA42}|PooExercicio1\\PooExercicio1.csproj|c:\\dev\\csharpzada\\poo\\pooexercicio1\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F4BF633F-27C1-44C8-A0C1-1C922C5DAA42}|PooExercicio1\\PooExercicio1.csproj|solutionrelative:pooexercicio1\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{55CFBBEE-93D3-4E31-ADAD-698A1081501C}|PooExercicio2\\PooExercicio2.csproj|c:\\dev\\csharpzada\\poo\\pooexercicio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55CFBBEE-93D3-4E31-ADAD-698A1081501C}|PooExercicio2\\PooExercicio2.csproj|solutionrelative:pooexercicio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F4BF633F-27C1-44C8-A0C1-1C922C5DAA42}|PooExercicio1\\PooExercicio1.csproj|c:\\dev\\csharpzada\\poo\\pooexercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F4BF633F-27C1-44C8-A0C1-1C922C5DAA42}|PooExercicio1\\PooExercicio1.csproj|solutionrelative:pooexercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{55CFBBEE-93D3-4E31-ADAD-698A1081501C}|PooExercicio2\\PooExercicio2.csproj|c:\\dev\\csharpzada\\poo\\pooexercicio2\\livrofotos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55CFBBEE-93D3-4E31-ADAD-698A1081501C}|PooExercicio2\\PooExercicio2.csproj|solutionrelative:pooexercicio2\\livrofotos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F4BF633F-27C1-44C8-A0C1-1C922C5DAA42}|PooExercicio1\\PooExercicio1.csproj|c:\\dev\\csharpzada\\poo\\pooexercicio1\\iveiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F4BF633F-27C1-44C8-A0C1-1C922C5DAA42}|PooExercicio1\\PooExercicio1.csproj|solutionrelative:pooexercicio1\\iveiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{55CFBBEE-93D3-4E31-ADAD-698A1081501C}|PooExercicio2\\PooExercicio2.csproj|c:\\dev\\csharpzada\\poo\\pooexercicio2\\superlivrofotos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55CFBBEE-93D3-4E31-ADAD-698A1081501C}|PooExercicio2\\PooExercicio2.csproj|solutionrelative:pooexercicio2\\superlivrofotos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 1471,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,41 +30,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Carro.cs",
-              "DocumentMoniker": "C:\\dev\\CSharpzada\\POO\\PooExercicio1\\Carro.cs",
-              "RelativeDocumentMoniker": "PooExercicio1\\Carro.cs",
-              "ToolTip": "C:\\dev\\CSharpzada\\POO\\PooExercicio1\\Carro.cs*",
-              "RelativeToolTip": "PooExercicio1\\Carro.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T17:25:42.655Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "IVeiculo.cs",
-              "DocumentMoniker": "C:\\dev\\CSharpzada\\POO\\PooExercicio1\\IVeiculo.cs",
-              "RelativeDocumentMoniker": "PooExercicio1\\IVeiculo.cs",
-              "ToolTip": "C:\\dev\\CSharpzada\\POO\\PooExercicio1\\IVeiculo.cs",
-              "RelativeToolTip": "PooExercicio1\\IVeiculo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA3AAAAAAAAAA==",
+              "Title": "SuperLivroFotos.cs",
+              "DocumentMoniker": "C:\\dev\\CSharpzada\\POO\\PooExercicio2\\SuperLivroFotos.cs",
+              "RelativeDocumentMoniker": "PooExercicio2\\SuperLivroFotos.cs",
+              "ToolTip": "C:\\dev\\CSharpzada\\POO\\PooExercicio2\\SuperLivroFotos.cs",
+              "RelativeToolTip": "PooExercicio2\\SuperLivroFotos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T17:18:55.211Z",
+              "WhenOpened": "2025-03-14T20:53:15.936Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\dev\\CSharpzada\\POO\\PooExercicio1\\Program.cs",
-              "RelativeDocumentMoniker": "PooExercicio1\\Program.cs",
-              "ToolTip": "C:\\dev\\CSharpzada\\POO\\PooExercicio1\\Program.cs",
-              "RelativeToolTip": "PooExercicio1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Title": "LivroFotos.cs",
+              "DocumentMoniker": "C:\\dev\\CSharpzada\\POO\\PooExercicio2\\LivroFotos.cs",
+              "RelativeDocumentMoniker": "PooExercicio2\\LivroFotos.cs",
+              "ToolTip": "C:\\dev\\CSharpzada\\POO\\PooExercicio2\\LivroFotos.cs",
+              "RelativeToolTip": "PooExercicio2\\LivroFotos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T17:18:24.728Z",
+              "WhenOpened": "2025-03-14T20:47:10.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\dev\\CSharpzada\\POO\\PooExercicio2\\Program.cs",
+              "RelativeDocumentMoniker": "PooExercicio2\\Program.cs",
+              "ToolTip": "C:\\dev\\CSharpzada\\POO\\PooExercicio2\\Program.cs*",
+              "RelativeToolTip": "PooExercicio2\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T20:42:00.261Z",
               "EditorCaption": ""
             }
           ]

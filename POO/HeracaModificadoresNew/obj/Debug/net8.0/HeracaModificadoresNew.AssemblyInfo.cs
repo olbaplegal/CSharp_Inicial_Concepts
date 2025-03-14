@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HeracaModificadoresNew")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cb5367bddb6682453e3c74f7fa72d0b3a97305b1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bf2b8ba13e07964b906a7681d2ab5e8c5900d24c")]
 [assembly: System.Reflection.AssemblyProductAttribute("HeracaModificadoresNew")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HeracaModificadoresNew")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
