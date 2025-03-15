@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\dev\\CSharpzada\\POO\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{55CFBBEE-93D3-4E31-ADAD-698A1081501C}|PooExercicio2\\PooExercicio2.csproj|c:\\dev\\csharpzada\\poo\\pooexercicio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55CFBBEE-93D3-4E31-ADAD-698A1081501C}|PooExercicio2\\PooExercicio2.csproj|solutionrelative:pooexercicio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DB289565-0309-4601-8E1C-DB21DABB39EE}|PooExercicio3\\PooExercicio3.csproj|c:\\dev\\csharpzada\\poo\\pooexercicio3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB289565-0309-4601-8E1C-DB21DABB39EE}|PooExercicio3\\PooExercicio3.csproj|solutionrelative:pooexercicio3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55CFBBEE-93D3-4E31-ADAD-698A1081501C}|PooExercicio2\\PooExercicio2.csproj|c:\\dev\\csharpzada\\poo\\pooexercicio2\\livrofotos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55CFBBEE-93D3-4E31-ADAD-698A1081501C}|PooExercicio2\\PooExercicio2.csproj|solutionrelative:pooexercicio2\\livrofotos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DB289565-0309-4601-8E1C-DB21DABB39EE}|PooExercicio3\\PooExercicio3.csproj|c:\\dev\\csharpzada\\poo\\pooexercicio3\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB289565-0309-4601-8E1C-DB21DABB39EE}|PooExercicio3\\PooExercicio3.csproj|solutionrelative:pooexercicio3\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55CFBBEE-93D3-4E31-ADAD-698A1081501C}|PooExercicio2\\PooExercicio2.csproj|c:\\dev\\csharpzada\\poo\\pooexercicio2\\superlivrofotos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55CFBBEE-93D3-4E31-ADAD-698A1081501C}|PooExercicio2\\PooExercicio2.csproj|solutionrelative:pooexercicio2\\superlivrofotos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DB289565-0309-4601-8E1C-DB21DABB39EE}|PooExercicio3\\PooExercicio3.csproj|c:\\dev\\csharpzada\\poo\\pooexercicio3\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB289565-0309-4601-8E1C-DB21DABB39EE}|PooExercicio3\\PooExercicio3.csproj|solutionrelative:pooexercicio3\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB289565-0309-4601-8E1C-DB21DABB39EE}|PooExercicio3\\PooExercicio3.csproj|c:\\dev\\csharpzada\\poo\\pooexercicio3\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB289565-0309-4601-8E1C-DB21DABB39EE}|PooExercicio3\\PooExercicio3.csproj|solutionrelative:pooexercicio3\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 1471,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,41 +34,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SuperLivroFotos.cs",
-              "DocumentMoniker": "C:\\dev\\CSharpzada\\POO\\PooExercicio2\\SuperLivroFotos.cs",
-              "RelativeDocumentMoniker": "PooExercicio2\\SuperLivroFotos.cs",
-              "ToolTip": "C:\\dev\\CSharpzada\\POO\\PooExercicio2\\SuperLivroFotos.cs",
-              "RelativeToolTip": "PooExercicio2\\SuperLivroFotos.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Professor.cs",
+              "DocumentMoniker": "C:\\dev\\CSharpzada\\POO\\PooExercicio3\\Professor.cs",
+              "RelativeDocumentMoniker": "PooExercicio3\\Professor.cs",
+              "ToolTip": "C:\\dev\\CSharpzada\\POO\\PooExercicio3\\Professor.cs*",
+              "RelativeToolTip": "PooExercicio3\\Professor.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T20:53:15.936Z",
+              "WhenOpened": "2025-03-15T05:05:41.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Aluno.cs",
+              "DocumentMoniker": "C:\\dev\\CSharpzada\\POO\\PooExercicio3\\Aluno.cs",
+              "RelativeDocumentMoniker": "PooExercicio3\\Aluno.cs",
+              "ToolTip": "C:\\dev\\CSharpzada\\POO\\PooExercicio3\\Aluno.cs*",
+              "RelativeToolTip": "PooExercicio3\\Aluno.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T21:18:25.856Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "LivroFotos.cs",
-              "DocumentMoniker": "C:\\dev\\CSharpzada\\POO\\PooExercicio2\\LivroFotos.cs",
-              "RelativeDocumentMoniker": "PooExercicio2\\LivroFotos.cs",
-              "ToolTip": "C:\\dev\\CSharpzada\\POO\\PooExercicio2\\LivroFotos.cs",
-              "RelativeToolTip": "PooExercicio2\\LivroFotos.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "C:\\dev\\CSharpzada\\POO\\PooExercicio3\\Pessoa.cs",
+              "RelativeDocumentMoniker": "PooExercicio3\\Pessoa.cs",
+              "ToolTip": "C:\\dev\\CSharpzada\\POO\\PooExercicio3\\Pessoa.cs",
+              "RelativeToolTip": "PooExercicio3\\Pessoa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T20:47:10.183Z",
+              "WhenOpened": "2025-03-14T21:16:09.115Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\dev\\CSharpzada\\POO\\PooExercicio2\\Program.cs",
-              "RelativeDocumentMoniker": "PooExercicio2\\Program.cs",
-              "ToolTip": "C:\\dev\\CSharpzada\\POO\\PooExercicio2\\Program.cs*",
-              "RelativeToolTip": "PooExercicio2\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAOAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\dev\\CSharpzada\\POO\\PooExercicio3\\Program.cs",
+              "RelativeDocumentMoniker": "PooExercicio3\\Program.cs",
+              "ToolTip": "C:\\dev\\CSharpzada\\POO\\PooExercicio3\\Program.cs*",
+              "RelativeToolTip": "PooExercicio3\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T20:42:00.261Z",
+              "WhenOpened": "2025-03-14T21:13:45.383Z",
               "EditorCaption": ""
             }
           ]
