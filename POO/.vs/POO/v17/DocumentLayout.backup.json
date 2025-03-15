@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\dev\\CSharpzada\\POO\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3635B426-1921-4AA6-9665-8A7604740875}|PooExercicio5\\PooExercicio5.csproj|c:\\dev\\csharpzada\\poo\\pooexercicio5\\sqlserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3635B426-1921-4AA6-9665-8A7604740875}|PooExercicio5\\PooExercicio5.csproj|solutionrelative:pooexercicio5\\sqlserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AA3B0BA7-BA05-4C77-8075-41953B463A38}|PooExercicio6\\PooExercicio6.csproj|c:\\dev\\csharpzada\\poo\\pooexercicio6\\a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA3B0BA7-BA05-4C77-8075-41953B463A38}|PooExercicio6\\PooExercicio6.csproj|solutionrelative:pooexercicio6\\a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3635B426-1921-4AA6-9665-8A7604740875}|PooExercicio5\\PooExercicio5.csproj|c:\\dev\\csharpzada\\poo\\pooexercicio5\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3635B426-1921-4AA6-9665-8A7604740875}|PooExercicio5\\PooExercicio5.csproj|solutionrelative:pooexercicio5\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AA3B0BA7-BA05-4C77-8075-41953B463A38}|PooExercicio6\\PooExercicio6.csproj|c:\\dev\\csharpzada\\poo\\pooexercicio6\\b.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA3B0BA7-BA05-4C77-8075-41953B463A38}|PooExercicio6\\PooExercicio6.csproj|solutionrelative:pooexercicio6\\b.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3635B426-1921-4AA6-9665-8A7604740875}|PooExercicio5\\PooExercicio5.csproj|c:\\dev\\csharpzada\\poo\\pooexercicio5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3635B426-1921-4AA6-9665-8A7604740875}|PooExercicio5\\PooExercicio5.csproj|solutionrelative:pooexercicio5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AA3B0BA7-BA05-4C77-8075-41953B463A38}|PooExercicio6\\PooExercicio6.csproj|c:\\dev\\csharpzada\\poo\\pooexercicio6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA3B0BA7-BA05-4C77-8075-41953B463A38}|PooExercicio6\\PooExercicio6.csproj|solutionrelative:pooexercicio6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 1471,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,41 +30,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "SQLServer.cs",
-              "DocumentMoniker": "C:\\dev\\CSharpzada\\POO\\PooExercicio5\\SQLServer.cs",
-              "RelativeDocumentMoniker": "PooExercicio5\\SQLServer.cs",
-              "ToolTip": "C:\\dev\\CSharpzada\\POO\\PooExercicio5\\SQLServer.cs*",
-              "RelativeToolTip": "PooExercicio5\\SQLServer.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAxAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "B.cs",
+              "DocumentMoniker": "C:\\dev\\CSharpzada\\POO\\PooExercicio6\\B.cs",
+              "RelativeDocumentMoniker": "PooExercicio6\\B.cs",
+              "ToolTip": "C:\\dev\\CSharpzada\\POO\\PooExercicio6\\B.cs*",
+              "RelativeToolTip": "PooExercicio6\\B.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-15T14:08:27.479Z",
+              "WhenOpened": "2025-03-15T14:51:06.148Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Database.cs",
-              "DocumentMoniker": "C:\\dev\\CSharpzada\\POO\\PooExercicio5\\Database.cs",
-              "RelativeDocumentMoniker": "PooExercicio5\\Database.cs",
-              "ToolTip": "C:\\dev\\CSharpzada\\POO\\PooExercicio5\\Database.cs*",
-              "RelativeToolTip": "PooExercicio5\\Database.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAPAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "A.cs",
+              "DocumentMoniker": "C:\\dev\\CSharpzada\\POO\\PooExercicio6\\A.cs",
+              "RelativeDocumentMoniker": "PooExercicio6\\A.cs",
+              "ToolTip": "C:\\dev\\CSharpzada\\POO\\PooExercicio6\\A.cs*",
+              "RelativeToolTip": "PooExercicio6\\A.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-15T14:08:14.328Z",
+              "WhenOpened": "2025-03-15T14:49:16.4Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\dev\\CSharpzada\\POO\\PooExercicio5\\Program.cs",
-              "RelativeDocumentMoniker": "PooExercicio5\\Program.cs",
-              "ToolTip": "C:\\dev\\CSharpzada\\POO\\PooExercicio5\\Program.cs*",
-              "RelativeToolTip": "PooExercicio5\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\dev\\CSharpzada\\POO\\PooExercicio6\\Program.cs",
+              "RelativeDocumentMoniker": "PooExercicio6\\Program.cs",
+              "ToolTip": "C:\\dev\\CSharpzada\\POO\\PooExercicio6\\Program.cs*",
+              "RelativeToolTip": "PooExercicio6\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-15T14:07:37.13Z",
+              "WhenOpened": "2025-03-15T14:49:08.423Z",
               "EditorCaption": ""
             }
           ]
