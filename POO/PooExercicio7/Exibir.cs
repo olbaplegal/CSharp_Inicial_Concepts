@@ -28,4 +28,4 @@ namespace PooExercicio7
 //}
 
 //o codigo dado acima não ia dar certo pois as duas interfaces tinham o método com o mesmo nome, isso geraria ambiguidade na hora da compilação
-//de tal forma se duas interfaces tiverem o mesmo contrato, a implementação da classe precisa de um indenrificador de interface(INota1.Método) e isso será feito realizando a implementação explícita de interface conforma mostrado no código
+//de tal forma se duas interfaces tiverem o mesmo contrato, a implementação da classe precisa de um indenrificador de interface(INota1.Método) e isso será feito realizando a implementação explícita de interface conforma mostrado no código.
