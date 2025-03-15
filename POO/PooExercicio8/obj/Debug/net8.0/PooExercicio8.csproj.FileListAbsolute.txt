@@ -1,0 +1,15 @@
+C:\dev\CSharpzada\POO\PooExercicio8\bin\Debug\net8.0\PooExercicio8.exe
+C:\dev\CSharpzada\POO\PooExercicio8\bin\Debug\net8.0\PooExercicio8.deps.json
+C:\dev\CSharpzada\POO\PooExercicio8\bin\Debug\net8.0\PooExercicio8.runtimeconfig.json
+C:\dev\CSharpzada\POO\PooExercicio8\bin\Debug\net8.0\PooExercicio8.dll
+C:\dev\CSharpzada\POO\PooExercicio8\bin\Debug\net8.0\PooExercicio8.pdb
+C:\dev\CSharpzada\POO\PooExercicio8\obj\Debug\net8.0\PooExercicio8.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\CSharpzada\POO\PooExercicio8\obj\Debug\net8.0\PooExercicio8.AssemblyInfoInputs.cache
+C:\dev\CSharpzada\POO\PooExercicio8\obj\Debug\net8.0\PooExercicio8.AssemblyInfo.cs
+C:\dev\CSharpzada\POO\PooExercicio8\obj\Debug\net8.0\PooExercicio8.csproj.CoreCompileInputs.cache
+C:\dev\CSharpzada\POO\PooExercicio8\obj\Debug\net8.0\PooExercicio8.sourcelink.json
+C:\dev\CSharpzada\POO\PooExercicio8\obj\Debug\net8.0\PooExercicio8.dll
+C:\dev\CSharpzada\POO\PooExercicio8\obj\Debug\net8.0\refint\PooExercicio8.dll
+C:\dev\CSharpzada\POO\PooExercicio8\obj\Debug\net8.0\PooExercicio8.pdb
+C:\dev\CSharpzada\POO\PooExercicio8\obj\Debug\net8.0\PooExercicio8.genruntimeconfig.cache
+C:\dev\CSharpzada\POO\PooExercicio8\obj\Debug\net8.0\ref\PooExercicio8.dll
