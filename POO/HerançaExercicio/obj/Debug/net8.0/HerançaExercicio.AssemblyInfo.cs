@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HerançaExercicio")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0fe543facd7916a24a6db4b7448d5c446ba20d29")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+10be24e2513cec5b7fd04bf13e8e0cba8eaaa38b")]
 [assembly: System.Reflection.AssemblyProductAttribute("HerançaExercicio")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HerançaExercicio")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
