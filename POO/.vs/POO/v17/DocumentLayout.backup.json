@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\dev\\CSharpzada\\POO\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4B62F0D8-90B0-4200-91B5-37B3E1B20CF2}|PooExericico9\\PooExericico9.csproj|c:\\dev\\csharpzada\\poo\\pooexericico9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B62F0D8-90B0-4200-91B5-37B3E1B20CF2}|PooExericico9\\PooExericico9.csproj|solutionrelative:pooexericico9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F3706F87-FF23-4432-A8A8-56E296304233}|PooExercicio10\\PooExercicio10.csproj|c:\\dev\\csharpzada\\poo\\pooexercicio10\\quadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3706F87-FF23-4432-A8A8-56E296304233}|PooExercicio10\\PooExercicio10.csproj|solutionrelative:pooexercicio10\\quadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4B62F0D8-90B0-4200-91B5-37B3E1B20CF2}|PooExericico9\\PooExericico9.csproj|c:\\dev\\csharpzada\\poo\\pooexericico9\\mastrocreditcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B62F0D8-90B0-4200-91B5-37B3E1B20CF2}|PooExericico9\\PooExericico9.csproj|solutionrelative:pooexericico9\\mastrocreditcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F3706F87-FF23-4432-A8A8-56E296304233}|PooExercicio10\\PooExercicio10.csproj|c:\\dev\\csharpzada\\poo\\pooexercicio10\\forma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3706F87-FF23-4432-A8A8-56E296304233}|PooExercicio10\\PooExercicio10.csproj|solutionrelative:pooexercicio10\\forma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4B62F0D8-90B0-4200-91B5-37B3E1B20CF2}|PooExericico9\\PooExericico9.csproj|c:\\dev\\csharpzada\\poo\\pooexericico9\\itransacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B62F0D8-90B0-4200-91B5-37B3E1B20CF2}|PooExericico9\\PooExericico9.csproj|solutionrelative:pooexericico9\\itransacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F3706F87-FF23-4432-A8A8-56E296304233}|PooExercicio10\\PooExercicio10.csproj|c:\\dev\\csharpzada\\poo\\pooexercicio10\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3706F87-FF23-4432-A8A8-56E296304233}|PooExercicio10\\PooExercicio10.csproj|solutionrelative:pooexercicio10\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4B62F0D8-90B0-4200-91B5-37B3E1B20CF2}|PooExericico9\\PooExericico9.csproj|c:\\dev\\csharpzada\\poo\\pooexericico9\\icartaocredito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B62F0D8-90B0-4200-91B5-37B3E1B20CF2}|PooExericico9\\PooExericico9.csproj|solutionrelative:pooexericico9\\icartaocredito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F3706F87-FF23-4432-A8A8-56E296304233}|PooExercicio10\\PooExercicio10.csproj|c:\\dev\\csharpzada\\poo\\pooexercicio10\\circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3706F87-FF23-4432-A8A8-56E296304233}|PooExercicio10\\PooExercicio10.csproj|solutionrelative:pooexercicio10\\circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3706F87-FF23-4432-A8A8-56E296304233}|PooExercicio10\\PooExercicio10.csproj|c:\\dev\\csharpzada\\poo\\pooexercicio10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3706F87-FF23-4432-A8A8-56E296304233}|PooExercicio10\\PooExercicio10.csproj|solutionrelative:pooexercicio10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,63 +30,81 @@
       "DocumentGroups": [
         {
           "DockedWidth": 1471,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ITransacao.cs",
-              "DocumentMoniker": "C:\\dev\\CSharpzada\\POO\\PooExericico9\\ITransacao.cs",
-              "RelativeDocumentMoniker": "PooExericico9\\ITransacao.cs",
-              "ToolTip": "C:\\dev\\CSharpzada\\POO\\PooExericico9\\ITransacao.cs",
-              "RelativeToolTip": "PooExericico9\\ITransacao.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\dev\\CSharpzada\\POO\\PooExercicio10\\Program.cs",
+              "RelativeDocumentMoniker": "PooExercicio10\\Program.cs",
+              "ToolTip": "C:\\dev\\CSharpzada\\POO\\PooExercicio10\\Program.cs",
+              "RelativeToolTip": "PooExercicio10\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T15:02:05.058Z",
+              "WhenOpened": "2025-03-16T17:21:51.549Z",
+              "IsPinned": true,
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ICartaoCredito.cs",
-              "DocumentMoniker": "C:\\dev\\CSharpzada\\POO\\PooExericico9\\ICartaoCredito.cs",
-              "RelativeDocumentMoniker": "PooExericico9\\ICartaoCredito.cs",
-              "ToolTip": "C:\\dev\\CSharpzada\\POO\\PooExericico9\\ICartaoCredito.cs",
-              "RelativeToolTip": "PooExericico9\\ICartaoCredito.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Title": "Circulo.cs",
+              "DocumentMoniker": "C:\\dev\\CSharpzada\\POO\\PooExercicio10\\Circulo.cs",
+              "RelativeDocumentMoniker": "PooExercicio10\\Circulo.cs",
+              "ToolTip": "C:\\dev\\CSharpzada\\POO\\PooExercicio10\\Circulo.cs*",
+              "RelativeToolTip": "PooExercicio10\\Circulo.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T15:01:28.266Z",
+              "WhenOpened": "2025-03-16T17:36:51.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Triangulo.cs",
+              "DocumentMoniker": "C:\\dev\\CSharpzada\\POO\\PooExercicio10\\Triangulo.cs",
+              "RelativeDocumentMoniker": "PooExercicio10\\Triangulo.cs",
+              "ToolTip": "C:\\dev\\CSharpzada\\POO\\PooExercicio10\\Triangulo.cs*",
+              "RelativeToolTip": "PooExercicio10\\Triangulo.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T17:36:43.986Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "MastroCreditCard.cs",
-              "DocumentMoniker": "C:\\dev\\CSharpzada\\POO\\PooExericico9\\MastroCreditCard.cs",
-              "RelativeDocumentMoniker": "PooExericico9\\MastroCreditCard.cs",
-              "ToolTip": "C:\\dev\\CSharpzada\\POO\\PooExericico9\\MastroCreditCard.cs",
-              "RelativeToolTip": "PooExericico9\\MastroCreditCard.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAaAAAAAAAAAA==",
+              "Title": "Forma.cs",
+              "DocumentMoniker": "C:\\dev\\CSharpzada\\POO\\PooExercicio10\\Forma.cs",
+              "RelativeDocumentMoniker": "PooExercicio10\\Forma.cs",
+              "ToolTip": "C:\\dev\\CSharpzada\\POO\\PooExercicio10\\Forma.cs",
+              "RelativeToolTip": "PooExercicio10\\Forma.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T14:57:53.438Z",
+              "WhenOpened": "2025-03-16T17:25:19.967Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\dev\\CSharpzada\\POO\\PooExericico9\\Program.cs",
-              "RelativeDocumentMoniker": "PooExericico9\\Program.cs",
-              "ToolTip": "C:\\dev\\CSharpzada\\POO\\PooExericico9\\Program.cs*",
-              "RelativeToolTip": "PooExericico9\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Title": "Quadrado.cs",
+              "DocumentMoniker": "C:\\dev\\CSharpzada\\POO\\PooExercicio10\\Quadrado.cs",
+              "RelativeDocumentMoniker": "PooExercicio10\\Quadrado.cs",
+              "ToolTip": "C:\\dev\\CSharpzada\\POO\\PooExercicio10\\Quadrado.cs*",
+              "RelativeToolTip": "PooExercicio10\\Quadrado.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T14:57:13.556Z",
+              "WhenOpened": "2025-03-16T17:22:07.179Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             }
           ]
         }
