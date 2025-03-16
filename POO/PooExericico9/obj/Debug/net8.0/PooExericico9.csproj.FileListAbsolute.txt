@@ -1,0 +1,15 @@
+C:\dev\CSharpzada\POO\PooExericico9\bin\Debug\net8.0\PooExericico9.exe
+C:\dev\CSharpzada\POO\PooExericico9\bin\Debug\net8.0\PooExericico9.deps.json
+C:\dev\CSharpzada\POO\PooExericico9\bin\Debug\net8.0\PooExericico9.runtimeconfig.json
+C:\dev\CSharpzada\POO\PooExericico9\bin\Debug\net8.0\PooExericico9.dll
+C:\dev\CSharpzada\POO\PooExericico9\bin\Debug\net8.0\PooExericico9.pdb
+C:\dev\CSharpzada\POO\PooExericico9\obj\Debug\net8.0\PooExericico9.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\CSharpzada\POO\PooExericico9\obj\Debug\net8.0\PooExericico9.AssemblyInfoInputs.cache
+C:\dev\CSharpzada\POO\PooExericico9\obj\Debug\net8.0\PooExericico9.AssemblyInfo.cs
+C:\dev\CSharpzada\POO\PooExericico9\obj\Debug\net8.0\PooExericico9.csproj.CoreCompileInputs.cache
+C:\dev\CSharpzada\POO\PooExericico9\obj\Debug\net8.0\PooExericico9.sourcelink.json
+C:\dev\CSharpzada\POO\PooExericico9\obj\Debug\net8.0\PooExericico9.dll
+C:\dev\CSharpzada\POO\PooExericico9\obj\Debug\net8.0\refint\PooExericico9.dll
+C:\dev\CSharpzada\POO\PooExericico9\obj\Debug\net8.0\PooExericico9.pdb
+C:\dev\CSharpzada\POO\PooExericico9\obj\Debug\net8.0\PooExericico9.genruntimeconfig.cache
+C:\dev\CSharpzada\POO\PooExericico9\obj\Debug\net8.0\ref\PooExericico9.dll
