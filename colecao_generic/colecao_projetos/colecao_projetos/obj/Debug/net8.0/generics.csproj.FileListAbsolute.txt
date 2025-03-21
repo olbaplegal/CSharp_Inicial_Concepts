@@ -1,0 +1,15 @@
+C:\dev\CSharpzada\colecao_generic\colecao_projetos\colecao_projetos\bin\Debug\net8.0\generics.exe
+C:\dev\CSharpzada\colecao_generic\colecao_projetos\colecao_projetos\bin\Debug\net8.0\generics.deps.json
+C:\dev\CSharpzada\colecao_generic\colecao_projetos\colecao_projetos\bin\Debug\net8.0\generics.runtimeconfig.json
+C:\dev\CSharpzada\colecao_generic\colecao_projetos\colecao_projetos\bin\Debug\net8.0\generics.dll
+C:\dev\CSharpzada\colecao_generic\colecao_projetos\colecao_projetos\bin\Debug\net8.0\generics.pdb
+C:\dev\CSharpzada\colecao_generic\colecao_projetos\colecao_projetos\obj\Debug\net8.0\generics.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\CSharpzada\colecao_generic\colecao_projetos\colecao_projetos\obj\Debug\net8.0\generics.AssemblyInfoInputs.cache
+C:\dev\CSharpzada\colecao_generic\colecao_projetos\colecao_projetos\obj\Debug\net8.0\generics.AssemblyInfo.cs
+C:\dev\CSharpzada\colecao_generic\colecao_projetos\colecao_projetos\obj\Debug\net8.0\generics.csproj.CoreCompileInputs.cache
+C:\dev\CSharpzada\colecao_generic\colecao_projetos\colecao_projetos\obj\Debug\net8.0\generics.sourcelink.json
+C:\dev\CSharpzada\colecao_generic\colecao_projetos\colecao_projetos\obj\Debug\net8.0\generics.dll
+C:\dev\CSharpzada\colecao_generic\colecao_projetos\colecao_projetos\obj\Debug\net8.0\refint\generics.dll
+C:\dev\CSharpzada\colecao_generic\colecao_projetos\colecao_projetos\obj\Debug\net8.0\generics.pdb
+C:\dev\CSharpzada\colecao_generic\colecao_projetos\colecao_projetos\obj\Debug\net8.0\generics.genruntimeconfig.cache
+C:\dev\CSharpzada\colecao_generic\colecao_projetos\colecao_projetos\obj\Debug\net8.0\ref\generics.dll
