@@ -1,0 +1,15 @@
+C:\dev\CSharpzada\colecao_generic\colecao_projetos\GetHashCodeEqualsReescrito\bin\Debug\net8.0\GetHashCodeEqualsReescrito.exe
+C:\dev\CSharpzada\colecao_generic\colecao_projetos\GetHashCodeEqualsReescrito\bin\Debug\net8.0\GetHashCodeEqualsReescrito.deps.json
+C:\dev\CSharpzada\colecao_generic\colecao_projetos\GetHashCodeEqualsReescrito\bin\Debug\net8.0\GetHashCodeEqualsReescrito.runtimeconfig.json
+C:\dev\CSharpzada\colecao_generic\colecao_projetos\GetHashCodeEqualsReescrito\bin\Debug\net8.0\GetHashCodeEqualsReescrito.dll
+C:\dev\CSharpzada\colecao_generic\colecao_projetos\GetHashCodeEqualsReescrito\bin\Debug\net8.0\GetHashCodeEqualsReescrito.pdb
+C:\dev\CSharpzada\colecao_generic\colecao_projetos\GetHashCodeEqualsReescrito\obj\Debug\net8.0\GetHashCodeEqualsReescrito.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\CSharpzada\colecao_generic\colecao_projetos\GetHashCodeEqualsReescrito\obj\Debug\net8.0\GetHashCodeEqualsReescrito.AssemblyInfoInputs.cache
+C:\dev\CSharpzada\colecao_generic\colecao_projetos\GetHashCodeEqualsReescrito\obj\Debug\net8.0\GetHashCodeEqualsReescrito.AssemblyInfo.cs
+C:\dev\CSharpzada\colecao_generic\colecao_projetos\GetHashCodeEqualsReescrito\obj\Debug\net8.0\GetHashCodeEqualsReescrito.csproj.CoreCompileInputs.cache
+C:\dev\CSharpzada\colecao_generic\colecao_projetos\GetHashCodeEqualsReescrito\obj\Debug\net8.0\GetHashCodeEqualsReescrito.sourcelink.json
+C:\dev\CSharpzada\colecao_generic\colecao_projetos\GetHashCodeEqualsReescrito\obj\Debug\net8.0\GetHashCodeEqualsReescrito.dll
+C:\dev\CSharpzada\colecao_generic\colecao_projetos\GetHashCodeEqualsReescrito\obj\Debug\net8.0\refint\GetHashCodeEqualsReescrito.dll
+C:\dev\CSharpzada\colecao_generic\colecao_projetos\GetHashCodeEqualsReescrito\obj\Debug\net8.0\GetHashCodeEqualsReescrito.pdb
+C:\dev\CSharpzada\colecao_generic\colecao_projetos\GetHashCodeEqualsReescrito\obj\Debug\net8.0\GetHashCodeEqualsReescrito.genruntimeconfig.cache
+C:\dev\CSharpzada\colecao_generic\colecao_projetos\GetHashCodeEqualsReescrito\obj\Debug\net8.0\ref\GetHashCodeEqualsReescrito.dll
