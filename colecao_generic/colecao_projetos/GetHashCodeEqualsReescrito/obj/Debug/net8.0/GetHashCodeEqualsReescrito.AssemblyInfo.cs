@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GetHashCodeEqualsReescrito")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+de11e6593d239cc52748ec19dbad622048feea2e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+800ba059857c97846e42b1ffed39db642f81af7a")]
 [assembly: System.Reflection.AssemblyProductAttribute("GetHashCodeEqualsReescrito")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GetHashCodeEqualsReescrito")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

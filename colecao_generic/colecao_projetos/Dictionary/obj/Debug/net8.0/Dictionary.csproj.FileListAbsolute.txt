@@ -1,0 +1,15 @@
+C:\dev\CSharpzada\colecao_generic\colecao_projetos\Dictionary\bin\Debug\net8.0\Dictionary.exe
+C:\dev\CSharpzada\colecao_generic\colecao_projetos\Dictionary\bin\Debug\net8.0\Dictionary.deps.json
+C:\dev\CSharpzada\colecao_generic\colecao_projetos\Dictionary\bin\Debug\net8.0\Dictionary.runtimeconfig.json
+C:\dev\CSharpzada\colecao_generic\colecao_projetos\Dictionary\bin\Debug\net8.0\Dictionary.dll
+C:\dev\CSharpzada\colecao_generic\colecao_projetos\Dictionary\bin\Debug\net8.0\Dictionary.pdb
+C:\dev\CSharpzada\colecao_generic\colecao_projetos\Dictionary\obj\Debug\net8.0\Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\CSharpzada\colecao_generic\colecao_projetos\Dictionary\obj\Debug\net8.0\Dictionary.AssemblyInfoInputs.cache
+C:\dev\CSharpzada\colecao_generic\colecao_projetos\Dictionary\obj\Debug\net8.0\Dictionary.AssemblyInfo.cs
+C:\dev\CSharpzada\colecao_generic\colecao_projetos\Dictionary\obj\Debug\net8.0\Dictionary.csproj.CoreCompileInputs.cache
+C:\dev\CSharpzada\colecao_generic\colecao_projetos\Dictionary\obj\Debug\net8.0\Dictionary.sourcelink.json
+C:\dev\CSharpzada\colecao_generic\colecao_projetos\Dictionary\obj\Debug\net8.0\Dictionary.dll
+C:\dev\CSharpzada\colecao_generic\colecao_projetos\Dictionary\obj\Debug\net8.0\refint\Dictionary.dll
+C:\dev\CSharpzada\colecao_generic\colecao_projetos\Dictionary\obj\Debug\net8.0\Dictionary.pdb
+C:\dev\CSharpzada\colecao_generic\colecao_projetos\Dictionary\obj\Debug\net8.0\Dictionary.genruntimeconfig.cache
+C:\dev\CSharpzada\colecao_generic\colecao_projetos\Dictionary\obj\Debug\net8.0\ref\Dictionary.dll
