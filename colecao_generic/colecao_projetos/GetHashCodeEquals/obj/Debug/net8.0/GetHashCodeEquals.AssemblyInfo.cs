@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("generics")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("GetHashCodeEquals")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+045ad92a1ec9d70c3a060537eac7e36b59db438d")]
-[assembly: System.Reflection.AssemblyProductAttribute("generics")]
-[assembly: System.Reflection.AssemblyTitleAttribute("generics")]
+[assembly: System.Reflection.AssemblyProductAttribute("GetHashCodeEquals")]
+[assembly: System.Reflection.AssemblyTitleAttribute("GetHashCodeEquals")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

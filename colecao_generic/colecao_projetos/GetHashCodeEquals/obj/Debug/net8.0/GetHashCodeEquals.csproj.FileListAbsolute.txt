@@ -1,0 +1,15 @@
+C:\dev\CSharpzada\colecao_generic\colecao_projetos\GetHashCodeEquals\bin\Debug\net8.0\GetHashCodeEquals.exe
+C:\dev\CSharpzada\colecao_generic\colecao_projetos\GetHashCodeEquals\bin\Debug\net8.0\GetHashCodeEquals.deps.json
+C:\dev\CSharpzada\colecao_generic\colecao_projetos\GetHashCodeEquals\bin\Debug\net8.0\GetHashCodeEquals.runtimeconfig.json
+C:\dev\CSharpzada\colecao_generic\colecao_projetos\GetHashCodeEquals\bin\Debug\net8.0\GetHashCodeEquals.dll
+C:\dev\CSharpzada\colecao_generic\colecao_projetos\GetHashCodeEquals\bin\Debug\net8.0\GetHashCodeEquals.pdb
+C:\dev\CSharpzada\colecao_generic\colecao_projetos\GetHashCodeEquals\obj\Debug\net8.0\GetHashCodeEquals.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\CSharpzada\colecao_generic\colecao_projetos\GetHashCodeEquals\obj\Debug\net8.0\GetHashCodeEquals.AssemblyInfoInputs.cache
+C:\dev\CSharpzada\colecao_generic\colecao_projetos\GetHashCodeEquals\obj\Debug\net8.0\GetHashCodeEquals.AssemblyInfo.cs
+C:\dev\CSharpzada\colecao_generic\colecao_projetos\GetHashCodeEquals\obj\Debug\net8.0\GetHashCodeEquals.csproj.CoreCompileInputs.cache
+C:\dev\CSharpzada\colecao_generic\colecao_projetos\GetHashCodeEquals\obj\Debug\net8.0\GetHashCodeEquals.sourcelink.json
+C:\dev\CSharpzada\colecao_generic\colecao_projetos\GetHashCodeEquals\obj\Debug\net8.0\GetHashCodeEquals.dll
+C:\dev\CSharpzada\colecao_generic\colecao_projetos\GetHashCodeEquals\obj\Debug\net8.0\refint\GetHashCodeEquals.dll
+C:\dev\CSharpzada\colecao_generic\colecao_projetos\GetHashCodeEquals\obj\Debug\net8.0\GetHashCodeEquals.pdb
+C:\dev\CSharpzada\colecao_generic\colecao_projetos\GetHashCodeEquals\obj\Debug\net8.0\GetHashCodeEquals.genruntimeconfig.cache
+C:\dev\CSharpzada\colecao_generic\colecao_projetos\GetHashCodeEquals\obj\Debug\net8.0\ref\GetHashCodeEquals.dll

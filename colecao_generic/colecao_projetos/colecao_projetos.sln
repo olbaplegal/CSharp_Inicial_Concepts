@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "generics", "colecao_projeto
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericsExercicio", "GenericsExercicio\GenericsExercicio.csproj", "{983BD7FE-31CC-4729-BED9-9672BCA92AED}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetHashCodeEquals", "GetHashCodeEquals\GetHashCodeEquals.csproj", "{80D66058-B7F4-4433-A386-15E1AC5C9F06}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{983BD7FE-31CC-4729-BED9-9672BCA92AED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{983BD7FE-31CC-4729-BED9-9672BCA92AED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{983BD7FE-31CC-4729-BED9-9672BCA92AED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80D66058-B7F4-4433-A386-15E1AC5C9F06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80D66058-B7F4-4433-A386-15E1AC5C9F06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80D66058-B7F4-4433-A386-15E1AC5C9F06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80D66058-B7F4-4433-A386-15E1AC5C9F06}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
