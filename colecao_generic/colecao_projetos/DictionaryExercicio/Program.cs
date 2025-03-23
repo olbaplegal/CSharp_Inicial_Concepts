@@ -1,5 +1,6 @@
 ﻿// criando uma coleção alunostionary<Tkey, TValue> para armazenas os valores
 using DictionaryExercicio;
+using System.Threading.Channels;
 
 var alunos = new Dictionary<int, Aluno>()
 {
@@ -10,45 +11,71 @@ var alunos = new Dictionary<int, Aluno>()
     {5, new Aluno("Diná", 5) },
 };
 
-// acessando e exibindo os nomes e as notas dos alunos
-Console.WriteLine("\nNomes - Notas");
-foreach (var item in alunos)
+Aluno.ExibirColecao(alunos);
+
+do
 {
-    Console.WriteLine($"{item.Key} - {item.Value}");
-}
+    Console.WriteLine("\ninforme o código do Aluno a localizar(99 sai)");
+    int codigo = Convert.ToInt32(Console.ReadLine());
 
-// localizando e atualizando a nota do aluno Diná
-alunos[5].Nota = 8;
-Console.WriteLine("\nNomes - Notas");
-foreach (var item in alunos)
+    if (codigo == 99)
+        break;
+
+    var resultado = alunos.ContainsKey(codigo);
+    if (resultado)
+    {
+        Console.WriteLine("informe a nota (1 a 10)");
+        var nota = Convert.ToInt32(Console.ReadLine());
+        alunos[codigo].Nota = nota;
+    }
+    else
+    {
+        Console.WriteLine("aluno não localizado");
+    }
+}
+while (true);
+Aluno.ExibirColecao(alunos);
+
+do 
+{ 
+
+    Console.WriteLine("\ninforme o código do Aluno a remover(99 sai)");
+    int codigo = Convert.ToInt32(Console.ReadLine());
+
+    if (codigo == 99)
+        break;
+    if(alunos.ContainsKey(codigo))
+    {
+        alunos.Remove(codigo);
+    }
+    else
+    {
+        Console.WriteLine("aluno não localizado");
+    }
+}
+while (true);
+Aluno.ExibirColecao(alunos);
+
+Console.WriteLine("\ninclusão de um novo aluno");
+Console.WriteLine("\ninforme o nome do novo aluno");
+string novoNome = Console.ReadLine();
+
+Console.WriteLine("informe a nota do novo aluno");
+int novaNota = Convert.ToInt32(Console.ReadLine());
+
+Console.WriteLine("informe o codigo do novo aluno(1 a 10)");
+int novoCodigo = Convert.ToInt32(Console.ReadLine());
+
+if (!alunos.ContainsKey(novoCodigo))
 {
-    Console.WriteLine($"{item.Key} - {item.Value}");
+    alunos.Add(novoCodigo, new Aluno(novoNome, novaNota));
+    Console.WriteLine("aluno incluido com sucesso");
 }
-
-// removendo um aluno da coleção
-alunos.Remove(2);
-Console.WriteLine("\nNomes - Notas");
-foreach (var item in alunos)
+else
 {
-    Console.WriteLine($"{item.Key} - {item.Value}");
+    Console.WriteLine("o codigo já existe");
 }
+Aluno.ExibirColecao(alunos);
 
-//adicionando novo aluno: Vilma - 7
-alunos.Add(6, new Aluno("pablo", 2));
+Console.ReadKey();
 
-
-//ordenandoo os alunos por nome na coleção
-var alunosOrdenados = alunos.OrderBy(x => x.Value.Nome);
-Console.WriteLine("\nNomes - Notas");
-foreach (var item in alunosOrdenados)
-{
-    Console.WriteLine($"{item.Key} - {item.Value}");
-}
-
-// removendo todas as keys e values
-alunos.Clear();
-Console.WriteLine("\nNomes - Notas");
-foreach (var item in alunosOrdenados)
-{
-    Console.WriteLine($"{item.Key} - {item.Value}");
-}
