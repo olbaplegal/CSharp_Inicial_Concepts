@@ -1,0 +1,15 @@
+C:\dev\CSharpzada\colecao_generic\colecao_projetos\DictionaryExercicio\bin\Debug\net8.0\DictionaryExercicio.exe
+C:\dev\CSharpzada\colecao_generic\colecao_projetos\DictionaryExercicio\bin\Debug\net8.0\DictionaryExercicio.deps.json
+C:\dev\CSharpzada\colecao_generic\colecao_projetos\DictionaryExercicio\bin\Debug\net8.0\DictionaryExercicio.runtimeconfig.json
+C:\dev\CSharpzada\colecao_generic\colecao_projetos\DictionaryExercicio\bin\Debug\net8.0\DictionaryExercicio.dll
+C:\dev\CSharpzada\colecao_generic\colecao_projetos\DictionaryExercicio\bin\Debug\net8.0\DictionaryExercicio.pdb
+C:\dev\CSharpzada\colecao_generic\colecao_projetos\DictionaryExercicio\obj\Debug\net8.0\DictionaryExercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\CSharpzada\colecao_generic\colecao_projetos\DictionaryExercicio\obj\Debug\net8.0\DictionaryExercicio.AssemblyInfoInputs.cache
+C:\dev\CSharpzada\colecao_generic\colecao_projetos\DictionaryExercicio\obj\Debug\net8.0\DictionaryExercicio.AssemblyInfo.cs
+C:\dev\CSharpzada\colecao_generic\colecao_projetos\DictionaryExercicio\obj\Debug\net8.0\DictionaryExercicio.csproj.CoreCompileInputs.cache
+C:\dev\CSharpzada\colecao_generic\colecao_projetos\DictionaryExercicio\obj\Debug\net8.0\DictionaryExercicio.sourcelink.json
+C:\dev\CSharpzada\colecao_generic\colecao_projetos\DictionaryExercicio\obj\Debug\net8.0\DictionaryExercicio.dll
+C:\dev\CSharpzada\colecao_generic\colecao_projetos\DictionaryExercicio\obj\Debug\net8.0\refint\DictionaryExercicio.dll
+C:\dev\CSharpzada\colecao_generic\colecao_projetos\DictionaryExercicio\obj\Debug\net8.0\DictionaryExercicio.pdb
+C:\dev\CSharpzada\colecao_generic\colecao_projetos\DictionaryExercicio\obj\Debug\net8.0\DictionaryExercicio.genruntimeconfig.cache
+C:\dev\CSharpzada\colecao_generic\colecao_projetos\DictionaryExercicio\obj\Debug\net8.0\ref\DictionaryExercicio.dll
