@@ -1,0 +1,15 @@
+C:\dev\CSharpzada\colecao_generic\colecao_projetos\SortedDictionary\bin\Debug\net8.0\SortedDictionary.exe
+C:\dev\CSharpzada\colecao_generic\colecao_projetos\SortedDictionary\bin\Debug\net8.0\SortedDictionary.deps.json
+C:\dev\CSharpzada\colecao_generic\colecao_projetos\SortedDictionary\bin\Debug\net8.0\SortedDictionary.runtimeconfig.json
+C:\dev\CSharpzada\colecao_generic\colecao_projetos\SortedDictionary\bin\Debug\net8.0\SortedDictionary.dll
+C:\dev\CSharpzada\colecao_generic\colecao_projetos\SortedDictionary\bin\Debug\net8.0\SortedDictionary.pdb
+C:\dev\CSharpzada\colecao_generic\colecao_projetos\SortedDictionary\obj\Debug\net8.0\SortedDictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\CSharpzada\colecao_generic\colecao_projetos\SortedDictionary\obj\Debug\net8.0\SortedDictionary.AssemblyInfoInputs.cache
+C:\dev\CSharpzada\colecao_generic\colecao_projetos\SortedDictionary\obj\Debug\net8.0\SortedDictionary.AssemblyInfo.cs
+C:\dev\CSharpzada\colecao_generic\colecao_projetos\SortedDictionary\obj\Debug\net8.0\SortedDictionary.csproj.CoreCompileInputs.cache
+C:\dev\CSharpzada\colecao_generic\colecao_projetos\SortedDictionary\obj\Debug\net8.0\SortedDictionary.sourcelink.json
+C:\dev\CSharpzada\colecao_generic\colecao_projetos\SortedDictionary\obj\Debug\net8.0\SortedDictionary.dll
+C:\dev\CSharpzada\colecao_generic\colecao_projetos\SortedDictionary\obj\Debug\net8.0\refint\SortedDictionary.dll
+C:\dev\CSharpzada\colecao_generic\colecao_projetos\SortedDictionary\obj\Debug\net8.0\SortedDictionary.pdb
+C:\dev\CSharpzada\colecao_generic\colecao_projetos\SortedDictionary\obj\Debug\net8.0\SortedDictionary.genruntimeconfig.cache
+C:\dev\CSharpzada\colecao_generic\colecao_projetos\SortedDictionary\obj\Debug\net8.0\ref\SortedDictionary.dll
