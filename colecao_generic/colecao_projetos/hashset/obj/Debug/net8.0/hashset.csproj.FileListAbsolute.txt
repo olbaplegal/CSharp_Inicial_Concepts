@@ -1,0 +1,15 @@
+C:\dev\CSharpzada\colecao_generic\colecao_projetos\hashset\bin\Debug\net8.0\hashset.exe
+C:\dev\CSharpzada\colecao_generic\colecao_projetos\hashset\bin\Debug\net8.0\hashset.deps.json
+C:\dev\CSharpzada\colecao_generic\colecao_projetos\hashset\bin\Debug\net8.0\hashset.runtimeconfig.json
+C:\dev\CSharpzada\colecao_generic\colecao_projetos\hashset\bin\Debug\net8.0\hashset.dll
+C:\dev\CSharpzada\colecao_generic\colecao_projetos\hashset\bin\Debug\net8.0\hashset.pdb
+C:\dev\CSharpzada\colecao_generic\colecao_projetos\hashset\obj\Debug\net8.0\hashset.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\CSharpzada\colecao_generic\colecao_projetos\hashset\obj\Debug\net8.0\hashset.AssemblyInfoInputs.cache
+C:\dev\CSharpzada\colecao_generic\colecao_projetos\hashset\obj\Debug\net8.0\hashset.AssemblyInfo.cs
+C:\dev\CSharpzada\colecao_generic\colecao_projetos\hashset\obj\Debug\net8.0\hashset.csproj.CoreCompileInputs.cache
+C:\dev\CSharpzada\colecao_generic\colecao_projetos\hashset\obj\Debug\net8.0\hashset.sourcelink.json
+C:\dev\CSharpzada\colecao_generic\colecao_projetos\hashset\obj\Debug\net8.0\hashset.dll
+C:\dev\CSharpzada\colecao_generic\colecao_projetos\hashset\obj\Debug\net8.0\refint\hashset.dll
+C:\dev\CSharpzada\colecao_generic\colecao_projetos\hashset\obj\Debug\net8.0\hashset.pdb
+C:\dev\CSharpzada\colecao_generic\colecao_projetos\hashset\obj\Debug\net8.0\hashset.genruntimeconfig.cache
+C:\dev\CSharpzada\colecao_generic\colecao_projetos\hashset\obj\Debug\net8.0\ref\hashset.dll
