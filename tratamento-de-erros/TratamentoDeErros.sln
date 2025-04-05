@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35825.156 d17.13
+VisualStudioVersion = 17.13.35825.156
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TryCatchFinally", "TryCatchFinally\TryCatchFinally.csproj", "{5D970FB4-C485-4BD7-B542-08E07FC212FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LancandoExeptions", "LancandoExeptions\LancandoExeptions.csproj", "{68066AA8-DC77-41BC-8793-1C12F0A62C5F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{5D970FB4-C485-4BD7-B542-08E07FC212FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5D970FB4-C485-4BD7-B542-08E07FC212FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5D970FB4-C485-4BD7-B542-08E07FC212FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68066AA8-DC77-41BC-8793-1C12F0A62C5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68066AA8-DC77-41BC-8793-1C12F0A62C5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68066AA8-DC77-41BC-8793-1C12F0A62C5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68066AA8-DC77-41BC-8793-1C12F0A62C5F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

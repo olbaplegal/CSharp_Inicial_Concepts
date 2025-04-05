@@ -1,0 +1,15 @@
+C:\dev\CSharpzada\tratamento-de-erros\LancandoExeptions\bin\Debug\net8.0\LancandoExeptions.exe
+C:\dev\CSharpzada\tratamento-de-erros\LancandoExeptions\bin\Debug\net8.0\LancandoExeptions.deps.json
+C:\dev\CSharpzada\tratamento-de-erros\LancandoExeptions\bin\Debug\net8.0\LancandoExeptions.runtimeconfig.json
+C:\dev\CSharpzada\tratamento-de-erros\LancandoExeptions\bin\Debug\net8.0\LancandoExeptions.dll
+C:\dev\CSharpzada\tratamento-de-erros\LancandoExeptions\bin\Debug\net8.0\LancandoExeptions.pdb
+C:\dev\CSharpzada\tratamento-de-erros\LancandoExeptions\obj\Debug\net8.0\LancandoExeptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\CSharpzada\tratamento-de-erros\LancandoExeptions\obj\Debug\net8.0\LancandoExeptions.AssemblyInfoInputs.cache
+C:\dev\CSharpzada\tratamento-de-erros\LancandoExeptions\obj\Debug\net8.0\LancandoExeptions.AssemblyInfo.cs
+C:\dev\CSharpzada\tratamento-de-erros\LancandoExeptions\obj\Debug\net8.0\LancandoExeptions.csproj.CoreCompileInputs.cache
+C:\dev\CSharpzada\tratamento-de-erros\LancandoExeptions\obj\Debug\net8.0\LancandoExeptions.sourcelink.json
+C:\dev\CSharpzada\tratamento-de-erros\LancandoExeptions\obj\Debug\net8.0\LancandoExeptions.dll
+C:\dev\CSharpzada\tratamento-de-erros\LancandoExeptions\obj\Debug\net8.0\refint\LancandoExeptions.dll
+C:\dev\CSharpzada\tratamento-de-erros\LancandoExeptions\obj\Debug\net8.0\LancandoExeptions.pdb
+C:\dev\CSharpzada\tratamento-de-erros\LancandoExeptions\obj\Debug\net8.0\LancandoExeptions.genruntimeconfig.cache
+C:\dev\CSharpzada\tratamento-de-erros\LancandoExeptions\obj\Debug\net8.0\ref\LancandoExeptions.dll
