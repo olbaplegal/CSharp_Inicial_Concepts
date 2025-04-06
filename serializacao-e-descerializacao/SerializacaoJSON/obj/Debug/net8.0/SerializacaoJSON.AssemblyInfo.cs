@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("DesserializacaoXml")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("SerializacaoJSON")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f51e4b14c143daecbf1dc3abeeb6559116e132d2")]
-[assembly: System.Reflection.AssemblyProductAttribute("DesserializacaoXml")]
-[assembly: System.Reflection.AssemblyTitleAttribute("DesserializacaoXml")]
+[assembly: System.Reflection.AssemblyProductAttribute("SerializacaoJSON")]
+[assembly: System.Reflection.AssemblyTitleAttribute("SerializacaoJSON")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SerializacaoXML")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d696bd5f4cb4ea5fd75772f34ffe6407e6411edc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f51e4b14c143daecbf1dc3abeeb6559116e132d2")]
 [assembly: System.Reflection.AssemblyProductAttribute("SerializacaoXML")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SerializacaoXML")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

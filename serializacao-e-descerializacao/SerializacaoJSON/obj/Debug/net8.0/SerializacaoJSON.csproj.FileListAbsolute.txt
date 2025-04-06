@@ -1,0 +1,15 @@
+C:\dev\CSharpzada\serializacao-e-descerializacao\SerializacaoJSON\bin\Debug\net8.0\SerializacaoJSON.exe
+C:\dev\CSharpzada\serializacao-e-descerializacao\SerializacaoJSON\bin\Debug\net8.0\SerializacaoJSON.deps.json
+C:\dev\CSharpzada\serializacao-e-descerializacao\SerializacaoJSON\bin\Debug\net8.0\SerializacaoJSON.runtimeconfig.json
+C:\dev\CSharpzada\serializacao-e-descerializacao\SerializacaoJSON\bin\Debug\net8.0\SerializacaoJSON.dll
+C:\dev\CSharpzada\serializacao-e-descerializacao\SerializacaoJSON\bin\Debug\net8.0\SerializacaoJSON.pdb
+C:\dev\CSharpzada\serializacao-e-descerializacao\SerializacaoJSON\obj\Debug\net8.0\SerializacaoJSON.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\CSharpzada\serializacao-e-descerializacao\SerializacaoJSON\obj\Debug\net8.0\SerializacaoJSON.AssemblyInfoInputs.cache
+C:\dev\CSharpzada\serializacao-e-descerializacao\SerializacaoJSON\obj\Debug\net8.0\SerializacaoJSON.AssemblyInfo.cs
+C:\dev\CSharpzada\serializacao-e-descerializacao\SerializacaoJSON\obj\Debug\net8.0\SerializacaoJSON.csproj.CoreCompileInputs.cache
+C:\dev\CSharpzada\serializacao-e-descerializacao\SerializacaoJSON\obj\Debug\net8.0\SerializacaoJSON.sourcelink.json
+C:\dev\CSharpzada\serializacao-e-descerializacao\SerializacaoJSON\obj\Debug\net8.0\SerializacaoJSON.dll
+C:\dev\CSharpzada\serializacao-e-descerializacao\SerializacaoJSON\obj\Debug\net8.0\refint\SerializacaoJSON.dll
+C:\dev\CSharpzada\serializacao-e-descerializacao\SerializacaoJSON\obj\Debug\net8.0\SerializacaoJSON.pdb
+C:\dev\CSharpzada\serializacao-e-descerializacao\SerializacaoJSON\obj\Debug\net8.0\SerializacaoJSON.genruntimeconfig.cache
+C:\dev\CSharpzada\serializacao-e-descerializacao\SerializacaoJSON\obj\Debug\net8.0\ref\SerializacaoJSON.dll
