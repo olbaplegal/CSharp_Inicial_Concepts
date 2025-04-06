@@ -1,6 +1,5 @@
 ﻿using System.Text.Json.Serialization;
-
-namespace SerializacaoJSON;
+namespace DesserializacaoJSON;
 
 public class Aluno
 {
@@ -17,6 +16,6 @@ public class Aluno
     public int Id { get; set; }
     public string Name { get; set; } = string.Empty;
     public string Email { get; set; } = string.Empty;
-    //[JsonIgnore]//ignora a propriedade
+    [JsonIgnore]//ignora a propriedade
     public int Idade { get; set; }
 }

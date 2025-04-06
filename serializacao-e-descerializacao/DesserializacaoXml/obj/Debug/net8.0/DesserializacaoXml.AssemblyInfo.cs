@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DesserializacaoXml")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f51e4b14c143daecbf1dc3abeeb6559116e132d2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+22d504e7d409f8b71e33d5bf5da769b333558e66")]
 [assembly: System.Reflection.AssemblyProductAttribute("DesserializacaoXml")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DesserializacaoXml")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

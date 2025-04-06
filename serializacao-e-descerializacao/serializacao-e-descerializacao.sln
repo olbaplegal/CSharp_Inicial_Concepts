@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesserializacaoXml", "Desse
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerializacaoJSON", "SerializacaoJSON\SerializacaoJSON.csproj", "{6F516A8C-5631-4504-9A81-0AD306D2565E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesserializacaoJSON", "DesserializacaoJSON\DesserializacaoJSON.csproj", "{669828B3-F4C7-4D46-8113-681DC1FCD041}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{6F516A8C-5631-4504-9A81-0AD306D2565E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6F516A8C-5631-4504-9A81-0AD306D2565E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6F516A8C-5631-4504-9A81-0AD306D2565E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{669828B3-F4C7-4D46-8113-681DC1FCD041}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{669828B3-F4C7-4D46-8113-681DC1FCD041}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{669828B3-F4C7-4D46-8113-681DC1FCD041}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{669828B3-F4C7-4D46-8113-681DC1FCD041}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
