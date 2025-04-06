@@ -1,0 +1,15 @@
+C:\dev\CSharpzada\tratamento-de-erros\ExercoesPersonalizadas\bin\Debug\net8.0\ExercoesPersonalizadas.exe
+C:\dev\CSharpzada\tratamento-de-erros\ExercoesPersonalizadas\bin\Debug\net8.0\ExercoesPersonalizadas.deps.json
+C:\dev\CSharpzada\tratamento-de-erros\ExercoesPersonalizadas\bin\Debug\net8.0\ExercoesPersonalizadas.runtimeconfig.json
+C:\dev\CSharpzada\tratamento-de-erros\ExercoesPersonalizadas\bin\Debug\net8.0\ExercoesPersonalizadas.dll
+C:\dev\CSharpzada\tratamento-de-erros\ExercoesPersonalizadas\bin\Debug\net8.0\ExercoesPersonalizadas.pdb
+C:\dev\CSharpzada\tratamento-de-erros\ExercoesPersonalizadas\obj\Debug\net8.0\ExercoesPersonalizadas.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\CSharpzada\tratamento-de-erros\ExercoesPersonalizadas\obj\Debug\net8.0\ExercoesPersonalizadas.AssemblyInfoInputs.cache
+C:\dev\CSharpzada\tratamento-de-erros\ExercoesPersonalizadas\obj\Debug\net8.0\ExercoesPersonalizadas.AssemblyInfo.cs
+C:\dev\CSharpzada\tratamento-de-erros\ExercoesPersonalizadas\obj\Debug\net8.0\ExercoesPersonalizadas.csproj.CoreCompileInputs.cache
+C:\dev\CSharpzada\tratamento-de-erros\ExercoesPersonalizadas\obj\Debug\net8.0\ExercoesPersonalizadas.sourcelink.json
+C:\dev\CSharpzada\tratamento-de-erros\ExercoesPersonalizadas\obj\Debug\net8.0\ExercoesPersonalizadas.dll
+C:\dev\CSharpzada\tratamento-de-erros\ExercoesPersonalizadas\obj\Debug\net8.0\refint\ExercoesPersonalizadas.dll
+C:\dev\CSharpzada\tratamento-de-erros\ExercoesPersonalizadas\obj\Debug\net8.0\ExercoesPersonalizadas.pdb
+C:\dev\CSharpzada\tratamento-de-erros\ExercoesPersonalizadas\obj\Debug\net8.0\ExercoesPersonalizadas.genruntimeconfig.cache
+C:\dev\CSharpzada\tratamento-de-erros\ExercoesPersonalizadas\obj\Debug\net8.0\ref\ExercoesPersonalizadas.dll
