@@ -1,0 +1,15 @@
+C:\dev\CSharpzada\tratamento-de-erros\TratamentoExecoesExercicio\bin\Debug\net8.0\TratamentoExecoesExercicio.exe
+C:\dev\CSharpzada\tratamento-de-erros\TratamentoExecoesExercicio\bin\Debug\net8.0\TratamentoExecoesExercicio.deps.json
+C:\dev\CSharpzada\tratamento-de-erros\TratamentoExecoesExercicio\bin\Debug\net8.0\TratamentoExecoesExercicio.runtimeconfig.json
+C:\dev\CSharpzada\tratamento-de-erros\TratamentoExecoesExercicio\bin\Debug\net8.0\TratamentoExecoesExercicio.dll
+C:\dev\CSharpzada\tratamento-de-erros\TratamentoExecoesExercicio\bin\Debug\net8.0\TratamentoExecoesExercicio.pdb
+C:\dev\CSharpzada\tratamento-de-erros\TratamentoExecoesExercicio\obj\Debug\net8.0\TratamentoExecoesExercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\CSharpzada\tratamento-de-erros\TratamentoExecoesExercicio\obj\Debug\net8.0\TratamentoExecoesExercicio.AssemblyInfoInputs.cache
+C:\dev\CSharpzada\tratamento-de-erros\TratamentoExecoesExercicio\obj\Debug\net8.0\TratamentoExecoesExercicio.AssemblyInfo.cs
+C:\dev\CSharpzada\tratamento-de-erros\TratamentoExecoesExercicio\obj\Debug\net8.0\TratamentoExecoesExercicio.csproj.CoreCompileInputs.cache
+C:\dev\CSharpzada\tratamento-de-erros\TratamentoExecoesExercicio\obj\Debug\net8.0\TratamentoExecoesExercicio.sourcelink.json
+C:\dev\CSharpzada\tratamento-de-erros\TratamentoExecoesExercicio\obj\Debug\net8.0\TratamentoExecoesExercicio.dll
+C:\dev\CSharpzada\tratamento-de-erros\TratamentoExecoesExercicio\obj\Debug\net8.0\refint\TratamentoExecoesExercicio.dll
+C:\dev\CSharpzada\tratamento-de-erros\TratamentoExecoesExercicio\obj\Debug\net8.0\TratamentoExecoesExercicio.pdb
+C:\dev\CSharpzada\tratamento-de-erros\TratamentoExecoesExercicio\obj\Debug\net8.0\TratamentoExecoesExercicio.genruntimeconfig.cache
+C:\dev\CSharpzada\tratamento-de-erros\TratamentoExecoesExercicio\obj\Debug\net8.0\ref\TratamentoExecoesExercicio.dll

@@ -13,7 +13,11 @@ catch (Exception ex)
     Console.WriteLine(ex.Message);
     Console.WriteLine(ex.StackTrace);
 }
-//o throw mantém a hierarquia de exceções no rastreamento da pilha e fornece informações completas enquanto que usar o throw ex retorn as exceções até o ponto no qual o código throw ex foi executado, ai, os detalhes são removidos da exceção até este ponto
+//o throw mantém a hierarquia de exceções no rastreamento da
+//pilha e fornece informações completas enquanto que usar o
+//throw ex retorn as exceções até o ponto no qual o código
+//throw ex foi executado, ai, os detalhes são removidos da
+//exceção até este ponto
 
 Console.ReadKey();
 class A

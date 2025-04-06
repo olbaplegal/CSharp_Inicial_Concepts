@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TratamentoExecoesExercicio/1.0.0": {
+        "runtime": {
+          "TratamentoExecoesExercicio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TratamentoExecoesExercicio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
