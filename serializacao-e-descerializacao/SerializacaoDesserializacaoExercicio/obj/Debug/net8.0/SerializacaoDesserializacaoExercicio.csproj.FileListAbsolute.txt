@@ -1,0 +1,15 @@
+C:\dev\CSharpzada\serializacao-e-descerializacao\SerializacaoDesserializacaoExercicio\bin\Debug\net8.0\SerializacaoDesserializacaoExercicio.exe
+C:\dev\CSharpzada\serializacao-e-descerializacao\SerializacaoDesserializacaoExercicio\bin\Debug\net8.0\SerializacaoDesserializacaoExercicio.deps.json
+C:\dev\CSharpzada\serializacao-e-descerializacao\SerializacaoDesserializacaoExercicio\bin\Debug\net8.0\SerializacaoDesserializacaoExercicio.runtimeconfig.json
+C:\dev\CSharpzada\serializacao-e-descerializacao\SerializacaoDesserializacaoExercicio\bin\Debug\net8.0\SerializacaoDesserializacaoExercicio.dll
+C:\dev\CSharpzada\serializacao-e-descerializacao\SerializacaoDesserializacaoExercicio\bin\Debug\net8.0\SerializacaoDesserializacaoExercicio.pdb
+C:\dev\CSharpzada\serializacao-e-descerializacao\SerializacaoDesserializacaoExercicio\obj\Debug\net8.0\SerializacaoDesserializacaoExercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\CSharpzada\serializacao-e-descerializacao\SerializacaoDesserializacaoExercicio\obj\Debug\net8.0\SerializacaoDesserializacaoExercicio.AssemblyInfoInputs.cache
+C:\dev\CSharpzada\serializacao-e-descerializacao\SerializacaoDesserializacaoExercicio\obj\Debug\net8.0\SerializacaoDesserializacaoExercicio.AssemblyInfo.cs
+C:\dev\CSharpzada\serializacao-e-descerializacao\SerializacaoDesserializacaoExercicio\obj\Debug\net8.0\SerializacaoDesserializacaoExercicio.csproj.CoreCompileInputs.cache
+C:\dev\CSharpzada\serializacao-e-descerializacao\SerializacaoDesserializacaoExercicio\obj\Debug\net8.0\SerializacaoDesserializacaoExercicio.sourcelink.json
+C:\dev\CSharpzada\serializacao-e-descerializacao\SerializacaoDesserializacaoExercicio\obj\Debug\net8.0\SerializacaoDesserializacaoExercicio.dll
+C:\dev\CSharpzada\serializacao-e-descerializacao\SerializacaoDesserializacaoExercicio\obj\Debug\net8.0\refint\SerializacaoDesserializacaoExercicio.dll
+C:\dev\CSharpzada\serializacao-e-descerializacao\SerializacaoDesserializacaoExercicio\obj\Debug\net8.0\SerializacaoDesserializacaoExercicio.pdb
+C:\dev\CSharpzada\serializacao-e-descerializacao\SerializacaoDesserializacaoExercicio\obj\Debug\net8.0\SerializacaoDesserializacaoExercicio.genruntimeconfig.cache
+C:\dev\CSharpzada\serializacao-e-descerializacao\SerializacaoDesserializacaoExercicio\obj\Debug\net8.0\ref\SerializacaoDesserializacaoExercicio.dll

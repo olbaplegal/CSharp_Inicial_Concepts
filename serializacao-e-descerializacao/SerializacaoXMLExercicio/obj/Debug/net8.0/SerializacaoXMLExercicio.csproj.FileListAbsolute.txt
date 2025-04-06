@@ -1,0 +1,15 @@
+C:\dev\CSharpzada\serializacao-e-descerializacao\SerializacaoXMLExercicio\bin\Debug\net8.0\SerializacaoXMLExercicio.exe
+C:\dev\CSharpzada\serializacao-e-descerializacao\SerializacaoXMLExercicio\bin\Debug\net8.0\SerializacaoXMLExercicio.deps.json
+C:\dev\CSharpzada\serializacao-e-descerializacao\SerializacaoXMLExercicio\bin\Debug\net8.0\SerializacaoXMLExercicio.runtimeconfig.json
+C:\dev\CSharpzada\serializacao-e-descerializacao\SerializacaoXMLExercicio\bin\Debug\net8.0\SerializacaoXMLExercicio.dll
+C:\dev\CSharpzada\serializacao-e-descerializacao\SerializacaoXMLExercicio\bin\Debug\net8.0\SerializacaoXMLExercicio.pdb
+C:\dev\CSharpzada\serializacao-e-descerializacao\SerializacaoXMLExercicio\obj\Debug\net8.0\SerializacaoXMLExercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\CSharpzada\serializacao-e-descerializacao\SerializacaoXMLExercicio\obj\Debug\net8.0\SerializacaoXMLExercicio.AssemblyInfoInputs.cache
+C:\dev\CSharpzada\serializacao-e-descerializacao\SerializacaoXMLExercicio\obj\Debug\net8.0\SerializacaoXMLExercicio.AssemblyInfo.cs
+C:\dev\CSharpzada\serializacao-e-descerializacao\SerializacaoXMLExercicio\obj\Debug\net8.0\SerializacaoXMLExercicio.csproj.CoreCompileInputs.cache
+C:\dev\CSharpzada\serializacao-e-descerializacao\SerializacaoXMLExercicio\obj\Debug\net8.0\SerializacaoXMLExercicio.sourcelink.json
+C:\dev\CSharpzada\serializacao-e-descerializacao\SerializacaoXMLExercicio\obj\Debug\net8.0\SerializacaoXMLExercicio.dll
+C:\dev\CSharpzada\serializacao-e-descerializacao\SerializacaoXMLExercicio\obj\Debug\net8.0\refint\SerializacaoXMLExercicio.dll
+C:\dev\CSharpzada\serializacao-e-descerializacao\SerializacaoXMLExercicio\obj\Debug\net8.0\SerializacaoXMLExercicio.pdb
+C:\dev\CSharpzada\serializacao-e-descerializacao\SerializacaoXMLExercicio\obj\Debug\net8.0\SerializacaoXMLExercicio.genruntimeconfig.cache
+C:\dev\CSharpzada\serializacao-e-descerializacao\SerializacaoXMLExercicio\obj\Debug\net8.0\ref\SerializacaoXMLExercicio.dll

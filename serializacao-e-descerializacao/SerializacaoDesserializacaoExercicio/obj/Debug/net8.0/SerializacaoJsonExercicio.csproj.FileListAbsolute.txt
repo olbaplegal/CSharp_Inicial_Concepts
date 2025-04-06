@@ -1,0 +1,15 @@
+C:\dev\CSharpzada\serializacao-e-descerializacao\SerializacaoDesserializacaoExercicio\bin\Debug\net8.0\SerializacaoJsonExercicio.exe
+C:\dev\CSharpzada\serializacao-e-descerializacao\SerializacaoDesserializacaoExercicio\bin\Debug\net8.0\SerializacaoJsonExercicio.deps.json
+C:\dev\CSharpzada\serializacao-e-descerializacao\SerializacaoDesserializacaoExercicio\bin\Debug\net8.0\SerializacaoJsonExercicio.runtimeconfig.json
+C:\dev\CSharpzada\serializacao-e-descerializacao\SerializacaoDesserializacaoExercicio\bin\Debug\net8.0\SerializacaoJsonExercicio.dll
+C:\dev\CSharpzada\serializacao-e-descerializacao\SerializacaoDesserializacaoExercicio\bin\Debug\net8.0\SerializacaoJsonExercicio.pdb
+C:\dev\CSharpzada\serializacao-e-descerializacao\SerializacaoDesserializacaoExercicio\obj\Debug\net8.0\SerializacaoJsonExercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\CSharpzada\serializacao-e-descerializacao\SerializacaoDesserializacaoExercicio\obj\Debug\net8.0\SerializacaoJsonExercicio.AssemblyInfoInputs.cache
+C:\dev\CSharpzada\serializacao-e-descerializacao\SerializacaoDesserializacaoExercicio\obj\Debug\net8.0\SerializacaoJsonExercicio.AssemblyInfo.cs
+C:\dev\CSharpzada\serializacao-e-descerializacao\SerializacaoDesserializacaoExercicio\obj\Debug\net8.0\SerializacaoJsonExercicio.csproj.CoreCompileInputs.cache
+C:\dev\CSharpzada\serializacao-e-descerializacao\SerializacaoDesserializacaoExercicio\obj\Debug\net8.0\SerializacaoJsonExercicio.sourcelink.json
+C:\dev\CSharpzada\serializacao-e-descerializacao\SerializacaoDesserializacaoExercicio\obj\Debug\net8.0\SerializacaoJsonExercicio.dll
+C:\dev\CSharpzada\serializacao-e-descerializacao\SerializacaoDesserializacaoExercicio\obj\Debug\net8.0\refint\SerializacaoJsonExercicio.dll
+C:\dev\CSharpzada\serializacao-e-descerializacao\SerializacaoDesserializacaoExercicio\obj\Debug\net8.0\SerializacaoJsonExercicio.pdb
+C:\dev\CSharpzada\serializacao-e-descerializacao\SerializacaoDesserializacaoExercicio\obj\Debug\net8.0\SerializacaoJsonExercicio.genruntimeconfig.cache
+C:\dev\CSharpzada\serializacao-e-descerializacao\SerializacaoDesserializacaoExercicio\obj\Debug\net8.0\ref\SerializacaoJsonExercicio.dll

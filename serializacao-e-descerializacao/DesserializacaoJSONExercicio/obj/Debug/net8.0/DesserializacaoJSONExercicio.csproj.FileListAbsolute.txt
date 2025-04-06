@@ -1,0 +1,15 @@
+C:\dev\CSharpzada\serializacao-e-descerializacao\DesserializacaoJSONExercicio\bin\Debug\net8.0\DesserializacaoJSONExercicio.exe
+C:\dev\CSharpzada\serializacao-e-descerializacao\DesserializacaoJSONExercicio\bin\Debug\net8.0\DesserializacaoJSONExercicio.deps.json
+C:\dev\CSharpzada\serializacao-e-descerializacao\DesserializacaoJSONExercicio\bin\Debug\net8.0\DesserializacaoJSONExercicio.runtimeconfig.json
+C:\dev\CSharpzada\serializacao-e-descerializacao\DesserializacaoJSONExercicio\bin\Debug\net8.0\DesserializacaoJSONExercicio.dll
+C:\dev\CSharpzada\serializacao-e-descerializacao\DesserializacaoJSONExercicio\bin\Debug\net8.0\DesserializacaoJSONExercicio.pdb
+C:\dev\CSharpzada\serializacao-e-descerializacao\DesserializacaoJSONExercicio\obj\Debug\net8.0\DesserializacaoJSONExercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\CSharpzada\serializacao-e-descerializacao\DesserializacaoJSONExercicio\obj\Debug\net8.0\DesserializacaoJSONExercicio.AssemblyInfoInputs.cache
+C:\dev\CSharpzada\serializacao-e-descerializacao\DesserializacaoJSONExercicio\obj\Debug\net8.0\DesserializacaoJSONExercicio.AssemblyInfo.cs
+C:\dev\CSharpzada\serializacao-e-descerializacao\DesserializacaoJSONExercicio\obj\Debug\net8.0\DesserializacaoJSONExercicio.csproj.CoreCompileInputs.cache
+C:\dev\CSharpzada\serializacao-e-descerializacao\DesserializacaoJSONExercicio\obj\Debug\net8.0\DesserializacaoJSONExercicio.sourcelink.json
+C:\dev\CSharpzada\serializacao-e-descerializacao\DesserializacaoJSONExercicio\obj\Debug\net8.0\DesserializacaoJSONExercicio.dll
+C:\dev\CSharpzada\serializacao-e-descerializacao\DesserializacaoJSONExercicio\obj\Debug\net8.0\refint\DesserializacaoJSONExercicio.dll
+C:\dev\CSharpzada\serializacao-e-descerializacao\DesserializacaoJSONExercicio\obj\Debug\net8.0\DesserializacaoJSONExercicio.pdb
+C:\dev\CSharpzada\serializacao-e-descerializacao\DesserializacaoJSONExercicio\obj\Debug\net8.0\DesserializacaoJSONExercicio.genruntimeconfig.cache
+C:\dev\CSharpzada\serializacao-e-descerializacao\DesserializacaoJSONExercicio\obj\Debug\net8.0\ref\DesserializacaoJSONExercicio.dll
