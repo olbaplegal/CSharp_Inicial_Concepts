@@ -1,4 +1,4 @@
-﻿namespace DesserializacaoXml
+﻿namespace SerializacaoXML
 {
     public class Aluno
     {

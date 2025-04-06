@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("SerializacaoXML")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("DesserializacaoXml")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d696bd5f4cb4ea5fd75772f34ffe6407e6411edc")]
-[assembly: System.Reflection.AssemblyProductAttribute("SerializacaoXML")]
-[assembly: System.Reflection.AssemblyTitleAttribute("SerializacaoXML")]
+[assembly: System.Reflection.AssemblyProductAttribute("DesserializacaoXml")]
+[assembly: System.Reflection.AssemblyTitleAttribute("DesserializacaoXml")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
