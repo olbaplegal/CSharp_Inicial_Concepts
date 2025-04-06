@@ -1,0 +1,15 @@
+C:\dev\CSharpzada\tratamento-de-erros\FiltrarExecoes\bin\Debug\net8.0\FiltrarExecoes.exe
+C:\dev\CSharpzada\tratamento-de-erros\FiltrarExecoes\bin\Debug\net8.0\FiltrarExecoes.deps.json
+C:\dev\CSharpzada\tratamento-de-erros\FiltrarExecoes\bin\Debug\net8.0\FiltrarExecoes.runtimeconfig.json
+C:\dev\CSharpzada\tratamento-de-erros\FiltrarExecoes\bin\Debug\net8.0\FiltrarExecoes.dll
+C:\dev\CSharpzada\tratamento-de-erros\FiltrarExecoes\bin\Debug\net8.0\FiltrarExecoes.pdb
+C:\dev\CSharpzada\tratamento-de-erros\FiltrarExecoes\obj\Debug\net8.0\FiltrarExecoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\CSharpzada\tratamento-de-erros\FiltrarExecoes\obj\Debug\net8.0\FiltrarExecoes.AssemblyInfoInputs.cache
+C:\dev\CSharpzada\tratamento-de-erros\FiltrarExecoes\obj\Debug\net8.0\FiltrarExecoes.AssemblyInfo.cs
+C:\dev\CSharpzada\tratamento-de-erros\FiltrarExecoes\obj\Debug\net8.0\FiltrarExecoes.csproj.CoreCompileInputs.cache
+C:\dev\CSharpzada\tratamento-de-erros\FiltrarExecoes\obj\Debug\net8.0\FiltrarExecoes.sourcelink.json
+C:\dev\CSharpzada\tratamento-de-erros\FiltrarExecoes\obj\Debug\net8.0\FiltrarExecoes.dll
+C:\dev\CSharpzada\tratamento-de-erros\FiltrarExecoes\obj\Debug\net8.0\refint\FiltrarExecoes.dll
+C:\dev\CSharpzada\tratamento-de-erros\FiltrarExecoes\obj\Debug\net8.0\FiltrarExecoes.pdb
+C:\dev\CSharpzada\tratamento-de-erros\FiltrarExecoes\obj\Debug\net8.0\FiltrarExecoes.genruntimeconfig.cache
+C:\dev\CSharpzada\tratamento-de-erros\FiltrarExecoes\obj\Debug\net8.0\ref\FiltrarExecoes.dll

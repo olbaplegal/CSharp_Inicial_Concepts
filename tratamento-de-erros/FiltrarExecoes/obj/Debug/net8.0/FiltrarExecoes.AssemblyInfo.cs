@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("LancandoExeptions")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("FiltrarExecoes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+718fb3ef7ab731d7d303764f976462148c8e7ba2")]
-[assembly: System.Reflection.AssemblyProductAttribute("LancandoExeptions")]
-[assembly: System.Reflection.AssemblyTitleAttribute("LancandoExeptions")]
+[assembly: System.Reflection.AssemblyProductAttribute("FiltrarExecoes")]
+[assembly: System.Reflection.AssemblyTitleAttribute("FiltrarExecoes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

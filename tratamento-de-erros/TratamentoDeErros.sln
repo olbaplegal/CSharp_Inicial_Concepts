@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TryCatchFinally", "TryCatch
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LancandoExeptions", "LancandoExeptions\LancandoExeptions.csproj", "{68066AA8-DC77-41BC-8793-1C12F0A62C5F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FiltrarExecoes", "FiltrarExecoes\FiltrarExecoes.csproj", "{7F094674-F9D8-43F2-A1A5-0259460C3856}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{68066AA8-DC77-41BC-8793-1C12F0A62C5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{68066AA8-DC77-41BC-8793-1C12F0A62C5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{68066AA8-DC77-41BC-8793-1C12F0A62C5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F094674-F9D8-43F2-A1A5-0259460C3856}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F094674-F9D8-43F2-A1A5-0259460C3856}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F094674-F9D8-43F2-A1A5-0259460C3856}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F094674-F9D8-43F2-A1A5-0259460C3856}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
