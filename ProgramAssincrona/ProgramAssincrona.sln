@@ -5,6 +5,8 @@ VisualStudioVersion = 17.13.35825.156 d17.13
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskProgramAssincrona", "TaskProgramAssincrona\TaskProgramAssincrona.csproj", "{4F25BCE9-E2D4-4E34-8B7A-6C5A3B5366B5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValueTask", "ValueTask\ValueTask.csproj", "{A4EC2305-9B51-4DCC-B1AF-C4C5BC09A22E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{4F25BCE9-E2D4-4E34-8B7A-6C5A3B5366B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4F25BCE9-E2D4-4E34-8B7A-6C5A3B5366B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4F25BCE9-E2D4-4E34-8B7A-6C5A3B5366B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4EC2305-9B51-4DCC-B1AF-C4C5BC09A22E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4EC2305-9B51-4DCC-B1AF-C4C5BC09A22E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4EC2305-9B51-4DCC-B1AF-C4C5BC09A22E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4EC2305-9B51-4DCC-B1AF-C4C5BC09A22E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
