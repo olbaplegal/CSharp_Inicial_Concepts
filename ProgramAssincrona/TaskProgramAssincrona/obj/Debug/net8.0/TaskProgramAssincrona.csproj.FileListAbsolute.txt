@@ -1,0 +1,15 @@
+C:\dev\CSharpzada\ProgramAssincrona\TaskProgramAssincrona\bin\Debug\net8.0\TaskProgramAssincrona.exe
+C:\dev\CSharpzada\ProgramAssincrona\TaskProgramAssincrona\bin\Debug\net8.0\TaskProgramAssincrona.deps.json
+C:\dev\CSharpzada\ProgramAssincrona\TaskProgramAssincrona\bin\Debug\net8.0\TaskProgramAssincrona.runtimeconfig.json
+C:\dev\CSharpzada\ProgramAssincrona\TaskProgramAssincrona\bin\Debug\net8.0\TaskProgramAssincrona.dll
+C:\dev\CSharpzada\ProgramAssincrona\TaskProgramAssincrona\bin\Debug\net8.0\TaskProgramAssincrona.pdb
+C:\dev\CSharpzada\ProgramAssincrona\TaskProgramAssincrona\obj\Debug\net8.0\TaskProgramAssincrona.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\CSharpzada\ProgramAssincrona\TaskProgramAssincrona\obj\Debug\net8.0\TaskProgramAssincrona.AssemblyInfoInputs.cache
+C:\dev\CSharpzada\ProgramAssincrona\TaskProgramAssincrona\obj\Debug\net8.0\TaskProgramAssincrona.AssemblyInfo.cs
+C:\dev\CSharpzada\ProgramAssincrona\TaskProgramAssincrona\obj\Debug\net8.0\TaskProgramAssincrona.csproj.CoreCompileInputs.cache
+C:\dev\CSharpzada\ProgramAssincrona\TaskProgramAssincrona\obj\Debug\net8.0\TaskProgramAssincrona.sourcelink.json
+C:\dev\CSharpzada\ProgramAssincrona\TaskProgramAssincrona\obj\Debug\net8.0\TaskProgramAssincrona.dll
+C:\dev\CSharpzada\ProgramAssincrona\TaskProgramAssincrona\obj\Debug\net8.0\refint\TaskProgramAssincrona.dll
+C:\dev\CSharpzada\ProgramAssincrona\TaskProgramAssincrona\obj\Debug\net8.0\TaskProgramAssincrona.pdb
+C:\dev\CSharpzada\ProgramAssincrona\TaskProgramAssincrona\obj\Debug\net8.0\TaskProgramAssincrona.genruntimeconfig.cache
+C:\dev\CSharpzada\ProgramAssincrona\TaskProgramAssincrona\obj\Debug\net8.0\ref\TaskProgramAssincrona.dll
