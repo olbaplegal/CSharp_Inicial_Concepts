@@ -1,0 +1,15 @@
+C:\dev\CSharpzada\ProgramAssincrona\AssyncProgramExercicio\bin\Debug\net8.0\AssyncProgramExercicio.exe
+C:\dev\CSharpzada\ProgramAssincrona\AssyncProgramExercicio\bin\Debug\net8.0\AssyncProgramExercicio.deps.json
+C:\dev\CSharpzada\ProgramAssincrona\AssyncProgramExercicio\bin\Debug\net8.0\AssyncProgramExercicio.runtimeconfig.json
+C:\dev\CSharpzada\ProgramAssincrona\AssyncProgramExercicio\bin\Debug\net8.0\AssyncProgramExercicio.dll
+C:\dev\CSharpzada\ProgramAssincrona\AssyncProgramExercicio\bin\Debug\net8.0\AssyncProgramExercicio.pdb
+C:\dev\CSharpzada\ProgramAssincrona\AssyncProgramExercicio\obj\Debug\net8.0\AssyncProgramExercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\CSharpzada\ProgramAssincrona\AssyncProgramExercicio\obj\Debug\net8.0\AssyncProgramExercicio.AssemblyInfoInputs.cache
+C:\dev\CSharpzada\ProgramAssincrona\AssyncProgramExercicio\obj\Debug\net8.0\AssyncProgramExercicio.AssemblyInfo.cs
+C:\dev\CSharpzada\ProgramAssincrona\AssyncProgramExercicio\obj\Debug\net8.0\AssyncProgramExercicio.csproj.CoreCompileInputs.cache
+C:\dev\CSharpzada\ProgramAssincrona\AssyncProgramExercicio\obj\Debug\net8.0\AssyncProgramExercicio.sourcelink.json
+C:\dev\CSharpzada\ProgramAssincrona\AssyncProgramExercicio\obj\Debug\net8.0\AssyncProgramExercicio.dll
+C:\dev\CSharpzada\ProgramAssincrona\AssyncProgramExercicio\obj\Debug\net8.0\refint\AssyncProgramExercicio.dll
+C:\dev\CSharpzada\ProgramAssincrona\AssyncProgramExercicio\obj\Debug\net8.0\AssyncProgramExercicio.pdb
+C:\dev\CSharpzada\ProgramAssincrona\AssyncProgramExercicio\obj\Debug\net8.0\AssyncProgramExercicio.genruntimeconfig.cache
+C:\dev\CSharpzada\ProgramAssincrona\AssyncProgramExercicio\obj\Debug\net8.0\ref\AssyncProgramExercicio.dll
