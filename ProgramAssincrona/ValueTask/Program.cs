@@ -19,3 +19,8 @@ static async ValueTask<int> MetodoRetornaValorAsync(int valor)
     await Task.Delay(2000);
     return valor * 2;
 }
+
+class Calendar1
+{
+    public const int Months = 12;
+}

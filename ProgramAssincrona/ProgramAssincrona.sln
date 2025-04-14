@@ -1,11 +1,19 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35825.156 d17.13
+VisualStudioVersion = 17.13.35825.156
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskProgramAssincrona", "TaskProgramAssincrona\TaskProgramAssincrona.csproj", "{4F25BCE9-E2D4-4E34-8B7A-6C5A3B5366B5}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValueTask", "ValueTask\ValueTask.csproj", "{A4EC2305-9B51-4DCC-B1AF-C4C5BC09A22E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CancelamentoOperacao", "CancelamentoOperacao\CancelamentoOperacao.csproj", "{2F747EA3-63CF-43E8-9AB0-EA5DA070E6CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TratamentoException", "TratamentoException\TratamentoException.csproj", "{EC683179-9A3E-4F56-818F-A8DFD07D49F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TratamentoException2", "TratamentoException2\TratamentoException2.csproj", "{FDA8B790-776A-49ED-B745-2C7A9C093030}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssyncProgramExercicio", "AssyncProgramExercicio\AssyncProgramExercicio.csproj", "{0C335C46-D519-4CDB-9E76-4A26B3B4A02C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +29,22 @@ Global
 		{A4EC2305-9B51-4DCC-B1AF-C4C5BC09A22E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A4EC2305-9B51-4DCC-B1AF-C4C5BC09A22E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A4EC2305-9B51-4DCC-B1AF-C4C5BC09A22E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F747EA3-63CF-43E8-9AB0-EA5DA070E6CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F747EA3-63CF-43E8-9AB0-EA5DA070E6CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F747EA3-63CF-43E8-9AB0-EA5DA070E6CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F747EA3-63CF-43E8-9AB0-EA5DA070E6CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC683179-9A3E-4F56-818F-A8DFD07D49F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC683179-9A3E-4F56-818F-A8DFD07D49F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC683179-9A3E-4F56-818F-A8DFD07D49F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC683179-9A3E-4F56-818F-A8DFD07D49F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDA8B790-776A-49ED-B745-2C7A9C093030}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDA8B790-776A-49ED-B745-2C7A9C093030}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDA8B790-776A-49ED-B745-2C7A9C093030}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDA8B790-776A-49ED-B745-2C7A9C093030}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C335C46-D519-4CDB-9E76-4A26B3B4A02C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C335C46-D519-4CDB-9E76-4A26B3B4A02C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C335C46-D519-4CDB-9E76-4A26B3B4A02C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C335C46-D519-4CDB-9E76-4A26B3B4A02C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

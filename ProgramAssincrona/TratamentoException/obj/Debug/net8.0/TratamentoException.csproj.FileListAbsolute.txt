@@ -1,0 +1,15 @@
+C:\dev\CSharpzada\ProgramAssincrona\TratamentoException\bin\Debug\net8.0\TratamentoException.exe
+C:\dev\CSharpzada\ProgramAssincrona\TratamentoException\bin\Debug\net8.0\TratamentoException.deps.json
+C:\dev\CSharpzada\ProgramAssincrona\TratamentoException\bin\Debug\net8.0\TratamentoException.runtimeconfig.json
+C:\dev\CSharpzada\ProgramAssincrona\TratamentoException\bin\Debug\net8.0\TratamentoException.dll
+C:\dev\CSharpzada\ProgramAssincrona\TratamentoException\bin\Debug\net8.0\TratamentoException.pdb
+C:\dev\CSharpzada\ProgramAssincrona\TratamentoException\obj\Debug\net8.0\TratamentoException.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\CSharpzada\ProgramAssincrona\TratamentoException\obj\Debug\net8.0\TratamentoException.AssemblyInfoInputs.cache
+C:\dev\CSharpzada\ProgramAssincrona\TratamentoException\obj\Debug\net8.0\TratamentoException.AssemblyInfo.cs
+C:\dev\CSharpzada\ProgramAssincrona\TratamentoException\obj\Debug\net8.0\TratamentoException.csproj.CoreCompileInputs.cache
+C:\dev\CSharpzada\ProgramAssincrona\TratamentoException\obj\Debug\net8.0\TratamentoException.sourcelink.json
+C:\dev\CSharpzada\ProgramAssincrona\TratamentoException\obj\Debug\net8.0\TratamentoException.dll
+C:\dev\CSharpzada\ProgramAssincrona\TratamentoException\obj\Debug\net8.0\refint\TratamentoException.dll
+C:\dev\CSharpzada\ProgramAssincrona\TratamentoException\obj\Debug\net8.0\TratamentoException.pdb
+C:\dev\CSharpzada\ProgramAssincrona\TratamentoException\obj\Debug\net8.0\TratamentoException.genruntimeconfig.cache
+C:\dev\CSharpzada\ProgramAssincrona\TratamentoException\obj\Debug\net8.0\ref\TratamentoException.dll

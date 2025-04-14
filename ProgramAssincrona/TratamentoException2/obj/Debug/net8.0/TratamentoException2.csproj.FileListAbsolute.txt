@@ -1,0 +1,15 @@
+C:\dev\CSharpzada\ProgramAssincrona\TratamentoException2\obj\Debug\net8.0\TratamentoException2.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\CSharpzada\ProgramAssincrona\TratamentoException2\obj\Debug\net8.0\TratamentoException2.AssemblyInfoInputs.cache
+C:\dev\CSharpzada\ProgramAssincrona\TratamentoException2\obj\Debug\net8.0\TratamentoException2.AssemblyInfo.cs
+C:\dev\CSharpzada\ProgramAssincrona\TratamentoException2\obj\Debug\net8.0\TratamentoException2.csproj.CoreCompileInputs.cache
+C:\dev\CSharpzada\ProgramAssincrona\TratamentoException2\obj\Debug\net8.0\TratamentoException2.sourcelink.json
+C:\dev\CSharpzada\ProgramAssincrona\TratamentoException2\bin\Debug\net8.0\TratamentoException2.exe
+C:\dev\CSharpzada\ProgramAssincrona\TratamentoException2\bin\Debug\net8.0\TratamentoException2.deps.json
+C:\dev\CSharpzada\ProgramAssincrona\TratamentoException2\bin\Debug\net8.0\TratamentoException2.runtimeconfig.json
+C:\dev\CSharpzada\ProgramAssincrona\TratamentoException2\bin\Debug\net8.0\TratamentoException2.dll
+C:\dev\CSharpzada\ProgramAssincrona\TratamentoException2\bin\Debug\net8.0\TratamentoException2.pdb
+C:\dev\CSharpzada\ProgramAssincrona\TratamentoException2\obj\Debug\net8.0\TratamentoException2.dll
+C:\dev\CSharpzada\ProgramAssincrona\TratamentoException2\obj\Debug\net8.0\refint\TratamentoException2.dll
+C:\dev\CSharpzada\ProgramAssincrona\TratamentoException2\obj\Debug\net8.0\TratamentoException2.pdb
+C:\dev\CSharpzada\ProgramAssincrona\TratamentoException2\obj\Debug\net8.0\TratamentoException2.genruntimeconfig.cache
+C:\dev\CSharpzada\ProgramAssincrona\TratamentoException2\obj\Debug\net8.0\ref\TratamentoException2.dll
