@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("CancelamentoOperacao")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("CShrpSemaphores")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3b1144f05a1c88e9b2ea41c528f63f3bdf8a22b9")]
-[assembly: System.Reflection.AssemblyProductAttribute("CancelamentoOperacao")]
-[assembly: System.Reflection.AssemblyTitleAttribute("CancelamentoOperacao")]
+[assembly: System.Reflection.AssemblyProductAttribute("CShrpSemaphores")]
+[assembly: System.Reflection.AssemblyTitleAttribute("CShrpSemaphores")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

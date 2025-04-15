@@ -1,0 +1,15 @@
+C:\dev\CSharpzada\ProgramAssincrona\CShrpSemaphores\bin\Debug\net8.0\CShrpSemaphores.exe
+C:\dev\CSharpzada\ProgramAssincrona\CShrpSemaphores\bin\Debug\net8.0\CShrpSemaphores.deps.json
+C:\dev\CSharpzada\ProgramAssincrona\CShrpSemaphores\bin\Debug\net8.0\CShrpSemaphores.runtimeconfig.json
+C:\dev\CSharpzada\ProgramAssincrona\CShrpSemaphores\bin\Debug\net8.0\CShrpSemaphores.dll
+C:\dev\CSharpzada\ProgramAssincrona\CShrpSemaphores\bin\Debug\net8.0\CShrpSemaphores.pdb
+C:\dev\CSharpzada\ProgramAssincrona\CShrpSemaphores\obj\Debug\net8.0\CShrpSemaphores.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\CSharpzada\ProgramAssincrona\CShrpSemaphores\obj\Debug\net8.0\CShrpSemaphores.AssemblyInfoInputs.cache
+C:\dev\CSharpzada\ProgramAssincrona\CShrpSemaphores\obj\Debug\net8.0\CShrpSemaphores.AssemblyInfo.cs
+C:\dev\CSharpzada\ProgramAssincrona\CShrpSemaphores\obj\Debug\net8.0\CShrpSemaphores.csproj.CoreCompileInputs.cache
+C:\dev\CSharpzada\ProgramAssincrona\CShrpSemaphores\obj\Debug\net8.0\CShrpSemaphores.sourcelink.json
+C:\dev\CSharpzada\ProgramAssincrona\CShrpSemaphores\obj\Debug\net8.0\CShrpSemaphores.dll
+C:\dev\CSharpzada\ProgramAssincrona\CShrpSemaphores\obj\Debug\net8.0\refint\CShrpSemaphores.dll
+C:\dev\CSharpzada\ProgramAssincrona\CShrpSemaphores\obj\Debug\net8.0\CShrpSemaphores.pdb
+C:\dev\CSharpzada\ProgramAssincrona\CShrpSemaphores\obj\Debug\net8.0\CShrpSemaphores.genruntimeconfig.cache
+C:\dev\CSharpzada\ProgramAssincrona\CShrpSemaphores\obj\Debug\net8.0\ref\CShrpSemaphores.dll

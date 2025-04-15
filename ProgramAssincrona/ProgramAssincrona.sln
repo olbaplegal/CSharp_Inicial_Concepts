@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssyncProgramExercicio", "A
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StreamAsync", "StreamAsync\StreamAsync.csproj", "{480D3EA3-6A8E-4E38-B9FE-7196339F0064}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CShrpSemaphores", "CShrpSemaphores\CShrpSemaphores.csproj", "{779F9190-81AC-48C2-9A3B-ACDB67ABBA76}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{480D3EA3-6A8E-4E38-B9FE-7196339F0064}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{480D3EA3-6A8E-4E38-B9FE-7196339F0064}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{480D3EA3-6A8E-4E38-B9FE-7196339F0064}.Release|Any CPU.Build.0 = Release|Any CPU
+		{779F9190-81AC-48C2-9A3B-ACDB67ABBA76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{779F9190-81AC-48C2-9A3B-ACDB67ABBA76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{779F9190-81AC-48C2-9A3B-ACDB67ABBA76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{779F9190-81AC-48C2-9A3B-ACDB67ABBA76}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

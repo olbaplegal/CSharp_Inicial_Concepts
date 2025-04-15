@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TaskProgramAssincrona")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1a7276a429433e6513eac4b59a5de2f14b94bfc3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3b1144f05a1c88e9b2ea41c528f63f3bdf8a22b9")]
 [assembly: System.Reflection.AssemblyProductAttribute("TaskProgramAssincrona")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TaskProgramAssincrona")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
