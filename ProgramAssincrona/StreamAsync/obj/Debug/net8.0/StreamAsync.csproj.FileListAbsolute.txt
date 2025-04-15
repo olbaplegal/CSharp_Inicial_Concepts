@@ -1,0 +1,15 @@
+C:\dev\CSharpzada\ProgramAssincrona\StreamAsync\bin\Debug\net8.0\StreamAsync.exe
+C:\dev\CSharpzada\ProgramAssincrona\StreamAsync\bin\Debug\net8.0\StreamAsync.deps.json
+C:\dev\CSharpzada\ProgramAssincrona\StreamAsync\bin\Debug\net8.0\StreamAsync.runtimeconfig.json
+C:\dev\CSharpzada\ProgramAssincrona\StreamAsync\bin\Debug\net8.0\StreamAsync.dll
+C:\dev\CSharpzada\ProgramAssincrona\StreamAsync\bin\Debug\net8.0\StreamAsync.pdb
+C:\dev\CSharpzada\ProgramAssincrona\StreamAsync\obj\Debug\net8.0\StreamAsync.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\CSharpzada\ProgramAssincrona\StreamAsync\obj\Debug\net8.0\StreamAsync.AssemblyInfoInputs.cache
+C:\dev\CSharpzada\ProgramAssincrona\StreamAsync\obj\Debug\net8.0\StreamAsync.AssemblyInfo.cs
+C:\dev\CSharpzada\ProgramAssincrona\StreamAsync\obj\Debug\net8.0\StreamAsync.csproj.CoreCompileInputs.cache
+C:\dev\CSharpzada\ProgramAssincrona\StreamAsync\obj\Debug\net8.0\StreamAsync.sourcelink.json
+C:\dev\CSharpzada\ProgramAssincrona\StreamAsync\obj\Debug\net8.0\StreamAsync.dll
+C:\dev\CSharpzada\ProgramAssincrona\StreamAsync\obj\Debug\net8.0\refint\StreamAsync.dll
+C:\dev\CSharpzada\ProgramAssincrona\StreamAsync\obj\Debug\net8.0\StreamAsync.pdb
+C:\dev\CSharpzada\ProgramAssincrona\StreamAsync\obj\Debug\net8.0\StreamAsync.genruntimeconfig.cache
+C:\dev\CSharpzada\ProgramAssincrona\StreamAsync\obj\Debug\net8.0\ref\StreamAsync.dll

@@ -38,6 +38,7 @@ static async Task ExecutaOperacaoAsync()
             Console.WriteLine($"progresso: {readBytes}/{totalBytes}");
 		}
 	}
+	//exceptions
 	catch (OperationCanceledException ex)
 	{
 		if (cancellationTokenSource.IsCancellationRequested)
