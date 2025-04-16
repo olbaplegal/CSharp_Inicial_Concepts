@@ -1,0 +1,15 @@
+C:\dev\CSharpzada\LINQ\FundamentosLINQ\bin\Debug\net8.0\FundamentosLINQ.exe
+C:\dev\CSharpzada\LINQ\FundamentosLINQ\bin\Debug\net8.0\FundamentosLINQ.deps.json
+C:\dev\CSharpzada\LINQ\FundamentosLINQ\bin\Debug\net8.0\FundamentosLINQ.runtimeconfig.json
+C:\dev\CSharpzada\LINQ\FundamentosLINQ\bin\Debug\net8.0\FundamentosLINQ.dll
+C:\dev\CSharpzada\LINQ\FundamentosLINQ\bin\Debug\net8.0\FundamentosLINQ.pdb
+C:\dev\CSharpzada\LINQ\FundamentosLINQ\obj\Debug\net8.0\FundamentosLINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\CSharpzada\LINQ\FundamentosLINQ\obj\Debug\net8.0\FundamentosLINQ.AssemblyInfoInputs.cache
+C:\dev\CSharpzada\LINQ\FundamentosLINQ\obj\Debug\net8.0\FundamentosLINQ.AssemblyInfo.cs
+C:\dev\CSharpzada\LINQ\FundamentosLINQ\obj\Debug\net8.0\FundamentosLINQ.csproj.CoreCompileInputs.cache
+C:\dev\CSharpzada\LINQ\FundamentosLINQ\obj\Debug\net8.0\FundamentosLINQ.sourcelink.json
+C:\dev\CSharpzada\LINQ\FundamentosLINQ\obj\Debug\net8.0\FundamentosLINQ.dll
+C:\dev\CSharpzada\LINQ\FundamentosLINQ\obj\Debug\net8.0\refint\FundamentosLINQ.dll
+C:\dev\CSharpzada\LINQ\FundamentosLINQ\obj\Debug\net8.0\FundamentosLINQ.pdb
+C:\dev\CSharpzada\LINQ\FundamentosLINQ\obj\Debug\net8.0\FundamentosLINQ.genruntimeconfig.cache
+C:\dev\CSharpzada\LINQ\FundamentosLINQ\obj\Debug\net8.0\ref\FundamentosLINQ.dll
