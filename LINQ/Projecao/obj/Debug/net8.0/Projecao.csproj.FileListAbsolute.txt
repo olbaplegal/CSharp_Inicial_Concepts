@@ -1,0 +1,15 @@
+C:\dev\CSharpzada\LINQ\Projecao\bin\Debug\net8.0\Projecao.exe
+C:\dev\CSharpzada\LINQ\Projecao\bin\Debug\net8.0\Projecao.deps.json
+C:\dev\CSharpzada\LINQ\Projecao\bin\Debug\net8.0\Projecao.runtimeconfig.json
+C:\dev\CSharpzada\LINQ\Projecao\bin\Debug\net8.0\Projecao.dll
+C:\dev\CSharpzada\LINQ\Projecao\bin\Debug\net8.0\Projecao.pdb
+C:\dev\CSharpzada\LINQ\Projecao\obj\Debug\net8.0\Projecao.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\CSharpzada\LINQ\Projecao\obj\Debug\net8.0\Projecao.AssemblyInfoInputs.cache
+C:\dev\CSharpzada\LINQ\Projecao\obj\Debug\net8.0\Projecao.AssemblyInfo.cs
+C:\dev\CSharpzada\LINQ\Projecao\obj\Debug\net8.0\Projecao.csproj.CoreCompileInputs.cache
+C:\dev\CSharpzada\LINQ\Projecao\obj\Debug\net8.0\Projecao.sourcelink.json
+C:\dev\CSharpzada\LINQ\Projecao\obj\Debug\net8.0\Projecao.dll
+C:\dev\CSharpzada\LINQ\Projecao\obj\Debug\net8.0\refint\Projecao.dll
+C:\dev\CSharpzada\LINQ\Projecao\obj\Debug\net8.0\Projecao.pdb
+C:\dev\CSharpzada\LINQ\Projecao\obj\Debug\net8.0\Projecao.genruntimeconfig.cache
+C:\dev\CSharpzada\LINQ\Projecao\obj\Debug\net8.0\ref\Projecao.dll
