@@ -1,0 +1,15 @@
+C:\dev\CSharpzada\LINQ\Conjuntos2\bin\Debug\net8.0\Conjuntos2.exe
+C:\dev\CSharpzada\LINQ\Conjuntos2\bin\Debug\net8.0\Conjuntos2.deps.json
+C:\dev\CSharpzada\LINQ\Conjuntos2\bin\Debug\net8.0\Conjuntos2.runtimeconfig.json
+C:\dev\CSharpzada\LINQ\Conjuntos2\bin\Debug\net8.0\Conjuntos2.dll
+C:\dev\CSharpzada\LINQ\Conjuntos2\bin\Debug\net8.0\Conjuntos2.pdb
+C:\dev\CSharpzada\LINQ\Conjuntos2\obj\Debug\net8.0\Conjuntos2.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\CSharpzada\LINQ\Conjuntos2\obj\Debug\net8.0\Conjuntos2.AssemblyInfoInputs.cache
+C:\dev\CSharpzada\LINQ\Conjuntos2\obj\Debug\net8.0\Conjuntos2.AssemblyInfo.cs
+C:\dev\CSharpzada\LINQ\Conjuntos2\obj\Debug\net8.0\Conjuntos2.csproj.CoreCompileInputs.cache
+C:\dev\CSharpzada\LINQ\Conjuntos2\obj\Debug\net8.0\Conjuntos2.sourcelink.json
+C:\dev\CSharpzada\LINQ\Conjuntos2\obj\Debug\net8.0\Conjuntos2.dll
+C:\dev\CSharpzada\LINQ\Conjuntos2\obj\Debug\net8.0\refint\Conjuntos2.dll
+C:\dev\CSharpzada\LINQ\Conjuntos2\obj\Debug\net8.0\Conjuntos2.pdb
+C:\dev\CSharpzada\LINQ\Conjuntos2\obj\Debug\net8.0\Conjuntos2.genruntimeconfig.cache
+C:\dev\CSharpzada\LINQ\Conjuntos2\obj\Debug\net8.0\ref\Conjuntos2.dll

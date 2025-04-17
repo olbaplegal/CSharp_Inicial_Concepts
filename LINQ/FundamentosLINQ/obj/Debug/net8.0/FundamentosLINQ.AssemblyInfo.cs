@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FundamentosLINQ")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6e2affa80fb49d87d24b7ae991b68ed1b5936e52")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e3660246a0e5221fad4d64723b6976ea82a6a395")]
 [assembly: System.Reflection.AssemblyProductAttribute("FundamentosLINQ")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FundamentosLINQ")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
