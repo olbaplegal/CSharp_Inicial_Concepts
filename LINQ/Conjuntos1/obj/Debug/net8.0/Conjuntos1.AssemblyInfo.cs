@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("FundamentosLINQ")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Conjuntos1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6e2affa80fb49d87d24b7ae991b68ed1b5936e52")]
-[assembly: System.Reflection.AssemblyProductAttribute("FundamentosLINQ")]
-[assembly: System.Reflection.AssemblyTitleAttribute("FundamentosLINQ")]
+[assembly: System.Reflection.AssemblyProductAttribute("Conjuntos1")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Conjuntos1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

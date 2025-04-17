@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FundamentosLINQ", "Fundamen
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projecao", "Projecao\Projecao.csproj", "{5D1A1824-95AB-4DC4-875F-489BBEC30C91}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conjuntos1", "Conjuntos1\Conjuntos1.csproj", "{02B90F4C-3BD3-4AA4-86B0-5A71A9B8549B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{5D1A1824-95AB-4DC4-875F-489BBEC30C91}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5D1A1824-95AB-4DC4-875F-489BBEC30C91}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5D1A1824-95AB-4DC4-875F-489BBEC30C91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02B90F4C-3BD3-4AA4-86B0-5A71A9B8549B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02B90F4C-3BD3-4AA4-86B0-5A71A9B8549B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02B90F4C-3BD3-4AA4-86B0-5A71A9B8549B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02B90F4C-3BD3-4AA4-86B0-5A71A9B8549B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
