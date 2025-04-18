@@ -1,0 +1,15 @@
+C:\dev\CSharpzada\LINQ\Ordering\bin\Debug\net8.0\Ordering.exe
+C:\dev\CSharpzada\LINQ\Ordering\bin\Debug\net8.0\Ordering.deps.json
+C:\dev\CSharpzada\LINQ\Ordering\bin\Debug\net8.0\Ordering.runtimeconfig.json
+C:\dev\CSharpzada\LINQ\Ordering\bin\Debug\net8.0\Ordering.dll
+C:\dev\CSharpzada\LINQ\Ordering\bin\Debug\net8.0\Ordering.pdb
+C:\dev\CSharpzada\LINQ\Ordering\obj\Debug\net8.0\Ordering.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\CSharpzada\LINQ\Ordering\obj\Debug\net8.0\Ordering.AssemblyInfoInputs.cache
+C:\dev\CSharpzada\LINQ\Ordering\obj\Debug\net8.0\Ordering.AssemblyInfo.cs
+C:\dev\CSharpzada\LINQ\Ordering\obj\Debug\net8.0\Ordering.csproj.CoreCompileInputs.cache
+C:\dev\CSharpzada\LINQ\Ordering\obj\Debug\net8.0\Ordering.sourcelink.json
+C:\dev\CSharpzada\LINQ\Ordering\obj\Debug\net8.0\Ordering.dll
+C:\dev\CSharpzada\LINQ\Ordering\obj\Debug\net8.0\refint\Ordering.dll
+C:\dev\CSharpzada\LINQ\Ordering\obj\Debug\net8.0\Ordering.pdb
+C:\dev\CSharpzada\LINQ\Ordering\obj\Debug\net8.0\Ordering.genruntimeconfig.cache
+C:\dev\CSharpzada\LINQ\Ordering\obj\Debug\net8.0\ref\Ordering.dll
