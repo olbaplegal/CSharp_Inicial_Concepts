@@ -1,0 +1,15 @@
+C:\dev\CSharpzada\LINQ\Agregacao1\bin\Debug\net8.0\Agregacao1.exe
+C:\dev\CSharpzada\LINQ\Agregacao1\bin\Debug\net8.0\Agregacao1.deps.json
+C:\dev\CSharpzada\LINQ\Agregacao1\bin\Debug\net8.0\Agregacao1.runtimeconfig.json
+C:\dev\CSharpzada\LINQ\Agregacao1\bin\Debug\net8.0\Agregacao1.dll
+C:\dev\CSharpzada\LINQ\Agregacao1\bin\Debug\net8.0\Agregacao1.pdb
+C:\dev\CSharpzada\LINQ\Agregacao1\obj\Debug\net8.0\Agregacao1.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\CSharpzada\LINQ\Agregacao1\obj\Debug\net8.0\Agregacao1.AssemblyInfoInputs.cache
+C:\dev\CSharpzada\LINQ\Agregacao1\obj\Debug\net8.0\Agregacao1.AssemblyInfo.cs
+C:\dev\CSharpzada\LINQ\Agregacao1\obj\Debug\net8.0\Agregacao1.csproj.CoreCompileInputs.cache
+C:\dev\CSharpzada\LINQ\Agregacao1\obj\Debug\net8.0\Agregacao1.sourcelink.json
+C:\dev\CSharpzada\LINQ\Agregacao1\obj\Debug\net8.0\Agregacao1.dll
+C:\dev\CSharpzada\LINQ\Agregacao1\obj\Debug\net8.0\refint\Agregacao1.dll
+C:\dev\CSharpzada\LINQ\Agregacao1\obj\Debug\net8.0\Agregacao1.pdb
+C:\dev\CSharpzada\LINQ\Agregacao1\obj\Debug\net8.0\Agregacao1.genruntimeconfig.cache
+C:\dev\CSharpzada\LINQ\Agregacao1\obj\Debug\net8.0\ref\Agregacao1.dll
