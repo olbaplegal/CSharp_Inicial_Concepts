@@ -1,0 +1,15 @@
+C:\dev\CSharpzada\LINQ\OperadoresQuantificacao\bin\Debug\net8.0\OperadoresQuantificacao.exe
+C:\dev\CSharpzada\LINQ\OperadoresQuantificacao\bin\Debug\net8.0\OperadoresQuantificacao.deps.json
+C:\dev\CSharpzada\LINQ\OperadoresQuantificacao\bin\Debug\net8.0\OperadoresQuantificacao.runtimeconfig.json
+C:\dev\CSharpzada\LINQ\OperadoresQuantificacao\bin\Debug\net8.0\OperadoresQuantificacao.dll
+C:\dev\CSharpzada\LINQ\OperadoresQuantificacao\bin\Debug\net8.0\OperadoresQuantificacao.pdb
+C:\dev\CSharpzada\LINQ\OperadoresQuantificacao\obj\Debug\net8.0\OperadoresQuantificacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\CSharpzada\LINQ\OperadoresQuantificacao\obj\Debug\net8.0\OperadoresQuantificacao.AssemblyInfoInputs.cache
+C:\dev\CSharpzada\LINQ\OperadoresQuantificacao\obj\Debug\net8.0\OperadoresQuantificacao.AssemblyInfo.cs
+C:\dev\CSharpzada\LINQ\OperadoresQuantificacao\obj\Debug\net8.0\OperadoresQuantificacao.csproj.CoreCompileInputs.cache
+C:\dev\CSharpzada\LINQ\OperadoresQuantificacao\obj\Debug\net8.0\OperadoresQuantificacao.sourcelink.json
+C:\dev\CSharpzada\LINQ\OperadoresQuantificacao\obj\Debug\net8.0\OperadoresQuantificacao.dll
+C:\dev\CSharpzada\LINQ\OperadoresQuantificacao\obj\Debug\net8.0\refint\OperadoresQuantificacao.dll
+C:\dev\CSharpzada\LINQ\OperadoresQuantificacao\obj\Debug\net8.0\OperadoresQuantificacao.pdb
+C:\dev\CSharpzada\LINQ\OperadoresQuantificacao\obj\Debug\net8.0\OperadoresQuantificacao.genruntimeconfig.cache
+C:\dev\CSharpzada\LINQ\OperadoresQuantificacao\obj\Debug\net8.0\ref\OperadoresQuantificacao.dll

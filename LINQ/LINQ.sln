@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Agregacao1", "Agregacao1\Ag
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Agregacao2", "Agregacao2\Agregacao2.csproj", "{7AD28388-3639-44BB-AF53-D40C7E8CB010}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperadoresQuantificacao", "OperadoresQuantificacao\OperadoresQuantificacao.csproj", "{131579E3-0D6E-4655-A042-8C399232C369}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{7AD28388-3639-44BB-AF53-D40C7E8CB010}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7AD28388-3639-44BB-AF53-D40C7E8CB010}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7AD28388-3639-44BB-AF53-D40C7E8CB010}.Release|Any CPU.Build.0 = Release|Any CPU
+		{131579E3-0D6E-4655-A042-8C399232C369}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{131579E3-0D6E-4655-A042-8C399232C369}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{131579E3-0D6E-4655-A042-8C399232C369}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{131579E3-0D6E-4655-A042-8C399232C369}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
