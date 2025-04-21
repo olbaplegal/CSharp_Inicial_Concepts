@@ -1,0 +1,15 @@
+C:\dev\CSharpzada\LINQ\OperadoresAgrupamento\bin\Debug\net8.0\OperadoresAgrupamento.exe
+C:\dev\CSharpzada\LINQ\OperadoresAgrupamento\bin\Debug\net8.0\OperadoresAgrupamento.deps.json
+C:\dev\CSharpzada\LINQ\OperadoresAgrupamento\bin\Debug\net8.0\OperadoresAgrupamento.runtimeconfig.json
+C:\dev\CSharpzada\LINQ\OperadoresAgrupamento\bin\Debug\net8.0\OperadoresAgrupamento.dll
+C:\dev\CSharpzada\LINQ\OperadoresAgrupamento\bin\Debug\net8.0\OperadoresAgrupamento.pdb
+C:\dev\CSharpzada\LINQ\OperadoresAgrupamento\obj\Debug\net8.0\OperadoresAgrupamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\CSharpzada\LINQ\OperadoresAgrupamento\obj\Debug\net8.0\OperadoresAgrupamento.AssemblyInfoInputs.cache
+C:\dev\CSharpzada\LINQ\OperadoresAgrupamento\obj\Debug\net8.0\OperadoresAgrupamento.AssemblyInfo.cs
+C:\dev\CSharpzada\LINQ\OperadoresAgrupamento\obj\Debug\net8.0\OperadoresAgrupamento.csproj.CoreCompileInputs.cache
+C:\dev\CSharpzada\LINQ\OperadoresAgrupamento\obj\Debug\net8.0\OperadoresAgrupamento.sourcelink.json
+C:\dev\CSharpzada\LINQ\OperadoresAgrupamento\obj\Debug\net8.0\OperadoresAgrupamento.dll
+C:\dev\CSharpzada\LINQ\OperadoresAgrupamento\obj\Debug\net8.0\refint\OperadoresAgrupamento.dll
+C:\dev\CSharpzada\LINQ\OperadoresAgrupamento\obj\Debug\net8.0\OperadoresAgrupamento.pdb
+C:\dev\CSharpzada\LINQ\OperadoresAgrupamento\obj\Debug\net8.0\OperadoresAgrupamento.genruntimeconfig.cache
+C:\dev\CSharpzada\LINQ\OperadoresAgrupamento\obj\Debug\net8.0\ref\OperadoresAgrupamento.dll
