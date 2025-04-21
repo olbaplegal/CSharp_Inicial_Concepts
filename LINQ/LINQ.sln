@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperadoresElemento1", "Oper
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperadoresElementos2", "OperadoresElementos2\OperadoresElementos2.csproj", "{3C874A51-50A6-40B1-9496-FEE371F5DA65}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperadoresParticionamento", "OperadoresParticionamento\OperadoresParticionamento.csproj", "{E6471501-141C-4DD7-BAC2-953B74058A18}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{3C874A51-50A6-40B1-9496-FEE371F5DA65}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3C874A51-50A6-40B1-9496-FEE371F5DA65}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3C874A51-50A6-40B1-9496-FEE371F5DA65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6471501-141C-4DD7-BAC2-953B74058A18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6471501-141C-4DD7-BAC2-953B74058A18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6471501-141C-4DD7-BAC2-953B74058A18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6471501-141C-4DD7-BAC2-953B74058A18}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
