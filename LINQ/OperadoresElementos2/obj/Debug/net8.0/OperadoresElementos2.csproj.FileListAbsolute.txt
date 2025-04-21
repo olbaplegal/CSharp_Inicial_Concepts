@@ -1,0 +1,15 @@
+C:\dev\CSharpzada\LINQ\OperadoresElementos2\bin\Debug\net8.0\OperadoresElementos2.exe
+C:\dev\CSharpzada\LINQ\OperadoresElementos2\bin\Debug\net8.0\OperadoresElementos2.deps.json
+C:\dev\CSharpzada\LINQ\OperadoresElementos2\bin\Debug\net8.0\OperadoresElementos2.runtimeconfig.json
+C:\dev\CSharpzada\LINQ\OperadoresElementos2\bin\Debug\net8.0\OperadoresElementos2.dll
+C:\dev\CSharpzada\LINQ\OperadoresElementos2\bin\Debug\net8.0\OperadoresElementos2.pdb
+C:\dev\CSharpzada\LINQ\OperadoresElementos2\obj\Debug\net8.0\OperadoresElementos2.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\CSharpzada\LINQ\OperadoresElementos2\obj\Debug\net8.0\OperadoresElementos2.AssemblyInfoInputs.cache
+C:\dev\CSharpzada\LINQ\OperadoresElementos2\obj\Debug\net8.0\OperadoresElementos2.AssemblyInfo.cs
+C:\dev\CSharpzada\LINQ\OperadoresElementos2\obj\Debug\net8.0\OperadoresElementos2.csproj.CoreCompileInputs.cache
+C:\dev\CSharpzada\LINQ\OperadoresElementos2\obj\Debug\net8.0\OperadoresElementos2.sourcelink.json
+C:\dev\CSharpzada\LINQ\OperadoresElementos2\obj\Debug\net8.0\OperadoresElementos2.dll
+C:\dev\CSharpzada\LINQ\OperadoresElementos2\obj\Debug\net8.0\refint\OperadoresElementos2.dll
+C:\dev\CSharpzada\LINQ\OperadoresElementos2\obj\Debug\net8.0\OperadoresElementos2.pdb
+C:\dev\CSharpzada\LINQ\OperadoresElementos2\obj\Debug\net8.0\OperadoresElementos2.genruntimeconfig.cache
+C:\dev\CSharpzada\LINQ\OperadoresElementos2\obj\Debug\net8.0\ref\OperadoresElementos2.dll
